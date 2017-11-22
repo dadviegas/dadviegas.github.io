@@ -1,0 +1,26 @@
+{
+  "name": "dadviegas.github.io",
+  "version": "0.0.0",
+  "description": "Personal",
+  "main": "index.js",
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  },
+  "scripts": {
+    "deploy": "node ./deploy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadviegas/dadviegas.github.io.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "dadviegas@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dadviegas/dadviegas.github.io/issues"
+  },
+  "homepage": "https://dadviegas.github.io"
+}

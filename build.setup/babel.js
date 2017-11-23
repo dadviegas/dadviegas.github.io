@@ -4,7 +4,7 @@ import { join } from 'path'
 const webpackConf = {
   module: {
     rules: [{
-      test: /\.js$/,
+      test: /\.(js|jsx)$/,
       exclude: ['node_modules'],
       include: '__define__',
       loader: 'babel-loader'

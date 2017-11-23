@@ -4,7 +4,7 @@ const webpackConf = {
   resolve: {
     modules: ['node_modules'],
     extensions: ['.jsx', '.js', '.json'],
-    mainFields: ['web', 'browser', 'module', 'jsnext:main', 'style', 'main']
+    // mainFields: ['web', 'browser', 'module', 'jsnext:main', 'style', 'main']
   }
 }
 

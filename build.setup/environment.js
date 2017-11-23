@@ -27,9 +27,6 @@ use(setting(provideConf, (options, setup) => {
 
   if (isDevelopment) {
     pluginsList.push(new webpack.optimize.ModuleConcatenationPlugin())
-  }
-
-  if (isDevelopment) {
     pluginsList.push(new webpack.NamedModulesPlugin())
   }
 

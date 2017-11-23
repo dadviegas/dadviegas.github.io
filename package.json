@@ -3,12 +3,17 @@
   "version": "0.0.0",
   "description": "Personal",
   "main": "index.js",
-  "devDependencies": {
-    "gh-pages": "^1.1.0"
-  },
   "scripts": {
-    "deploy": "node ./deploy.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "babel -d build/ src/",
+    "build:development": "cross-env NODE_ENV=development webpack",
+    "build": "cross-env NODE_ENV=production webpack",
+    "start": "cross-env NODE_ENV=development webpack-dev-server --hot --inline",
+    "http-server": "http-server ./dist"
+  },
+  "devDependencies": {
+    "favicons-webpack-plugin": "0.0.7",
+    "mblock-react": "^1.0.5",
+    "mblock-webpack": "^1.0.5"
   },
   "repository": {
     "type": "git",
@@ -22,5 +27,14 @@
   "bugs": {
     "url": "https://github.com/dadviegas/dadviegas.github.io/issues"
   },
-  "homepage": "https://dadviegas.github.io"
+  "babel": {
+    "presets": [
+      "env",
+      "stage-0"
+    ]
+  },
+  "dependencies": {
+    "antd": "^2.13.10",
+    "babel-plugin-import": "^1.6.2"
+  }
 }

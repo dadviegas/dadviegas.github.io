@@ -9,6 +9,8 @@ import routes from './Routes';
 import Root from './Root';
 import configureStore from './redux/configureStore';
 
+import '../style/general.scss'
+
 let initialState = {};
 
 const hashHistory = createHistory();

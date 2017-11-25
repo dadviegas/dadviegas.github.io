@@ -1,9 +1,6 @@
 @charset "UTF-8";
 @import "./variables";
 
-@import "~antd/dist/antd.css";   // import official less entry file
-@import "./theme.scss";   // override variables here
-
 .mermaid {
   margin: auto;
   justify-content: center;

@@ -1,0 +1,22 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dadviegas@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "clean": "rm -rf dist coverage",
+    "tsc-watch": "tsc -w",
+    "tsc": "tsc",
+    "test": "jest",
+    "test1": "jest --init",
+    "lint": "eslint . --ext .ts",
+    "build-tsc": "yarn clean && yarn tsc",
+    "build": "yarn clean && webpack",
+    "serve": "webpack serve"
+  },
+  "dependencies": {
+    "web-builder": "1.0.0"
+  }
+}

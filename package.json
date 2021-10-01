@@ -1,0 +1,26 @@
+{
+  "name": "web-flow",
+  "version": "1.0.0",
+  "description": "test and try ",
+  "author": "David Viegas <dadviegas@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "lerna run build --stream",
+    "test": "lerna run test --stream",
+    "lint": "lerna run lint --stream",
+    "serve": "lerna run serve --stream",
+    "clean": "lerna run clean --stream"
+  },
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "engines": {
+    "node": "=14.17.1"
+  },
+  "workspaces": [
+    "packages/*",
+    "ecosystem/*",
+    "app/*"
+  ]
+}

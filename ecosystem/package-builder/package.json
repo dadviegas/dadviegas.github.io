@@ -1,0 +1,11 @@
+{
+  "name": "package-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dadviegas@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "webpack-typescript-build": "1.0.0"
+  }
+}

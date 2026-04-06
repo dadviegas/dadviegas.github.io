@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_mdpad=self.webpackChunk_atlantis_mdpad||[]).push([[7256],{27256(e,a,t){t.d(a,{createArchitectureServices:()=>s.S});var s=t(85796);t(26683)}}]);

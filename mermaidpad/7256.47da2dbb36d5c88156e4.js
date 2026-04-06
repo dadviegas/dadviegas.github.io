@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_mermaidpad=self.webpackChunk_atlantis_mermaidpad||[]).push([[7256],{7256(e,a,t){t.d(a,{createArchitectureServices:()=>r.S});var r=t(5796);t(6683)}}]);

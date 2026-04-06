@@ -1,0 +1,10 @@
+"use strict";(self.webpackChunk_atlantis_markdown=self.webpackChunk_atlantis_markdown||[]).push([[188],{20188(e,n,t){var o=t(27359),i=t(58997),a=t(3188),l=t(35688),r=t(31509),s=t(14231),c=t(53233),d=t(65723);const h=s;function f(e,n){for(const t of e){if(t.id===n)return t;if(t.children){const e=f(t.children,n);if(e)return e}}}function u(e){return e.flatMap(e=>e.children?u(e.children):e.file?[e]:[])}function w(e,n){const t=e.match(/^#\/docs\/(.+)$/);if(t)return f(n,t[1])}const g=c.default.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: ${a.w4.colors.mainTextMuted};
+  font-family: ${a.w4.typography.fontFamily};
+  font-size: ${a.w4.typography.fontSizeMd};
+`;function m({topBarRight:e}){const n=(0,o.useMemo)(()=>u(h.entries),[]),[t,i]=(0,o.useState)(()=>w(window.location.hash,h.entries)??n[0]??null);(0,o.useEffect)(()=>{const e=()=>{const e=w(window.location.hash,h.entries);e&&i(e)};return window.addEventListener("hashchange",e),()=>window.removeEventListener("hashchange",e)},[]),(0,o.useEffect)(()=>{t&&!window.location.hash.includes("/blog/")&&(window.location.hash=`#/blog/${t.id}`)},[]);const s=(0,o.useCallback)(e=>{e.file&&(i(e),window.location.hash=`#/blog/${e.id}`)},[]),c=n.findIndex(e=>e.id===t?.id),f=c>0?n[c-1]:null,m=c<n.length-1?n[c+1]:null,p=t?.label??t?.name??"Atlantis";return(0,d.jsx)(a.PE,{title:p,activeId:t?.id??null,topBarRight:e,sidebar:(0,d.jsx)(l.B,{config:h,activeId:t?.id??null,onSelect:s}),children:t?.file?(0,d.jsx)(r.G,{file:t.file,prevEntry:f,nextEntry:m,onNavigate:s}):(0,d.jsx)(g,{children:"Select a page from the sidebar"})})}const p=document.getElementById("root");if(!p)throw new Error("Root element #root not found");(0,i.H)(p).render((0,d.jsx)(m,{}))},58997(e,n,t){var o=t(48991);n.H=o.createRoot,o.hydrateRoot}}]);
+//# sourceMappingURL=188.b9c5aefe8c8b960b4e03.js.map

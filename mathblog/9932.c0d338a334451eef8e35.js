@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_atlantis_mathblog=self.webpackChunk_atlantis_mathblog||[]).push([[9932],{69932(n,a,t){function l(){return l=Object.assign?Object.assign.bind():function(n){for(var a=1;a<arguments.length;a++){var t=arguments[a];for(var l in t)({}).hasOwnProperty.call(t,l)&&(n[l]=t[l])}return n},l.apply(null,arguments)}t.d(a,{A:()=>l})}}]);
+//# sourceMappingURL=9932.c0d338a334451eef8e35.js.map

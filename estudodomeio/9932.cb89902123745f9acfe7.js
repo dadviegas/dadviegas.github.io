@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_atlantis_estudodomeio=self.webpackChunk_atlantis_estudodomeio||[]).push([[9932],{69932(n,t,e){function a(){return a=Object.assign?Object.assign.bind():function(n){for(var t=1;t<arguments.length;t++){var e=arguments[t];for(var a in e)({}).hasOwnProperty.call(e,a)&&(n[a]=e[a])}return n},a.apply(null,arguments)}e.d(t,{A:()=>a})}}]);
+//# sourceMappingURL=9932.cb89902123745f9acfe7.js.map

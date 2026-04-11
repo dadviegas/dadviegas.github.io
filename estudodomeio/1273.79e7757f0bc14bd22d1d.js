@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_estudodomeio=self.webpackChunk_atlantis_estudodomeio||[]).push([[1273],{71273(e,s,a){a.d(s,{createWardleyServices:()=>t.J});var t=a(40965);a(26683)}}]);

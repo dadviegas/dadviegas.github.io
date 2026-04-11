@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_portugues=self.webpackChunk_atlantis_portugues||[]).push([[7256],{27256(e,t,s){s.d(t,{createArchitectureServices:()=>u.S});var u=s(85796);s(26683)}}]);

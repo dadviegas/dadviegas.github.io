@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_atlantis_estudodomeio=self.webpackChunk_atlantis_estudodomeio||[]).push([[6036],{46036(e,a,o){o.r(a),o.d(a,{default:()=>l});var t=o(1312),n=o(73463),u=o(17068),i=o(65723);function l({topBarRight:e}){return(0,i.jsx)(t.WO,{hashPrefix:"estudodomeio",defaultLang:"pt",languages:{pt:{label:"PT",navigation:n},en:{label:"EN",navigation:u}},welcomeTitle:"Estudo do Meio",welcomeSub:"O mundo natural e social do 1.º ao 4.º ano — escolhe um tema no menu.",topBarRight:e})}}}]);
+//# sourceMappingURL=6036.ad614bc4bd3a8cc6c6e2.js.map

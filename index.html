@@ -1,8 +1,26 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Atlantis</title><link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>"/><link rel="manifest" href="manifest.json"/><meta name="theme-color" content="#0d1117"/><meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/><meta name="apple-mobile-web-app-title" content="Atlantis"/><style>*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-      html, body, #root { height: 100%; }
-      body { background: #0d1117; }
+<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/><title>Atlantis</title><link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>"/><link rel="manifest" href="manifest.json"/><meta name="theme-color" content="#0d1117"/><meta name="mobile-web-app-capable" content="yes"/><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/><meta name="apple-mobile-web-app-title" content="Atlantis"/><style>*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+      html {
+        height: 100%;
+        /* dvh adapts to the visible viewport on iOS/iPadOS (shrinks when browser UI shows) */
+        height: 100dvh;
+        overflow: hidden;
+      }
+      body {
+        height: 100%;
+        overflow: hidden;
+        background: #0d1117;
+        /* Prevent iOS rubber-band scrolling that shifts the whole frame */
+        overscroll-behavior: none;
+        /* Lock body position so the page can't be scrolled out from under the browser chrome */
+        position: fixed;
+        width: 100%;
+      }
+      #root {
+        height: 100%;
+        overflow: hidden;
+      }
       ::-webkit-scrollbar { width: 8px; height: 8px; }
       ::-webkit-scrollbar-track { background: transparent; }
       ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
       ::-webkit-scrollbar-thumb:hover { background: #484f58; }
-      * { scrollbar-width: thin; scrollbar-color: #30363d transparent; }</style><script defer="defer" src="main.ca28785e54a562e5a382.js"></script></head><body><div id="root"></div></body></html>
+      * { scrollbar-width: thin; scrollbar-color: #30363d transparent; }</style><script defer="defer" src="main.8d833e8f1db43925a789.js"></script></head><body><div id="root"></div></body></html>

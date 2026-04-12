@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_atlantis_portugues=self.webpackChunk_atlantis_portugues||[]).push([[6036],{46036(a,e,t){t.r(e),t.d(e,{default:()=>i});var u=t(2161),n=t(73463),o=t(17068),s=t(65723);function i({topBarRight:a}){return(0,s.jsx)(u.WO,{hashPrefix:"portugues",defaultLang:"pt",languages:{pt:{label:"PT",navigation:n},en:{label:"EN",navigation:o}},welcomeTitle:"Português",welcomeSub:"Leitura, escrita e gramática do 1.º ao 4.º ano — escolhe um tema no menu.",topBarRight:a})}}}]);
+//# sourceMappingURL=6036.cb6e2fb4a36d8ccc0779.js.map

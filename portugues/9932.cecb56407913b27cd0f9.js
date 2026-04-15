@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_portugues=self.webpackChunk_atlantis_portugues||[]).push([[9932],{69932(n,t,a){function r(){return r=Object.assign?Object.assign.bind():function(n){for(var t=1;t<arguments.length;t++){var a=arguments[t];for(var r in a)({}).hasOwnProperty.call(a,r)&&(n[r]=a[r])}return n},r.apply(null,arguments)}a.d(t,{A:()=>r})}}]);
-//# sourceMappingURL=9932.cecb56407913b27cd0f9.js.map

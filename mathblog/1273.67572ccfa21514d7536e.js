@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_mathblog=self.webpackChunk_atlantis_mathblog||[]).push([[1273],{71273(a,e,t){t.d(e,{createWardleyServices:()=>s.J});var s=t(40965);t(26683)}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_estudodomeio=self.webpackChunk_atlantis_estudodomeio||[]).push([[7640],{47640(e,s,t){t.d(s,{createInfoServices:()=>a.v});var a=t(50896);t(26683)}}]);

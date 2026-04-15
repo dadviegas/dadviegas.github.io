@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_mdpad=self.webpackChunk_atlantis_mdpad||[]).push([[1273],{71273(a,e,s){s.d(e,{createWardleyServices:()=>t.J});var t=s(40965);s(26683)}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_mathblog=self.webpackChunk_atlantis_mathblog||[]).push([[7256],{27256(e,t,a){a.d(t,{createArchitectureServices:()=>s.S});var s=a(85796);a(26683)}}]);

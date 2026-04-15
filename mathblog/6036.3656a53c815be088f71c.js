@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_mathblog=self.webpackChunk_atlantis_mathblog||[]).push([[6036],{46036(a,e,t){t.r(e),t.d(e,{default:()=>s});var n=t(2161),l=t(73463),o=t(17068),i=t(65723);function s({topBarRight:a}){return(0,i.jsx)(n.WO,{hashPrefix:"math",defaultLang:"pt",languages:{pt:{label:"PT",navigation:l},en:{label:"EN",navigation:o}},welcomeTitle:"Matemática",welcomeSub:"Exercícios e conteúdos do 1.º ao 4.º ano — escolhe um tema no menu.",topBarRight:a})}}}]);
-//# sourceMappingURL=6036.3656a53c815be088f71c.js.map

@@ -64,7 +64,7 @@ $$137 \div 6 = 22 \text{ (resto } 5\text{)}$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. $74 \div 3 = \square$ (R: $\square$)
 2. $153 \div 7 = \square$ (R: $\square$)

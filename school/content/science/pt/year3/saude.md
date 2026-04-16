@@ -60,7 +60,7 @@ Os primeiros socorros são as ajudas imediatas que podemos dar antes de chegarem
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Cartaz de prevenção**: faz um cartaz com 5 regras para evitar as constipações no inverno.
 2. **O meu boletim de vacinas**: pede aos teus pais para veres o teu boletim de vacinas. Quais já tomaste?

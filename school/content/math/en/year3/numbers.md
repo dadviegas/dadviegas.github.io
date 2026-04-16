@@ -38,7 +38,7 @@ $$830 > 389 \quad \text{(8 hundreds} > \text{3 hundreds)}$$
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. Decompose: $638 = \square \text{ h} + \square \text{ t} + \square \text{ o}$
 2. Compose: $400 + 70 + 3 = \square$

@@ -67,7 +67,7 @@ Top predators (3rd-level consumers)
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Classify 10 animals**: make a table and classify 10 animals as vertebrate or invertebrate, and in the correct class.
 2. **Local food chain**: research and build a food chain using animals that live in Portugal.

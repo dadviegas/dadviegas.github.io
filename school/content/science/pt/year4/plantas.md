@@ -84,7 +84,7 @@ As plantas podem reproduzir-se de duas formas:
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Planta um feijão** num copo com algodão húmido. Observa e regista o crescimento durante 2 semanas.
 2. **Mergulha uma folha** num copo com água ao sol. O que aparece na folha ao fim de alguns minutos?

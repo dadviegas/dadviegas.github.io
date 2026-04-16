@@ -65,7 +65,7 @@ Exercise is essential for a healthy life.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **My healthy plate**: draw a plate and fill it with foods from the different groups of the Food Wheel.
 2. **Water diary**: count how many glasses of water you drink today. Did you reach 6?

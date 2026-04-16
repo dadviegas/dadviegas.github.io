@@ -82,7 +82,7 @@ Words in the same family share the same root:
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Translate into Portuguese**: pencil, teacher, playground, school bag, notebook.
 2. **Colour the sentence correctly**: *O céu é* \_\_\_\_ *(azul/verde). A relva é* \_\_\_\_ *(azul/verde).*

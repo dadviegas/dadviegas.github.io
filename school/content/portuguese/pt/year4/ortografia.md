@@ -128,7 +128,7 @@ O hífen (-) usa-se para:
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 **1.** Classifica as palavras como **agudas, graves ou esdrúxulas** e indica se levam acento: *janela, médico, café, fácil, comer, árvore, também*.
 

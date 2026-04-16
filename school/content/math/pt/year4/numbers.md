@@ -58,7 +58,7 @@ $$347 \approx 300 \qquad 382 \approx 400$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. Qual o valor do algarismo **4** em $540\,263$?
 2. Decompõe: $823\,047 = \square$

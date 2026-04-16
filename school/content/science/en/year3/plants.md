@@ -79,7 +79,7 @@ Many plants are at risk of disappearing!
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Photosynthesis experiment**: place a green leaf in a glass of water in bright sunlight. With a magnifying glass, observe the tiny oxygen bubbles that appear.
 2. **Germinate a seed**: place bean seeds on damp cotton wool. Observe the germination over several days.

@@ -80,7 +80,7 @@ Cada parágrafo deve ter:
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 **1.** Lê este excerto e identifica **uma informação explícita** e **uma informação implícita**:
 > *"A Ana chegou a casa encharcada. Largou a mochila junto à porta e foi direto buscar uma toalha."*

@@ -60,7 +60,7 @@ First aid is the immediate help we can give before medical professionals arrive.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Prevention poster**: make a poster with 5 rules for avoiding colds in winter.
 2. **My vaccination record**: ask your parents if you can look at your vaccination record. Which vaccines have you already had?

@@ -52,7 +52,7 @@ Tomar conta do teu corpo é muito importante para ficares saudável.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Desenha o teu corpo** numa folha grande e escreve o nome de cinco partes.
 2. **Jogo dos sentidos**: coloca objetos diferentes num saco. Mete a mão sem olhar — consegues adivinhar o que é?

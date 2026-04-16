@@ -69,7 +69,7 @@ $$76 + 58 = 134$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 Calcula em coluna:
 

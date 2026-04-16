@@ -82,7 +82,7 @@ Reports a real event factually.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. Read this opening: *Era uma vez um dragão que vivia numa montanha encantada.* Which text type is it? How do you know?
 2. Write three steps for making a cheese sandwich as an instructional text.

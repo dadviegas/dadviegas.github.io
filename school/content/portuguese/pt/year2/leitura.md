@@ -69,7 +69,7 @@ Um texto tem:
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Lê o texto** e responde: *"O Rui foi ao mercado com a avó. Comprou pão, fruta e leite. No regresso, encontrou o seu amigo João."* — Quem foi ao mercado? O que compraram? Com quem estava o Rui?
 2. **Ordena as frases** para formar um texto com início, meio e fim.

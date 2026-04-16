@@ -66,7 +66,7 @@ Os seres humanos passam por várias fases ao longo da vida.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Sente os teus ossos**: toca no pulso, no joelho e na testa — consegues sentir os ossos por baixo da pele?
 2. **Músculos em ação**: dobra o braço e toca no bíceps — sentes o músculo a endurecer?

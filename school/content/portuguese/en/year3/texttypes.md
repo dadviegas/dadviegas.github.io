@@ -75,7 +75,7 @@ An **instructional text** explains how to do something with clear, ordered steps
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Read a short story** and identify: narrator, characters, setting, time, and main event.
 2. **Write a description** of your favourite animal using at least 4 adjectives and 2 senses.

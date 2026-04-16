@@ -80,7 +80,7 @@ Full sentence: *A Marta come uma maçã.* (Marta eats an apple.)
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Underline the adjectives**: *O cão pequeno brinca com a bola vermelha no jardim verde.*
 2. **Fill in the article** (o, a, os, as, um, uma): \_\_ livro / \_\_ meninas / \_\_ cidade / \_\_ cão.

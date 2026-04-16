@@ -67,7 +67,7 @@ Estes sistemas estão ligados entre si:
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Sente o teu coração**: coloca a mão no peito. Quantas vezes bate em 15 segundos? Multiplica por 4 para saberes o valor por minuto.
 2. **Antes e depois do exercício**: conta os batimentos cardíacos em repouso, corre 2 minutos e volta a contar. O que mudou?

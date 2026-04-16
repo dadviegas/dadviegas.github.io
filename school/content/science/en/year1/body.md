@@ -52,7 +52,7 @@ Looking after your body is very important for staying healthy.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Draw your body** on a large sheet of paper and write the names of five body parts.
 2. **Senses game**: place different objects inside a bag. Put your hand in without looking — can you guess what each one is?

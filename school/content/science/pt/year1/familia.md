@@ -54,7 +54,7 @@ Cada pessoa na família tem coisas importantes que faz.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Desenha a tua família**: faz um desenho com todos os membros da tua família. Não te esqueças dos animais de estimação!
 2. **Entrevista familiar**: pergunta a um familiar mais velho como era a escola dele quando era pequeno.

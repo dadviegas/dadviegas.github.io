@@ -59,7 +59,7 @@ $$137 \div 6 = 22 \text{ remainder } 5$$
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. $74 \div 3 = \square$ R $\square$
 2. $153 \div 7 = \square$ R $\square$

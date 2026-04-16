@@ -54,7 +54,7 @@ $$81 - 46 = 35$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. $63 - 28 = \square$
 2. $90 - 45 = \square$

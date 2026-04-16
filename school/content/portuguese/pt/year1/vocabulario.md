@@ -77,7 +77,7 @@ Palavras da mesma família têm a mesma raiz e estão relacionadas em significad
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Escreve 3 palavras** do campo lexical da escola que comecem por letras diferentes.
 2. **Descobre a cor**: O céu é \_\_\_\_. A relva é \_\_\_\_. O sol é \_\_\_\_.

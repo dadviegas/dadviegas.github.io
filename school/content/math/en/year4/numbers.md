@@ -51,7 +51,7 @@ $$347 \approx 300 \qquad 382 \approx 400$$
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. What is the value of digit **4** in $540\,263$?
 2. Expand: $823\,047 = \square$

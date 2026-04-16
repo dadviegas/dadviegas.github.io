@@ -54,7 +54,7 @@ Each person in the family has important things they do.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Draw your family**: make a drawing with all the members of your family. Don't forget any pets!
 2. **Family interview**: ask an older family member what school was like when they were young.

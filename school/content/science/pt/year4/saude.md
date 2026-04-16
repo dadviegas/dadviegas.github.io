@@ -75,7 +75,7 @@ Dormir bem é fundamental para a saúde! As crianças de 9-10 anos precisam de *
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Regista durante 3 dias** o que comes ao pequeno-almoço, almoço e jantar. Quais os grupos da roda dos alimentos que estão presentes?
 2. **Cria um cartaz** com as regras de higiene pessoal mais importantes para uma turma.

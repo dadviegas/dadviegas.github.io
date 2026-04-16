@@ -59,7 +59,7 @@ $$7 - 3 = 4 \quad \Leftrightarrow \quad 4 + 3 = 7$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. $14 - 6 = \square$
 2. $17 - 8 = \square$

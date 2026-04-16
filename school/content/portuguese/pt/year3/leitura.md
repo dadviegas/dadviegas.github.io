@@ -68,7 +68,7 @@ Quando terminares de escrever, verifica:
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Lê um texto curto** e sublinha: a vermelho as personagens, a azul o lugar, a verde o acontecimento principal.
 2. **Faz o resumo** de uma história que conheces em 3 frases (início, meio, fim).

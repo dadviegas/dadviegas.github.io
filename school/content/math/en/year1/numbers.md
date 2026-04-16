@@ -69,7 +69,7 @@ $$20 = 2 \text{ tens} + 0 \text{ ones}$$
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. Order these numbers from smallest to largest: $7, \; 3, \; 15, \; 1, \; 19$
 2. Fill in $<$, $>$ or $=$:

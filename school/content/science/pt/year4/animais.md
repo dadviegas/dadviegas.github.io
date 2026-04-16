@@ -77,7 +77,7 @@ Em Portugal encontramos animais como o **lobo-ibérico**, o **lince-ibérico**, 
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Classifica estes animais** em mamíferos, aves, répteis, anfíbios, peixes ou insetos: golfinho, cegonha, abelha, tritão, sardinha, gecko.
 2. **Constrói uma cadeia alimentar** com 4 elos usando animais que encontras em Portugal.

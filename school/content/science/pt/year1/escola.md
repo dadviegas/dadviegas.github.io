@@ -56,7 +56,7 @@ Muitas pessoas trabalham na escola para que tudo funcione bem.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Mapa da escola**: desenha um mapa da tua escola com os principais espaços e dá um nome a cada um.
 2. **As minhas regras favoritas**: escolhe duas regras da sala e explica com as tuas palavras por que são importantes.

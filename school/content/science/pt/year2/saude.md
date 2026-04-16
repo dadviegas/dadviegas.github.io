@@ -65,7 +65,7 @@ O exercício físico é essencial para uma vida saudável.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **O meu prato saudável**: desenha um prato e divide-o com alimentos dos diferentes grupos da Roda dos Alimentos.
 2. **Diário de água**: conta quantos copos de água bebes hoje. Chegaste aos 6?

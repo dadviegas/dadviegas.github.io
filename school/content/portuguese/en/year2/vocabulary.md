@@ -66,7 +66,7 @@ A **lexical field** is a group of words all related to the same topic.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Find a synonym** for each word: *casa* (house) → \_\_\_\_ / *caminhar* (to walk) → \_\_\_\_.
 2. **Write the antonym**: *triste* (sad) → \_\_\_\_ / *subir* (to go up) → \_\_\_\_ / *limpo* (clean) → \_\_\_\_.

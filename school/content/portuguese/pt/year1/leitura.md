@@ -77,7 +77,7 @@ Exemplos: **Ana**, **Tomás**, **Lisboa**, **Portugal**
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Ordena as letras** do alfabeto e sublinha todas as vogais: E, B, A, O, D, I, U.
 2. **Bate palmas** e conta as sílabas: *borboleta*, *sol*, *janela*, *pé*.

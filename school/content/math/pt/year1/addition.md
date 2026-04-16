@@ -66,7 +66,7 @@ $$9 + 0 = 9$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. $6 + 7 = \square$
 2. $8 + 5 = \square$

@@ -67,7 +67,7 @@ Grandes predadores (consumidores de 3.º nível)
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Classifica 10 animais**: faz uma tabela e classifica 10 animais em vertebrado/invertebrado e na respetiva classe.
 2. **Cadeia alimentar local**: pesquisa e constrói uma cadeia alimentar com animais que existem em Portugal.

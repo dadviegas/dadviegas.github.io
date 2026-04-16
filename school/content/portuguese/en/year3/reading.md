@@ -70,7 +70,7 @@ When you finish writing, check:
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Read a short text** and highlight: characters in red, setting in blue, the main event in green.
 2. **Write a 3-sentence summary** of a story you know well (one sentence for beginning, middle, end).

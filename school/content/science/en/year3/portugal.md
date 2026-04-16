@@ -74,7 +74,7 @@ Portugal's rivers are important for farming, energy and the environment.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Map of Portugal**: draw the map of Portugal and mark the capital, 3 districts and 2 rivers.
 2. **My region**: find out which district you live in and write two interesting facts about it.

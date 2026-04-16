@@ -67,7 +67,7 @@ O **campo lexical** é o conjunto de palavras relacionadas com um mesmo tema.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Encontra o sinónimo**: *casa* → \_\_\_\_ / *caminhar* → \_\_\_\_ / *pequeno* → \_\_\_\_.
 2. **Escreve o antónimo**: *triste* → \_\_\_\_ / *subir* → \_\_\_\_ / *limpo* → \_\_\_\_.

@@ -48,7 +48,7 @@ $$7 - 3 = 4 \quad \Leftrightarrow \quad 4 + 3 = 7$$
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. $14 - 6 = \square$
 2. $17 - 8 = \square$

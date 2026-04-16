@@ -69,7 +69,7 @@ The human **skeleton** has **206 bones** that protect internal organs and give t
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Match each organ to its system:** heart, lungs, stomach, brain, femur, biceps.
 2. **Put digestion in the right order:** large intestine → mouth → stomach → oesophagus → small intestine.

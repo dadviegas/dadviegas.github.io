@@ -52,7 +52,7 @@ $$830 > 389 \quad \text{(8 centenas} > \text{3 centenas)}$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. Decompõe: $638 = \square \text{ c} + \square \text{ d} + \square \text{ u}$
 2. Compõe: $400 + 70 + 3 = \square$

@@ -66,7 +66,7 @@ O **esqueleto** humano tem **206 ossos** que protegem os órgãos internos e dã
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Liga os órgãos ao sistema correto:** coração, pulmões, estômago, cérebro, fémur, bíceps.
 2. **Escreve a ordem certa da digestão:** intestino grosso → boca → estômago → esófago → intestino delgado.

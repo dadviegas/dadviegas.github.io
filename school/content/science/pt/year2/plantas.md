@@ -67,7 +67,7 @@ Podes fazer crescer uma planta em casa!
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Identifica as partes**: olha para uma planta em casa ou na escola e aponta cada parte (raiz, caule, folha, flor ou fruto).
 2. **Semeia um feijão**: segue as instruções acima e faz um diário com desenhos de como a planta cresce.

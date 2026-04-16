@@ -105,7 +105,7 @@ Exemplo: $4 \times 9$ → dobra o 4.º dedo → **3** dedos à esquerda, **6** �
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. $7 \times 8 = \square$
 2. $9 \times 6 = \square$

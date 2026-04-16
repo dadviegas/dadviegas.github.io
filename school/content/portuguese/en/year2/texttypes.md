@@ -68,7 +68,7 @@ An **instructional text** teaches you how to do something, step by step.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Label the parts** of a story: which comes first — *conclusão* (ending), *início* (beginning), or *desenvolvimento* (middle)?
 2. **Write a recipe** for a sandwich using 3 ingredients and 3 steps in Portuguese.

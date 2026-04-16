@@ -66,7 +66,7 @@ Human beings go through different stages in life.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Feel your bones**: touch your wrist, your knee and your forehead — can you feel the bones under your skin?
 2. **Muscles in action**: bend your arm and touch your bicep — can you feel it getting harder?

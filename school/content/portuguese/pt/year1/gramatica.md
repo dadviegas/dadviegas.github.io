@@ -66,7 +66,7 @@ O **singular** fala de uma coisa. O **plural** fala de mais de uma coisa.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Classifica os nomes** como pessoa, animal ou coisa: *borboleta*, *avó*, *cadeira*, *peixe*, *médico*.
 2. **Escreve no feminino**: o lobo → a \_\_\_\_ / o rei → a \_\_\_\_ / o aluno → a \_\_\_\_.

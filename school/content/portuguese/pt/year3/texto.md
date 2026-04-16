@@ -75,7 +75,7 @@ O texto poético usa a linguagem de forma criativa para **expressar emoções e 
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Lê uma história curta** e identifica: narrador, personagens, espaço, tempo e ação principal.
 2. **Escreve uma descrição** do teu animal favorito usando pelo menos 4 adjetivos e 2 sentidos.

@@ -71,7 +71,7 @@ A partir do número 10, temos a **dezena**:
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. Ordena estes números do menor para o maior: 7, 3, 15, 1, 19
 2. Completa com <, > ou =:

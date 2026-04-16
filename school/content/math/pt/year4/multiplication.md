@@ -55,7 +55,7 @@ $$(2 \times 5) \times 7 = 2 \times (5 \times 7) = 70$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. $312 \times 4 = \square$
 2. $56 \times 12 = \square$

@@ -56,7 +56,7 @@ $$\text{sucessor de } 38 = 39$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. Escreve o valor posicional: o número $85$ = $\square$ dezenas + $\square$ unidades
 2. Ordena do maior para o menor: $72,\; 27,\; 55,\; 9,\; 100$

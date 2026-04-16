@@ -81,7 +81,7 @@ Portugal mainly has a **Mediterranean climate** with Atlantic influence:
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **On a map of Portugal**, identify the regions and mark the main mountain ranges and rivers.
 2. **Rank these rivers from longest to shortest** in Portugal: Tagus, Douro, Mondego, Minho.

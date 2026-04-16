@@ -80,7 +80,7 @@ Portugal is home to animals such as the **Iberian wolf**, the **Iberian lynx**, 
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Classify these animals** as mammals, birds, reptiles, amphibians, fish or insects: dolphin, stork, bee, newt, sardine, gecko.
 2. **Build a food chain** with 4 links using animals found in Portugal.

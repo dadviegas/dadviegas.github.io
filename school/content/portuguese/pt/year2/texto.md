@@ -67,7 +67,7 @@ Um **poema** usa a linguagem de forma especial, com ritmo e, muitas vezes, rima.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Ordena as partes** da história: *conclusão*, *início*, *desenvolvimento* — qual a ordem correta?
 2. **Escreve uma receita** de uma sandes com 3 ingredientes e 3 passos.

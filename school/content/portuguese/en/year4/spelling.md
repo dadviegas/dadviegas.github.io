@@ -74,7 +74,7 @@ Used in compound words and with certain prefixes:
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. Add the correct accent: *arvore*, *facil*, *cafe*, *avó*, *mao*.
 2. Fill in the gap with *ç*, *ss*, or *c*: *a\_\_úcar*, *pa\_\_o*, *\_\_idade*, *cora\_\_ão*.

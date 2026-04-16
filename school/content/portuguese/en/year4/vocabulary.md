@@ -79,7 +79,7 @@ Words that belong to the same **topic or theme**.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. Write two synonyms for *pequeno* and two antonyms for *rápido*.
 2. Give two meanings for the word *pena*.

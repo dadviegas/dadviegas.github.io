@@ -76,7 +76,7 @@ Toda a frase tem **sujeito** e **predicado**.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Sublinha os adjetivos**: *O cão pequeno brinca com a bola vermelha no jardim verde.*
 2. **Completa com o artigo correto** (o, a, os, as, um, uma): \_\_ livro / \_\_ meninas / \_\_ cidade / \_\_ cão.

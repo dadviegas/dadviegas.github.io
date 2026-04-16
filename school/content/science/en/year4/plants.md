@@ -84,7 +84,7 @@ Plants can reproduce in two ways:
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Plant a bean** in a cup with damp cotton wool. Observe and record its growth over 2 weeks.
 2. **Place a leaf** in a glass of water in direct sunlight. What appears on the leaf after a few minutes?

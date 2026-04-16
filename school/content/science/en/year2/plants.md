@@ -67,7 +67,7 @@ You can grow your own plant at home!
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Identify the parts**: look at a plant at home or at school and point to each part (root, stem, leaf, flower or fruit).
 2. **Grow a bean**: follow the steps above and keep a diary with drawings showing how the plant grows each day.

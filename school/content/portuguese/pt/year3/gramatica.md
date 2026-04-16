@@ -85,7 +85,7 @@ Os pronomes pessoais **substituem** o nome para não repetir.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Classifica as palavras** sublinhadas: *A **menina** **bonita** **corre** **rapidamente**.*
 2. **Escreve frases comparativas**: compara um elefante e um rato (tamanho, velocidade).

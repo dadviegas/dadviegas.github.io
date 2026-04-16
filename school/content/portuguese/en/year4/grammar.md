@@ -88,7 +88,7 @@ Used for completed actions in the past.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. Identify the word class of each underlined word: *O **menino** **correu** **rapidamente** pela **rua**.*
 2. Put the adjective in the correct form: *As flores são \_\_\_ (bonito).*

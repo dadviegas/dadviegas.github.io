@@ -48,7 +48,7 @@ $$n \div n = 1 \qquad \text{(qualquer número dividido por si mesmo é 1)}$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. $48 \div 6 = \square$
 2. $72 \div 9 = \square$

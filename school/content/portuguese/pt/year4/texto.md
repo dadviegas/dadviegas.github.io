@@ -105,7 +105,7 @@ Informa sobre um **acontecimento real e recente**.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 **1.** Lê este excerto e identifica o tipo de texto, justificando com duas características:
 > *"Bate as claras em castelo. Adiciona o açúcar aos poucos, sem parar de bater."*

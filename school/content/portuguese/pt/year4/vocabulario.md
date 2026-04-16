@@ -107,7 +107,7 @@ O **campo lexical** é o conjunto de palavras relacionadas com um **tema ou assu
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 **1.** Encontra **dois sinónimos** e **um antónimo** para cada palavra: *alegre*, *pequeno*, *falar*.
 

@@ -81,7 +81,7 @@ Portugal tem essencialmente um **clima mediterrânico** com influência atlânti
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Num mapa de Portugal**, identifica as regiões, as principais serras e os rios mais importantes.
 2. **Ordena do maior para o menor:** Rio Tejo, Rio Douro, Rio Mondego, Rio Minho.

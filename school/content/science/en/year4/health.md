@@ -75,7 +75,7 @@ Getting enough sleep is vital for health! Children aged 9–10 need **9 to 11 ho
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Record for 3 days** what you eat at breakfast, lunch and dinner. Which food groups from the food wheel are represented?
 2. **Create a poster** with the most important personal hygiene rules for your classroom.

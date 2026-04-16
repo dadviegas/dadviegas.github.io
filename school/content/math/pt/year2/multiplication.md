@@ -75,7 +75,7 @@ $$4 \times 5 = 5 \times 4 = 20$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. $7 \times 2 = \square$
 2. $6 \times 5 = \square$

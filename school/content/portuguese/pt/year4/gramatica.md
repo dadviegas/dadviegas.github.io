@@ -89,7 +89,7 @@ As orações numa frase complexa podem ser ligadas por **conjunções** como: *e
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 **1.** Classifica as palavras sublinhadas: *"A **menina** **bonita** **correu** **rapidamente** pelo jardim."*
 

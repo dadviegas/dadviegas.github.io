@@ -81,7 +81,7 @@ O **campo semântico** refere-se aos diferentes significados que uma mesma palav
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Substitui a palavra repetida** por um sinónimo: *O menino é muito feliz. O menino ri sempre. O menino brinca com todos.*
 2. **Forma o antónimo** com prefixo: *real* → \_\_\_\_ / *legal* → \_\_\_\_ / *apareceu* → \_\_\_\_.

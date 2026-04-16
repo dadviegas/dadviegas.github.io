@@ -88,7 +88,7 @@ O som /s/ pode ser escrito de várias formas. Eis as regras:
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Coloca o acento correto** nas palavras: *arvore*, *cafe*, *avo*, *musica*, *facil*.
 2. **Completa com lh, nh ou ch**: *fo\_\_a*, *ni\_\_o*, *\_\_ave*, *cora\_\_ão*, *cari\_\_o*.

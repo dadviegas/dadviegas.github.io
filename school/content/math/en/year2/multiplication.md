@@ -66,7 +66,7 @@ $$3 + 3 + 3 + 3 = 4 \times 3 = 12$$
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. $7 \times 2 = \square$
 2. $6 \times 5 = \square$

@@ -68,7 +68,7 @@ Every Portuguese noun is either **masculine** (masculino) or **feminine** (femin
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Sort these words** into person, animal, or thing: *borboleta* (butterfly), *avó* (grandmother), *cadeira* (chair), *peixe* (fish), *médico* (doctor).
 2. **Write the feminine**: *o lobo* (wolf) → *a* \_\_\_\_ / *o aluno* (pupil, m.) → *a* \_\_\_\_.

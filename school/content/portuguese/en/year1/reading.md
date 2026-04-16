@@ -79,7 +79,7 @@ In Portuguese, proper names always start with a **capital letter**.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Find the vowels**: circle A, E, I, O, U in this word — *borboleta* (butterfly).
 2. **Clap and count** the syllables: *sol*, *janela*, *pé*, *borboleta*.

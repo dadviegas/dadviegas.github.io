@@ -76,7 +76,7 @@ Another example:
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. $4.7 + 2.8 = \square$
 2. $9.3 - 5.6 = \square$

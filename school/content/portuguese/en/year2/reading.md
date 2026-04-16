@@ -73,7 +73,7 @@ A well-structured text has three parts:
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Read and answer**: *"O Rui foi ao mercado com a avó. Comprou pão, fruta e leite."* — Who went to the market? What did they buy? Who went with Rui?
 2. **Put the sentences in order** to make a story with a beginning, middle, and end.

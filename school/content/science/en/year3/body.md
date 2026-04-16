@@ -67,7 +67,7 @@ These systems are all connected:
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Feel your heartbeat**: place your hand on your chest. How many times does it beat in 15 seconds? Multiply by 4 to find your rate per minute.
 2. **Before and after exercise**: count your heartbeats at rest, run for 2 minutes, then count again. What changed?

@@ -66,7 +66,7 @@ O lugar onde um animal vive chama-se **habitat**.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Classifica os animais**: faz uma tabela com 5 animais e indica se são domésticos ou selvagens, o que comem e como nascem.
 2. **Habitats em Portugal**: descobre que animais selvagens vivem perto da tua cidade ou vila.

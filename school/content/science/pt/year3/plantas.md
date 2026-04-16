@@ -79,7 +79,7 @@ Muitas plantas estão em risco de desaparecer!
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Experiência de fotossíntese**: coloca uma folha verde num copo com água ao sol. Com uma lupa, observa as bolhinhas de oxigénio que aparecem.
 2. **Germina uma semente**: coloca sementes de feijão num algodão húmido. Observa a germinação ao longo de dias.

@@ -56,7 +56,7 @@ Many people work at school to keep everything running smoothly.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **School map**: draw a map of your school with the main spaces labelled.
 2. **My favourite rules**: choose two classroom rules and explain in your own words why they are important.

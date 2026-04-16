@@ -63,7 +63,7 @@ $$\frac{3}{8} < \frac{5}{8} \qquad \text{(3 partes é menos que 5 partes)}$$
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. $\dfrac{1}{4}$ de $16 = \square$
 2. $\dfrac{2}{3}$ de $18 = \square$

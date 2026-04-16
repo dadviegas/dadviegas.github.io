@@ -92,7 +92,7 @@ The /s/ sound can be spelled several different ways in Portuguese. Here are the 
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Add the correct accent**: *arvore*, *cafe*, *avo*, *musica*, *facil* — which accent does each need?
 2. **Fill in the digraph** (*lh*, *nh*, or *ch*): *fo\_\_a*, *ni\_\_o*, *\_\_ave*, *cora\_\_ão*, *cari\_\_o*.

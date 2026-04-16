@@ -80,7 +80,7 @@ Each paragraph should contain:
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 **1.** Read the excerpt and identify **one piece of explicit information** and **one piece of implicit information**:
 > *"Ana arrived home soaking wet. She dropped her bag by the door and went straight to find a towel."*

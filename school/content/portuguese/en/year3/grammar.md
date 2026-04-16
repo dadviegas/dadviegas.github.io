@@ -86,7 +86,7 @@ Used for **habitual or ongoing actions in the past** — like "used to" or "was 
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Identify the word class** of each underlined word: *A **menina** **bonita** **corre** **rapidamente**.*
 2. **Write comparative sentences**: compare an elephant and a mouse (size, speed) using *mais…do que* and *menos…do que*.

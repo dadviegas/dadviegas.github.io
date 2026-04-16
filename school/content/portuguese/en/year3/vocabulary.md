@@ -79,7 +79,7 @@ A single word can have several different meanings. This is called **polysemy** (
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Replace the repeated word** with a synonym: *O menino é muito feliz. O menino ri sempre. O menino brinca com todos.*
 2. **Form the antonym** with a prefix: *real* → \_\_\_\_ / *legal* → \_\_\_\_ / *apareceu* → \_\_\_\_.

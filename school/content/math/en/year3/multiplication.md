@@ -105,7 +105,7 @@ Example: $4 \times 9$ → fold 4th finger → **3** fingers left, **6** right �
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. $7 \times 8 = \square$
 2. $9 \times 6 = \square$

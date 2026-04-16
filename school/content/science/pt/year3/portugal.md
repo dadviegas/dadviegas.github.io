@@ -74,7 +74,7 @@ Os rios de Portugal são importantes para a agricultura, a energia e o ambiente.
 
 ---
 
-## Experimenta! 🎯
+## Experimenta!
 
 1. **Mapa de Portugal**: desenha o mapa de Portugal e assinala a capital, 3 distritos e 2 rios.
 2. **A minha região**: descobre em que distrito vives e escreve dois factos interessantes sobre ele.

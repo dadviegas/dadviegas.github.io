@@ -66,7 +66,7 @@ The place where an animal lives is called its **habitat**.
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. **Classify the animals**: make a table with 5 animals and say whether they are domestic or wild, what they eat and how they are born.
 2. **Local habitats**: find out which wild animals live near your town or village.

@@ -43,7 +43,7 @@ $$67 > 63 \quad \text{(7 ones} > \text{3 ones)}$$
 
 ---
 
-## Try it! 🎯
+## Try it!
 
 1. Write the place value: $85 = \square \text{ tens} + \square \text{ ones}$
 2. Order from largest to smallest: $72,\; 27,\; 55,\; 9,\; 100$

@@ -10,15 +10,10 @@ Have you ever been lost? Knowing how to find your direction is a really useful s
 
 There are **4 main cardinal points** that help us find direction:
 
-```
-           NORTH (N)
-               ⬆️
-               |
-WEST (W) ⬅️ ---+--- ➡️ EAST (E)
-               |
-               ⬇️
-           SOUTH (S)
-```
+|  | **NORTH (N)** |  |
+|---|---|---|
+| **WEST (W)** | **+** | **EAST (E)** |
+|  | **SOUTH (S)** |  |
 
 > [!TIP]
 > An easy way to remember the order: **"Never Eat Sour Worms"** → **N**orth, **E**ast, **S**outh, **W**est! 😄 Go clockwise around the compass!
@@ -54,15 +49,11 @@ At night, the **Pole Star** (Polaris) always indicates North. It stays in the sa
 
 The compass rose shows all the directions of orientation:
 
-```
-        N
-        ⬆️
-   NW ↖️  ↗️ NE
-        +
-   SW ↙️  ↘️ SE
-        ⬇️
-        S
-```
+|  | **N** |  |
+|---|---|---|
+| **NW** | **🧭** | **NE** |
+| **SW** | | **SE** |
+|  | **S** |  |
 
 | Abbreviation | Full name |
 |-------------|-----------|

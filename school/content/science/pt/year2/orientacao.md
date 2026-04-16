@@ -8,15 +8,10 @@ Saber onde estamos e para onde vamos é muito importante! A orientação ajuda-n
 
 Existem **4 pontos cardeais** principais que nos ajudam a orientar:
 
-```
-           NORTE (N)
-               ⬆️
-               |
-OESTE (O) ⬅️ ---+--- ➡️ ESTE (E)
-               |
-               ⬇️
-           SUL (S)
-```
+|  | **NORTE (N)** |  |
+|---|---|---|
+| **OESTE (O)** | **+** | **ESTE (E)** |
+|  | **SUL (S)** |  |
 
 > [!TIP]
 > Uma forma fácil de memorizar: **"Never Eat Sour Worms"** → **N**orte, **E**ste, **S**ul, **O**este! Em português: **"Nós Estudamos Sempre Ontem"** 😄
@@ -52,15 +47,11 @@ A bússola tem uma agulha magnética que aponta sempre para o **Norte**. É o in
 
 A rosa dos ventos é um símbolo que mostra todos os pontos de orientação!
 
-```
-        N
-        ⬆️
-   NO  ↖️  ↗️  NE
-        +
-   SO  ↙️  ↘️  SE
-        ⬇️
-        S
-```
+|  | **N** |  |
+|---|---|---|
+| **NO** | **🧭** | **NE** |
+| **SO** | | **SE** |
+|  | **S** |  |
 
 | Abreviatura | Nome completo |
 |-------------|--------------|

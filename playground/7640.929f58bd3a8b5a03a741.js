@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_playground=self.webpackChunk_atlantis_playground||[]).push([[7640],{7640(a,e,s){s.d(e,{createInfoServices:()=>n.v});var n=s(896);s(6683)}}]);

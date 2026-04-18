@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_daily=self.webpackChunk_atlantis_daily||[]).push([[5908],{5908(a,e,s){s.d(e,{createPacketServices:()=>t.$});var t=s(6923);s(6683)}}]);

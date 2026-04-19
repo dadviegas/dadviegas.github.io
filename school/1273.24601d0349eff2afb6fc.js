@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_school=self.webpackChunk_atlantis_school||[]).push([[1273],{71273(e,s,a){a.d(s,{createWardleyServices:()=>c.J});var c=a(40965);a(26683)}}]);

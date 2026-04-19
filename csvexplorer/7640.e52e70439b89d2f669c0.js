@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_csvexplorer=self.webpackChunk_atlantis_csvexplorer||[]).push([[7640],{7640(e,s,a){a.d(s,{createInfoServices:()=>r.v});var r=a(896);a(6683)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_games=self.webpackChunk_atlantis_games||[]).push([[5908],{5908(e,a,s){s.d(a,{createPacketServices:()=>t.$});var t=s(6923);s(6683)}}]);

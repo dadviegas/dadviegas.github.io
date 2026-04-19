@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_ask=self.webpackChunk_atlantis_ask||[]).push([[7640],{47640(a,s,e){e.d(s,{createInfoServices:()=>t.v});var t=e(50896);e(26683)}}]);

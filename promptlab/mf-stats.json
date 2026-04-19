@@ -122,7 +122,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -132,6 +134,7 @@
       "id": "promptlab:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled",
         "@emotion/react"
       ],
@@ -140,7 +143,7 @@
         "js": {
           "sync": [
             "942.1d31c07c0fdd81d5.js",
-            "871.58564804256c667f.js",
+            "871.e20ed12c8797c1c8.js",
             "__federation_expose_App.2ddcf6b6d1ba18f2.js"
           ],
           "async": [

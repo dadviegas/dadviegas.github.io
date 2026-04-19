@@ -118,11 +118,12 @@
         "js": {
           "sync": [
             "33.63abd58f54f92bb2.js",
-            "2699.6c3e6e4c63e67a43.js",
-            "__federation_expose_App.50b5d15674c1c9ef.js"
+            "2699.00f3cf02a256e2e1.js",
+            "__federation_expose_App.7797795d1a066cec.js"
           ],
           "async": [
             "5336.fe9c37a573b5de4f.js",
+            "4253.8e0b46bfe75629c7.js",
             "214.19830daf5ff461f2.js",
             "6555.55f6f594132a01ee.js",
             "6087.de03fa27107cfb7e.js",

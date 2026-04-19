@@ -118,9 +118,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -129,16 +127,14 @@
       "path": "./App",
       "id": "techscope:App",
       "name": "App",
-      "requires": [
-        "react"
-      ],
+      "requires": [],
       "file": "src/App",
       "assets": {
         "js": {
           "sync": [
             "667.239f40842be84043.js",
-            "467.a6104c8f95e2aefb.js",
-            "__federation_expose_App.17356319444e93a3.js"
+            "467.4c383daf43645b1f.js",
+            "__federation_expose_App.b783c5de00ee5b08.js"
           ],
           "async": [
             "336.9dd2da562492fffc.js",

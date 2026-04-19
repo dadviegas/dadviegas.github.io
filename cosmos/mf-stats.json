@@ -124,7 +124,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -134,6 +136,7 @@
       "id": "cosmos:App",
       "name": "App",
       "requires": [
+        "react",
         "react-dom",
         "@emotion/styled",
         "@emotion/react"
@@ -143,8 +146,8 @@
         "js": {
           "sync": [
             "286.96efcda28783ada7.js",
-            "987.6b08e8eaa4d6d635.js",
-            "__federation_expose_App.b7080461eb41d400.js"
+            "987.689f7e2402b3d4cd.js",
+            "__federation_expose_App.64deab67df7701d9.js"
           ],
           "async": [
             "336.b4fef86ba75f24ce.js",

@@ -122,9 +122,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -134,7 +132,6 @@
       "id": "school:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled",
         "@emotion/react"
       ],
@@ -143,8 +140,8 @@
         "js": {
           "sync": [
             "2267.63fb0fc428957744.js",
-            "3390.16dc0cae9e2baa0b.js",
-            "__federation_expose_App.3742ede181fef24a.js"
+            "3390.c9c95d7f44ca343d.js",
+            "__federation_expose_App.98750d2f9caa8512.js"
           ],
           "async": [
             "5336.eec135e5e26d72a4.js",

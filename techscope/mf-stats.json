@@ -118,7 +118,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -127,7 +129,9 @@
       "path": "./App",
       "id": "techscope:App",
       "name": "App",
-      "requires": [],
+      "requires": [
+        "react"
+      ],
       "file": "src/App",
       "assets": {
         "js": {

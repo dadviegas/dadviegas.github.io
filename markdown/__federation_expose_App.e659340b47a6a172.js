@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_markdown=self.webpackChunk_atlantis_markdown||[]).push([["6362"],{73935(a,t,n){n.r(t),n.d(t,{default:()=>i});var r=n(65723),s=n(19959),e=n(14231);function i({topBarRight:a}){return(0,r.jsx)(s.WO,{navigation:e,hashPrefix:"blog",topBarRight:a})}}}]);

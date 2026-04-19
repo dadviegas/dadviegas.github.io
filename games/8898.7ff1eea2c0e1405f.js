@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_games=self.webpackChunk_atlantis_games||[]).push([["8898"],{1273(e,a,s){s.d(a,{createWardleyServices:()=>t.J});var t=s(965);s(5164)}}]);

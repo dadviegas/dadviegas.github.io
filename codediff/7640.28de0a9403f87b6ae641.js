@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_codediff=self.webpackChunk_atlantis_codediff||[]).push([[7640],{7640(e,a,s){s.d(a,{createInfoServices:()=>c.v});var c=s(896);s(6683)}}]);

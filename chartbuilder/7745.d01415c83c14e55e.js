@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_chartbuilder=self.webpackChunk_atlantis_chartbuilder||[]).push([["7745"],{7256(e,t,a){a.d(t,{createArchitectureServices:()=>r.S});var r=a(5796);a(5164)}}]);

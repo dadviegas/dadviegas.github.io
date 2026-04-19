@@ -1,0 +1,160 @@
+{
+  "id": "cosmos",
+  "name": "cosmos",
+  "metaData": {
+    "name": "cosmos",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/cosmos"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "cosmos",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "eager": false,
+      "id": "cosmos:@emotion/react",
+      "assets": {
+        "js": {
+          "async": [
+            "336.b4fef86ba75f24ce.js"
+          ],
+          "sync": [
+            "555.9eca672ace767a50.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "eager": false,
+      "id": "cosmos:@emotion/styled",
+      "assets": {
+        "js": {
+          "async": [
+            "336.b4fef86ba75f24ce.js",
+            "555.9eca672ace767a50.js"
+          ],
+          "sync": [
+            "214.e86ecc54031bcea7.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "cosmos:react-dom",
+      "assets": {
+        "js": {
+          "async": [
+            "336.b4fef86ba75f24ce.js"
+          ],
+          "sync": [
+            "253.bcd82c93d209f418.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "cosmos:react",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.b4fef86ba75f24ce.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./App",
+      "id": "cosmos:App",
+      "name": "App",
+      "requires": [
+        "@emotion/styled",
+        "@emotion/react"
+      ],
+      "file": "src/App",
+      "assets": {
+        "js": {
+          "sync": [
+            "286.96efcda28783ada7.js",
+            "987.e6a67e2ec102f94b.js",
+            "__federation_expose_App.b7080461eb41d400.js"
+          ],
+          "async": [
+            "336.b4fef86ba75f24ce.js",
+            "253.bcd82c93d209f418.js",
+            "214.e86ecc54031bcea7.js",
+            "555.9eca672ace767a50.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "imagegen",
+  "name": "imagegen",
+  "metaData": {
+    "name": "imagegen",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/imagegen"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "imagegen",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "eager": false,
+      "id": "imagegen:@emotion/react",
+      "assets": {
+        "js": {
+          "async": [
+            "336.723181e64bde35e6.js"
+          ],
+          "sync": [
+            "555.d0524802c2d5baec.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "eager": false,
+      "id": "imagegen:@emotion/styled",
+      "assets": {
+        "js": {
+          "async": [
+            "336.723181e64bde35e6.js",
+            "555.d0524802c2d5baec.js"
+          ],
+          "sync": [
+            "214.cd5b11db485496ec.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "imagegen:react-dom",
+      "assets": {
+        "js": {
+          "async": [
+            "336.723181e64bde35e6.js"
+          ],
+          "sync": [
+            "253.d33eaa7a34e32dec.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "imagegen:react",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.723181e64bde35e6.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./App",
+      "id": "imagegen:App",
+      "name": "App",
+      "requires": [
+        "react",
+        "@emotion/styled",
+        "@emotion/react"
+      ],
+      "file": "src/App",
+      "assets": {
+        "js": {
+          "sync": [
+            "147.66d0e2a04a6beaaa.js",
+            "787.018e18bc0eb01d54.js",
+            "__federation_expose_App.238f028293ee2f5e.js"
+          ],
+          "async": [
+            "336.723181e64bde35e6.js",
+            "214.cd5b11db485496ec.js",
+            "555.d0524802c2d5baec.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

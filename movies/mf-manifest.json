@@ -1,0 +1,139 @@
+{
+  "id": "movies",
+  "name": "movies",
+  "metaData": {
+    "name": "movies",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/movies"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "movies",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "id": "movies:@emotion/react",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "assets": {
+        "js": {
+          "async": [
+            "336.8f7fbc372dedc7e4.js"
+          ],
+          "sync": [
+            "555.00b4b06c8d9e8c9b.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "movies:@emotion/styled",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "assets": {
+        "js": {
+          "async": [
+            "336.8f7fbc372dedc7e4.js",
+            "555.00b4b06c8d9e8c9b.js"
+          ],
+          "sync": [
+            "214.e1c02eeeeed5e86c.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "movies:react-dom",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "336.8f7fbc372dedc7e4.js"
+          ],
+          "sync": [
+            "253.168cd8f6d481b9fd.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "movies:react",
+      "name": "react",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.8f7fbc372dedc7e4.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "movies:App",
+      "name": "App",
+      "assets": {
+        "js": {
+          "sync": [
+            "559.6c8f17c278227504.js",
+            "268.282c8b8cb0d4a02d.js",
+            "__federation_expose_App.f6ce191dcae160ed.js"
+          ],
+          "async": [
+            "336.8f7fbc372dedc7e4.js",
+            "253.168cd8f6d481b9fd.js",
+            "214.e1c02eeeeed5e86c.js",
+            "555.00b4b06c8d9e8c9b.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./App"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_games=self.webpackChunk_atlantis_games||[]).push([["6049"],{7640(e,a,s){s.d(a,{createInfoServices:()=>t.v});var t=s(896);s(5164)}}]);

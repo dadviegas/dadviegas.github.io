@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_daily=self.webpackChunk_atlantis_daily||[]).push([[1630],{1630(e,a,s){s.d(a,{createTreeViewServices:()=>i.I});var i=s(6075);s(6683)}}]);

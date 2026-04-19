@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_pad=self.webpackChunk_atlantis_pad||[]).push([["6049"],{47640(a,e,s){s.d(e,{createInfoServices:()=>t.v});var t=s(50896);s(5164)}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_school=self.webpackChunk_atlantis_school||[]).push([[7256],{27256(e,s,c){c.d(s,{createArchitectureServices:()=>t.S});var t=c(85796);c(26683)}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_csvexplorer=self.webpackChunk_atlantis_csvexplorer||[]).push([[7256],{7256(e,r,s){s.d(r,{createArchitectureServices:()=>c.S});var c=s(5796);s(6683)}}]);

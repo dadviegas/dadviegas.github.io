@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_jsonexplorer=self.webpackChunk_atlantis_jsonexplorer||[]).push([[7256],{7256(e,r,s){s.d(r,{createArchitectureServices:()=>t.S});var t=s(5796);s(6683)}}]);

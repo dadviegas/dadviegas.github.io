@@ -1,0 +1,210 @@
+{
+  "id": "ask",
+  "name": "ask",
+  "metaData": {
+    "name": "ask",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/ask"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "ask",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "eager": false,
+      "id": "ask:@emotion/react",
+      "assets": {
+        "js": {
+          "async": [
+            "5336.1077bc160e4d84c4.js"
+          ],
+          "sync": [
+            "6555.98a9c99a01a00394.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "eager": false,
+      "id": "ask:@emotion/styled",
+      "assets": {
+        "js": {
+          "async": [
+            "5336.1077bc160e4d84c4.js",
+            "6555.98a9c99a01a00394.js"
+          ],
+          "sync": [
+            "214.b3587e892b290e97.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "ask:react-dom",
+      "assets": {
+        "js": {
+          "async": [
+            "5336.1077bc160e4d84c4.js"
+          ],
+          "sync": [
+            "4253.f894b8ae287ddb56.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "ask:react",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "5336.1077bc160e4d84c4.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./App",
+      "id": "ask:App",
+      "name": "App",
+      "requires": [
+        "react",
+        "@emotion/styled",
+        "@emotion/react"
+      ],
+      "file": "src/App",
+      "assets": {
+        "js": {
+          "sync": [
+            "6891.bdc74bfa1c641c04.js",
+            "5170.697bc4d7d0a69567.js",
+            "__federation_expose_App.11f582756d61052c.js"
+          ],
+          "async": [
+            "5336.1077bc160e4d84c4.js",
+            "214.b3587e892b290e97.js",
+            "6555.98a9c99a01a00394.js",
+            "6087.6839d686d30baf8a.js",
+            "2554.26e92531df9c1071.js",
+            "3354.13d4050490cde908.js",
+            "8500.000b2023640b6c11.js",
+            "7739.a1c3a7bf591f1172.js",
+            "3698.fab0c48bc71b4afb.js",
+            "803.9435919ac662786e.js",
+            "6049.c2870c7c5a08bfda.js",
+            "7365.078b4b1fef51b986.js",
+            "4768.6553c09591c30595.js",
+            "643.e0ad3fa3784da512.js",
+            "7745.16e153fe76a74db2.js",
+            "1928.a19cc50f38e57e0b.js",
+            "4741.0dd311ce27b4b1dc.js",
+            "4417.a66efc678dc9f0ff.js",
+            "8898.16293ec6b8875c74.js",
+            "3216.553864952ffa3329.js",
+            "6790.d3def3e6a9e605dd.js",
+            "2209.0e0e461cced25656.js",
+            "7896.4732b46cb9c040be.js",
+            "7387.278c124a6adc6ffc.js",
+            "7106.59dfe33ce7b60837.js",
+            "4912.129fb8f8415c951d.js",
+            "5125.08a7b749c2d4bfaa.js",
+            "1248.a0ac8e39b68342fd.js",
+            "8246.829691c0c3c9e963.js",
+            "5073.2a554d7eca0313a5.js",
+            "6324.f7011bbe4d31cda6.js",
+            "4992.fe141d8953953c7c.js",
+            "3497.07ba3ea72caff480.js",
+            "9080.92f1feb275c4ea23.js",
+            "8736.2735715b6a2ba1f0.js",
+            "9104.87c0fd7ec9125cf3.js",
+            "949.b7f8b158655c5e0a.js",
+            "6250.8b6fdd94cbfa0576.js",
+            "2542.12ce947d9942808f.js",
+            "3739.d29ad48f033e33aa.js",
+            "8683.61ddc141e88c7599.js",
+            "6835.c3a5e8fcdebd7e52.js",
+            "7663.2bfd7528d5b06feb.js",
+            "464.2d8754264d336da5.js",
+            "2596.d994aeca574a0317.js",
+            "1703.c5caa947da668928.js",
+            "4661.1134f093d641c67e.js",
+            "3843.550814eeafb868ef.js",
+            "2648.9c4e018b32691f69.js",
+            "1611.0ac0180620aa3cfa.js",
+            "6016.9f7776d82d2a92e2.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

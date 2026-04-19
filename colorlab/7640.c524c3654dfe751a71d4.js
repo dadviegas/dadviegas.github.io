@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_colorlab=self.webpackChunk_atlantis_colorlab||[]).push([[7640],{7640(a,e,l){l.d(e,{createInfoServices:()=>s.v});var s=l(896);l(6683)}}]);

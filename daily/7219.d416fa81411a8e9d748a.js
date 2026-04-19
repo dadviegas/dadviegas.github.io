@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_daily=self.webpackChunk_atlantis_daily||[]).push([[7219],{7219(a,e,s){s.d(e,{createPieServices:()=>i.f});var i=s(3497);s(6683)}}]);

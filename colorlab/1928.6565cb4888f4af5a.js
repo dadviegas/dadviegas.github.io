@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_colorlab=self.webpackChunk_atlantis_colorlab||[]).push([["1928"],{1691(a,e,l){l.d(e,{createGitGraphServices:()=>s.b});var s=l(885);l(5164)}}]);

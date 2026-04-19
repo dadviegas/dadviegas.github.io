@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_cronbuilder=self.webpackChunk_atlantis_cronbuilder||[]).push([[7256],{7256(e,r,c){c.d(r,{createArchitectureServices:()=>t.S});var t=c(5796);c(6683)}}]);

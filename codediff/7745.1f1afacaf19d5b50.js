@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_codediff=self.webpackChunk_atlantis_codediff||[]).push([["7745"],{7256(e,c,t){t.d(c,{createArchitectureServices:()=>a.S});var a=t(5796);t(5164)}}]);

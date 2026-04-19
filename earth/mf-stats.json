@@ -1,0 +1,156 @@
+{
+  "id": "earth",
+  "name": "earth",
+  "metaData": {
+    "name": "earth",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/earth"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "earth",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "eager": false,
+      "id": "earth:@emotion/react",
+      "assets": {
+        "js": {
+          "async": [
+            "336.0666da4e2127a4c8.js"
+          ],
+          "sync": [
+            "555.8ce00839ee788f78.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "eager": false,
+      "id": "earth:@emotion/styled",
+      "assets": {
+        "js": {
+          "async": [
+            "336.0666da4e2127a4c8.js",
+            "555.8ce00839ee788f78.js"
+          ],
+          "sync": [
+            "214.f9ac8a13e36dada7.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "earth:react-dom",
+      "assets": {
+        "js": {
+          "async": [
+            "336.0666da4e2127a4c8.js"
+          ],
+          "sync": [
+            "253.ca4026810c2b51c8.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "earth:react",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.0666da4e2127a4c8.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./App",
+      "id": "earth:App",
+      "name": "App",
+      "requires": [
+        "@emotion/styled"
+      ],
+      "file": "src/App",
+      "assets": {
+        "js": {
+          "sync": [
+            "176.b442b2ba0b28c194.js",
+            "210.e5133f883dfb708d.js",
+            "__federation_expose_App.8fd1138ce7b6d603.js"
+          ],
+          "async": [
+            "336.0666da4e2127a4c8.js",
+            "214.f9ac8a13e36dada7.js",
+            "555.8ce00839ee788f78.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

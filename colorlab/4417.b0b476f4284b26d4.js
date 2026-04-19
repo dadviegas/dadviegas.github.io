@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_colorlab=self.webpackChunk_atlantis_colorlab||[]).push([["4417"],{5096(a,e,l){l.d(e,{createTreemapServices:()=>s.d});var s=l(1855);l(5164)}}]);

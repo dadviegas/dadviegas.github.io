@@ -1,0 +1,138 @@
+{
+  "id": "promptlab",
+  "name": "promptlab",
+  "metaData": {
+    "name": "promptlab",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/promptlab"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "promptlab",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "id": "promptlab:@emotion/react",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "assets": {
+        "js": {
+          "async": [
+            "336.90d6c2527385de6b.js"
+          ],
+          "sync": [
+            "555.8b53c8eaaf014be9.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "promptlab:@emotion/styled",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "assets": {
+        "js": {
+          "async": [
+            "336.90d6c2527385de6b.js",
+            "555.8b53c8eaaf014be9.js"
+          ],
+          "sync": [
+            "214.9b3e98713ab3000b.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "promptlab:react-dom",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "336.90d6c2527385de6b.js"
+          ],
+          "sync": [
+            "253.4fd763fabdb49555.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "promptlab:react",
+      "name": "react",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.90d6c2527385de6b.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "promptlab:App",
+      "name": "App",
+      "assets": {
+        "js": {
+          "sync": [
+            "942.1d31c07c0fdd81d5.js",
+            "871.3b6f91ef5c8192ab.js",
+            "__federation_expose_App.4a8e3579a139eee5.js"
+          ],
+          "async": [
+            "336.90d6c2527385de6b.js",
+            "214.9b3e98713ab3000b.js",
+            "555.8b53c8eaaf014be9.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./App"
+    }
+  ]
+}

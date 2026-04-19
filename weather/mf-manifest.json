@@ -1,0 +1,138 @@
+{
+  "id": "weather",
+  "name": "weather",
+  "metaData": {
+    "name": "weather",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/weather"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "weather",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "id": "weather:@emotion/react",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "assets": {
+        "js": {
+          "async": [
+            "336.295ab048011b55e6.js"
+          ],
+          "sync": [
+            "555.205cf0739745f525.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "weather:@emotion/styled",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "assets": {
+        "js": {
+          "async": [
+            "336.295ab048011b55e6.js",
+            "555.205cf0739745f525.js"
+          ],
+          "sync": [
+            "214.ac5f14bd57a51e75.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "weather:react-dom",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "336.295ab048011b55e6.js"
+          ],
+          "sync": [
+            "253.48640229fe9b3a0e.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "weather:react",
+      "name": "react",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.295ab048011b55e6.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "weather:App",
+      "name": "App",
+      "assets": {
+        "js": {
+          "sync": [
+            "587.1cd4a922ad0596b6.js",
+            "132.8e35d46be9da4973.js",
+            "__federation_expose_App.93ac721ce17ed1e3.js"
+          ],
+          "async": [
+            "336.295ab048011b55e6.js",
+            "214.ac5f14bd57a51e75.js",
+            "555.205cf0739745f525.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./App"
+    }
+  ]
+}

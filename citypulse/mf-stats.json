@@ -1,0 +1,156 @@
+{
+  "id": "citypulse",
+  "name": "citypulse",
+  "metaData": {
+    "name": "citypulse",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/citypulse"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "citypulse",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "eager": false,
+      "id": "citypulse:@emotion/react",
+      "assets": {
+        "js": {
+          "async": [
+            "336.cb4de744dbba16bc.js"
+          ],
+          "sync": [
+            "555.bce8937f0fbaf77f.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "eager": false,
+      "id": "citypulse:@emotion/styled",
+      "assets": {
+        "js": {
+          "async": [
+            "336.cb4de744dbba16bc.js",
+            "555.bce8937f0fbaf77f.js"
+          ],
+          "sync": [
+            "214.0e43a019bf758f71.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "citypulse:react-dom",
+      "assets": {
+        "js": {
+          "async": [
+            "336.cb4de744dbba16bc.js"
+          ],
+          "sync": [
+            "253.ca45282e1fea842b.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "citypulse:react",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.cb4de744dbba16bc.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./App",
+      "id": "citypulse:App",
+      "name": "App",
+      "requires": [
+        "@emotion/styled"
+      ],
+      "file": "src/App",
+      "assets": {
+        "js": {
+          "sync": [
+            "587.7cd9461d08c0ea83.js",
+            "182.8f1f608bfbd5ddec.js",
+            "__federation_expose_App.f5719707b912e080.js"
+          ],
+          "async": [
+            "336.cb4de744dbba16bc.js",
+            "214.0e43a019bf758f71.js",
+            "555.bce8937f0fbaf77f.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

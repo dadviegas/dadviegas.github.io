@@ -1,0 +1,201 @@
+{
+  "id": "games",
+  "name": "games",
+  "metaData": {
+    "name": "games",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/games"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "games",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "eager": false,
+      "id": "games:@emotion/react",
+      "assets": {
+        "js": {
+          "async": [
+            "5336.c1ee3f439bab9f03.js"
+          ],
+          "sync": [
+            "6555.83f52a0f51652bda.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "eager": false,
+      "id": "games:@emotion/styled",
+      "assets": {
+        "js": {
+          "async": [
+            "5336.c1ee3f439bab9f03.js",
+            "6555.83f52a0f51652bda.js"
+          ],
+          "sync": [
+            "214.c7a438e88778b96b.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "games:react-dom",
+      "assets": {
+        "js": {
+          "async": [
+            "5336.c1ee3f439bab9f03.js"
+          ],
+          "sync": [
+            "4253.dc33225bdada07d3.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "games:react",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "5336.c1ee3f439bab9f03.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./App",
+      "id": "games:App",
+      "name": "App",
+      "requires": [],
+      "file": "src/App",
+      "assets": {
+        "js": {
+          "sync": [
+            "4737.8fe38ca5d78e577a.js",
+            "8600.eb4f62de7635f7b7.js",
+            "__federation_expose_App.b166defa794b3ed1.js"
+          ],
+          "async": [
+            "5336.c1ee3f439bab9f03.js",
+            "214.c7a438e88778b96b.js",
+            "6555.83f52a0f51652bda.js",
+            "6087.caf0e20ceaa31ce6.js",
+            "2554.dfcfd5fb0beab89a.js",
+            "3354.153f22f1244426ed.js",
+            "8500.8ee22660f1936f49.js",
+            "7739.c83daa5a16c77818.js",
+            "3698.af513f36f69f1338.js",
+            "803.814df0853de6e3dc.js",
+            "6049.238338333390080e.js",
+            "7365.60ef39f7e7e53dc8.js",
+            "4768.0d57b9aa02ce15d1.js",
+            "643.a3b02fae2b781f02.js",
+            "7745.1c74afce76b6e3d0.js",
+            "1928.cf558be984ae1dbf.js",
+            "4741.4f6668f5ae26438d.js",
+            "4417.4122fa876b96f3a6.js",
+            "8898.7ff1eea2c0e1405f.js",
+            "3216.ac3bcd28680355d0.js",
+            "6790.8769d00e0a08d2b0.js",
+            "2209.4ef4796d359cb272.js",
+            "7896.a3f952119fea26f3.js",
+            "7387.22a6a66b6308c3c8.js",
+            "7106.f67660f472734c80.js",
+            "4912.e4ccd86df6b06143.js",
+            "5125.d0125d30d6bbdc12.js",
+            "1248.db4c44c7e15fe7f1.js",
+            "8246.358e94c8316f9be5.js",
+            "5073.2d420a1a98e9c4b0.js",
+            "6324.2c931ad255efef52.js",
+            "4992.d84222231e6defe6.js",
+            "3497.06acb9c9e51fe3fb.js",
+            "9080.258eaf0398d81ab2.js",
+            "8736.330e6bc3e13ea099.js",
+            "9104.49582a8c07d2c87b.js",
+            "949.807023adf47a2f37.js",
+            "6250.5f4724ae32b28805.js",
+            "2542.6e28219b8ba1aadc.js",
+            "3739.ad96c73ebe5a6749.js",
+            "8683.2f1d007e2a2f6da6.js",
+            "6835.b32eefa429ef4301.js",
+            "7663.003edd23e313f4da.js",
+            "464.d58b0cb8eb9955be.js",
+            "2596.62af5325efaa258d.js",
+            "1703.371f99a4728f01a4.js",
+            "4661.1d1fbbeb2c3c873b.js",
+            "3843.772654d32fb42e74.js",
+            "2648.4da2df69f99990f7.js",
+            "8662.6ea03a7ac4e4b56f.js",
+            "1611.5cd94931f4e02915.js",
+            "6016.9df32021353162af.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

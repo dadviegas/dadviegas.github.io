@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_school=self.webpackChunk_atlantis_school||[]).push([[5096],{85096(e,s,a){a.d(s,{createTreemapServices:()=>c.d});var c=a(81855);a(26683)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_colorlab=self.webpackChunk_atlantis_colorlab||[]).push([["8898"],{1273(a,e,l){l.d(e,{createWardleyServices:()=>s.J});var s=l(965);l(5164)}}]);

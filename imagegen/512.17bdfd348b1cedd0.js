@@ -1,0 +1,12 @@
+"use strict";(self.webpackChunk_atlantis_imagegen=self.webpackChunk_atlantis_imagegen||[]).push([["512"],{8997(e,t,a){var n=a(2727);t.createRoot=n.createRoot,n.hydrateRoot},3611(e,t,a){var n=a(5723),o=a(8997),r=a(7991),i=a(6859),l=a.n(i),d=a(2799),h=a(3930),s=a(4041),g=a(3758),u=a(7871),c=a(6665),m=a(6396),f=a(9610),p=a(3487);let w=(0,d.keyframes)`
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+`,y=l().div`
+  display: flex;
+  flex-direction: column;
+  gap: ${h.w4.spacing.lg};
+  padding: ${h.w4.spacing.lg};
+  height: 100%;
+  overflow-y: auto;
+  animation: ${w} 0.25s ease;
+`,x=document.getElementById("root");if(!x)throw Error("Root element #root not found");(0,o.createRoot)(x).render((0,n.jsx)(function({topBarRight:e}){let[t,a]=(0,r.useState)(""),[o,i]=(0,r.useState)(()=>(0,u.M5)()),[l,d]=(0,r.useState)(null),[w,x]=(0,r.useState)("idle"),[R,S]=(0,r.useState)(()=>(0,u.$5)()),[C,k]=(0,r.useState)(!1),[j,E]=(0,r.useState)(0),M=(0,r.useRef)(!1),b=(0,g.Vi)(),v=!!b,D=(0,r.useCallback)((e,t)=>{d((0,g.i4)({prompt:e,width:o.width,height:o.height,seed:t,model:o.model})),E(t),x("loading")},[o]),Z=async()=>{if(v&&t.trim()&&!C){k(!0);try{let e=await (0,g.fG)(b,t);a(e)}catch{}finally{k(!1)}}},$=(0,r.useCallback)(async e=>{M.current=!0,a(e.prompt),E(e.seed);let t=await (0,c.if)(e.id);d(t??e.url),x(t?"loaded":"loading")},[]);return(0,n.jsx)(h.PE,{title:"Image Gen",sidebar:null,topBarRight:e,children:(0,n.jsxs)(y,{children:[(0,n.jsx)(m.q,{prompt:t,onPromptChange:a,width:o.width,height:o.height,model:o.model,onSizeChange:(e,t)=>{let a={...o,width:e,height:t};i(a),(0,u.DZ)(a)},onModelChange:e=>{let t={...o,model:e};i(t),(0,u.DZ)(t)},onGenerate:()=>{t.trim()&&D(t,Math.floor(0x80000000*Math.random()))},onEnhance:Z,generating:"loading"===w,enhancing:C,canEnhance:v}),(0,n.jsx)(f.e,{url:l,status:w,width:o.width,height:o.height,onLoad:e=>{if(x("loaded"),M.current){M.current=!1;return}if(!l)return;let a={id:(0,s.z)(),prompt:t,url:l,seed:j,width:o.width,height:o.height,model:o.model,generatedAt:Date.now()};S((0,u.Qd)(a)),(0,c.CJ)(a.id,e)},onError:()=>{x("error")},onReroll:()=>{t.trim()&&D(t,Math.floor(0x80000000*Math.random()))},onRetry:()=>{t.trim()&&D(t,j)}}),(0,n.jsx)(p.Z,{items:R,onSelect:$,onDelete:e=>{S((0,u.vI)(e)),(0,c.XZ)(e)}})]})})},{}))}}]);

@@ -35,10 +35,10 @@
         "js": {
           "async": [
             "336.8f7fbc372dedc7e4.js",
-            "408.ab42c4e57b1fed27.js"
+            "626.fa401e54dd8cf779.js"
           ],
           "sync": [
-            "534.b4d8733f6c040493.js"
+            "910.d84a7e6f59a68e7a.js"
           ]
         },
         "css": {
@@ -57,7 +57,7 @@
         "js": {
           "async": [],
           "sync": [
-            "408.ab42c4e57b1fed27.js"
+            "626.fa401e54dd8cf779.js"
           ]
         },
         "css": {
@@ -159,16 +159,16 @@
         "js": {
           "sync": [
             "559.6c8f17c278227504.js",
-            "268.569448c25f9c7a88.js",
-            "__federation_expose_App.89d8e47267e0241d.js"
+            "268.e38800535c4ea3f4.js",
+            "__federation_expose_App.bc9d2ebd58d35211.js"
           ],
           "async": [
             "336.8f7fbc372dedc7e4.js",
             "253.168cd8f6d481b9fd.js",
             "214.e1c02eeeeed5e86c.js",
             "555.00b4b06c8d9e8c9b.js",
-            "408.ab42c4e57b1fed27.js",
-            "534.b4d8733f6c040493.js"
+            "626.fa401e54dd8cf779.js",
+            "910.d84a7e6f59a68e7a.js"
           ]
         },
         "css": {

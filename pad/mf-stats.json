@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "8408.0e19dca75d779b4c.js"
+            "6412.5370b10cb44ee628.js"
           ]
         },
         "css": {
@@ -159,15 +159,15 @@
         "js": {
           "sync": [
             "2016.aa06ece818085e69.js",
-            "3499.132978b2feebf15e.js",
-            "__federation_expose_App.28943016df7642e6.js"
+            "3499.e81f4a8983d7b042.js",
+            "__federation_expose_App.3c89c5ea5748b3c6.js"
           ],
           "async": [
             "5336.05c91f565c6aa377.js",
             "4253.c521dd48faed23e0.js",
             "214.03cd7ba1a9bf3b21.js",
             "6555.2f4d5d58d2319f0c.js",
-            "8408.0e19dca75d779b4c.js",
+            "6412.5370b10cb44ee628.js",
             "2554.bffbb32c49ff2a22.js",
             "3354.dcde7d180bf0cd47.js",
             "8500.9d16ead9479a1e80.js",

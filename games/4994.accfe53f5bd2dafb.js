@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_games=self.webpackChunk_atlantis_games||[]).push([["4994"],{4041(t,a,e){e.d(a,{z:()=>n});function n(){return"u">typeof crypto&&"function"==typeof crypto.randomUUID?crypto.randomUUID().replace(/-/g,"").slice(0,8):Math.random().toString(36).slice(2,10).padEnd(8,"0")}}}]);

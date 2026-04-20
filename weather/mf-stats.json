@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "408.c65dbae67159c1e7.js"
+            "412.615910451c713fc6.js"
           ]
         },
         "css": {
@@ -142,7 +142,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -152,6 +154,7 @@
       "id": "weather:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
@@ -159,14 +162,14 @@
         "js": {
           "sync": [
             "587.1cd4a922ad0596b6.js",
-            "699.dec4b78f2cb32145.js",
-            "__federation_expose_App.c1be29931c1fe579.js"
+            "895.06f2edc185bc684f.js",
+            "__federation_expose_App.225d88a006e4a054.js"
           ],
           "async": [
             "336.295ab048011b55e6.js",
             "214.ac5f14bd57a51e75.js",
             "555.205cf0739745f525.js",
-            "408.c65dbae67159c1e7.js"
+            "412.615910451c713fc6.js"
           ]
         },
         "css": {

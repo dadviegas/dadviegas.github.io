@@ -27,6 +27,28 @@
   "shared": [
     {
       "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "shareScope": "default",
+      "name": "@atlantis/dal",
+      "version": "1.0.0",
+      "eager": false,
+      "id": "playground:@atlantis/dal",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "8408.3442409dbe464774.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
       "requiredVersion": "^11.13.5",
       "shareScope": "default",
       "name": "@emotion/react",
@@ -140,8 +162,8 @@
         "js": {
           "sync": [
             "2415.d7f2787a44a01ec9.js",
-            "8714.5fd86350d0fa8c92.js",
-            "__federation_expose_App.1655975383400719.js"
+            "8714.b9e3105a1d1785fe.js",
+            "__federation_expose_App.f27e21b277383f40.js"
           ],
           "async": [
             "5336.886151bc9cae991d.js",
@@ -149,6 +171,7 @@
             "7960.267718e7bd1b7eaf.js",
             "214.2f76830c3b5d3cc6.js",
             "6555.22f0817ce46c8953.js",
+            "8408.3442409dbe464774.js",
             "6087.c35ca8faa72be29d.js",
             "2554.09a16968af2f3787.js",
             "3354.3bc3dfe354dd1ff3.js",

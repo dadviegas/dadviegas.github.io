@@ -26,6 +26,25 @@
   },
   "shared": [
     {
+      "id": "weather:@atlantis/dal",
+      "name": "@atlantis/dal",
+      "version": "1.0.0",
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "408.c65dbae67159c1e7.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
       "id": "weather:@emotion/react",
       "name": "@emotion/react",
       "version": "11.14.0",
@@ -118,13 +137,14 @@
         "js": {
           "sync": [
             "587.1cd4a922ad0596b6.js",
-            "694.107cd6f6f8e8f647.js",
-            "__federation_expose_App.2633af0b0ea9405f.js"
+            "699.dec4b78f2cb32145.js",
+            "__federation_expose_App.c1be29931c1fe579.js"
           ],
           "async": [
             "336.295ab048011b55e6.js",
             "214.ac5f14bd57a51e75.js",
-            "555.205cf0739745f525.js"
+            "555.205cf0739745f525.js",
+            "408.c65dbae67159c1e7.js"
           ]
         },
         "css": {

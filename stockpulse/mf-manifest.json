@@ -26,6 +26,25 @@
   },
   "shared": [
     {
+      "id": "stockpulse:@atlantis/dal",
+      "name": "@atlantis/dal",
+      "version": "1.0.0",
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "408.8830075ba9a708d6.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
       "id": "stockpulse:@emotion/react",
       "name": "@emotion/react",
       "version": "11.14.0",
@@ -118,13 +137,14 @@
         "js": {
           "sync": [
             "324.e6f3042db013e9c8.js",
-            "531.f4ec11508afc3bf3.js",
-            "__federation_expose_App.490bbf6ebc319282.js"
+            "531.03272257bf278fde.js",
+            "__federation_expose_App.3cf4014d1927d7bd.js"
           ],
           "async": [
             "336.92c7d25adcecf60e.js",
             "214.c4292d948c18404e.js",
-            "555.fa6325c405832448.js"
+            "555.fa6325c405832448.js",
+            "408.8830075ba9a708d6.js"
           ]
         },
         "css": {

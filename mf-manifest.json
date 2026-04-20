@@ -26,6 +26,47 @@
   },
   "shared": [
     {
+      "id": "shell:@atlantis/bll",
+      "name": "@atlantis/bll",
+      "version": "1.0.0",
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "assets": {
+        "js": {
+          "async": [
+            "5336.9589af9bd65d3aa5.js",
+            "6532.5b1a3535e7cd51c3.js"
+          ],
+          "sync": [
+            "1534.ad11aca4b746af82.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "shell:@atlantis/dal",
+      "name": "@atlantis/dal",
+      "version": "1.0.0",
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "6532.5b1a3535e7cd51c3.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
       "id": "shell:@emotion/react",
       "name": "@emotion/react",
       "version": "11.14.0",

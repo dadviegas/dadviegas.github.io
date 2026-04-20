@@ -27,6 +27,28 @@
   "shared": [
     {
       "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "shareScope": "default",
+      "name": "@atlantis/dal",
+      "version": "1.0.0",
+      "eager": false,
+      "id": "citypulse:@atlantis/dal",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "408.c70d0352afe05af3.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
       "requiredVersion": "^11.13.5",
       "shareScope": "default",
       "name": "@emotion/react",
@@ -137,13 +159,14 @@
         "js": {
           "sync": [
             "587.7cd9461d08c0ea83.js",
-            "182.4d1833979bedf3db.js",
-            "__federation_expose_App.ff064638decac01a.js"
+            "182.9d0987090e549cd0.js",
+            "__federation_expose_App.7ec7952e06c733bb.js"
           ],
           "async": [
             "336.cb4de744dbba16bc.js",
             "214.0e43a019bf758f71.js",
-            "555.bce8937f0fbaf77f.js"
+            "555.bce8937f0fbaf77f.js",
+            "408.c70d0352afe05af3.js"
           ]
         },
         "css": {

@@ -26,6 +26,25 @@
   },
   "shared": [
     {
+      "id": "chartbuilder:@atlantis/dal",
+      "name": "@atlantis/dal",
+      "version": "1.0.0",
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "8408.3956c71a5faca5fb.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
       "id": "chartbuilder:@emotion/react",
       "name": "@emotion/react",
       "version": "11.14.0",
@@ -118,14 +137,15 @@
         "js": {
           "sync": [
             "7968.041e31d461e0e088.js",
-            "4453.8b867b7f93577917.js",
-            "__federation_expose_App.90ee36f45440d891.js"
+            "4453.e3459e6923b3ff14.js",
+            "__federation_expose_App.862a166f530e72c7.js"
           ],
           "async": [
             "5336.1d84c3c7b976eb02.js",
             "4253.1b8d573bb1430e62.js",
             "214.283862f919e49a0b.js",
             "6555.583be6242b03b532.js",
+            "8408.3956c71a5faca5fb.js",
             "6087.45d1fcef5c731666.js",
             "2554.788ecdfe0dbeb13f.js",
             "3354.fe181d274809c623.js",

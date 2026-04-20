@@ -27,6 +27,55 @@
   "shared": [
     {
       "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "shareScope": "default",
+      "name": "@atlantis/bll",
+      "version": "1.0.0",
+      "eager": false,
+      "id": "daily:@atlantis/bll",
+      "assets": {
+        "js": {
+          "async": [
+            "5336.259954b18d924798.js",
+            "8408.5f7e416912b8459e.js"
+          ],
+          "sync": [
+            "1534.a80a215289b3f40d.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "shareScope": "default",
+      "name": "@atlantis/dal",
+      "version": "1.0.0",
+      "eager": false,
+      "id": "daily:@atlantis/dal",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "8408.5f7e416912b8459e.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
       "requiredVersion": "^11.13.5",
       "shareScope": "default",
       "name": "@emotion/react",
@@ -133,21 +182,24 @@
       "name": "App",
       "requires": [
         "@emotion/styled",
-        "@emotion/react"
+        "@emotion/react",
+        "@atlantis/bll"
       ],
       "file": "src/App",
       "assets": {
         "js": {
           "sync": [
             "1189.0633cb4a895e74fc.js",
-            "5170.cc2b7aa177a43653.js",
-            "__federation_expose_App.af41506566d372ce.js"
+            "5170.fbf26c25c8be51d3.js",
+            "__federation_expose_App.dbdce61866f86a0c.js"
           ],
           "async": [
             "5336.259954b18d924798.js",
             "4253.ef0d193352b7733e.js",
             "214.222eaa19cda4a97a.js",
             "6555.d5fcc9797ed19299.js",
+            "8408.5f7e416912b8459e.js",
+            "1534.a80a215289b3f40d.js",
             "6087.5ee174ff6c7a291e.js",
             "2554.77c33daeff159370.js",
             "3354.01de1d84ec4b74c9.js",

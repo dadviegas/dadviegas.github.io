@@ -1,0 +1,268 @@
+"use strict";(self.webpackChunk_atlantis_school=self.webpackChunk_atlantis_school||[]).push([["5512"],{58997(e,a,t){var o=t(62727);a.createRoot=o.createRoot,o.hydrateRoot},13611(e,a,t){var o=t(65723),r=t(58997),i=t(37991),n=t(36859),s=t.n(n),l=t(72799),d=t(61318),c=t(60246),p=t(28170);let m=[{key:"math",hashPrefix:"math",label:{pt:"Matem\xe1tica",en:"Maths"},description:{pt:"N\xfameros, contas e problemas",en:"Numbers, sums & problems"},emoji:"\uD83D\uDD22",color:"#58a6ff",languages:{pt:{label:"PT",navigation:t(41223)},en:{label:"EN",navigation:t(78844)}},welcomeTitle:{pt:"Matem\xe1tica",en:"Mathematics"},welcomeSub:{pt:"Exerc\xedcios e conte\xfados do 1.\xba ao 4.\xba ano — escolhe um tema no menu.",en:"Exercises and content from Year 1 to 4 — pick a topic from the sidebar."}},{key:"portuguese",hashPrefix:"portugues",label:{pt:"Portugu\xeas",en:"Portuguese"},description:{pt:"Leitura, escrita e gram\xe1tica",en:"Reading, writing & grammar"},emoji:"\uD83D\uDCD6",color:"#3fb950",languages:{pt:{label:"PT",navigation:t(80940)},en:{label:"EN",navigation:t(75539)}},welcomeTitle:{pt:"Portugu\xeas",en:"Portuguese"},welcomeSub:{pt:"Leitura, escrita e gram\xe1tica do 1.\xba ao 4.\xba ano — escolhe um tema no menu.",en:"Reading, writing, and grammar from Year 1 to 4 — pick a topic from the sidebar."}},{key:"science",hashPrefix:"estudodomeio",label:{pt:"Estudo do Meio",en:"Science"},description:{pt:"O mundo a nossa volta",en:"The world around us"},emoji:"\uD83C\uDF0D",color:"#d29922",languages:{pt:{label:"PT",navigation:t(68585)},en:{label:"EN",navigation:t(8050)}},welcomeTitle:{pt:"Estudo do Meio",en:"Environmental Studies"},welcomeSub:{pt:"O mundo natural e social do 1.\xba ao 4.\xba ano — escolhe um tema no menu.",en:"The natural and social world from Year 1 to 4 — pick a topic from the sidebar."}},{key:"english",hashPrefix:"english",label:{pt:"Ingl\xeas",en:"English"},description:{pt:"Vocabul\xe1rio, gram\xe1tica e conversa\xe7\xe3o",en:"Vocabulary, grammar & conversation"},emoji:"\uD83C\uDDEC\uD83C\uDDE7",color:"#e05252",languages:{pt:{label:"PT",navigation:t(43547)},en:{label:"EN",navigation:t(81592)}},welcomeTitle:{pt:"Ingl\xeas",en:"English"},welcomeSub:{pt:"Vocabul\xe1rio, gram\xe1tica e conversa\xe7\xe3o do 1.\xba ao 5.\xba ano — escolhe um tema no menu.",en:"Vocabulary, grammar and conversation from Year 1 to 5 — pick a topic from the sidebar."}}];function g(){let e=window.location.hash.toLowerCase();return e.startsWith("#/math")?"math":e.startsWith("#/portugues")?"portuguese":e.startsWith("#/estudodomeio")?"science":e.startsWith("#/ingles")?"english":null}let u=(0,l.keyframes)`
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-8px); }
+`,h=(0,l.keyframes)`
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+`,x=(0,l.keyframes)`
+  0% { transform: translateX(-100%) skewX(-15deg); }
+  100% { transform: translateX(200%) skewX(-15deg); }
+`,f=(0,l.keyframes)`
+  0%, 100% { transform: translateY(0) scale(1); }
+  50% { transform: translateY(-4px) scale(1.08); }
+`,b=s().div`
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: ${c.w4.spacing.xl} ${c.w4.spacing.xl} ${c.w4.spacing.xxl};
+  gap: ${c.w4.spacing.xl};
+  overflow-y: auto;
+  position: relative;
+  background:
+    radial-gradient(ellipse 60% 50% at 20% 30%, rgba(99, 102, 241, 0.06) 0%, transparent 70%),
+    radial-gradient(ellipse 50% 60% at 80% 70%, rgba(249, 117, 131, 0.04) 0%, transparent 70%),
+    radial-gradient(ellipse 40% 40% at 50% 50%, rgba(121, 192, 255, 0.03) 0%, transparent 70%),
+    #080b12;
+`,w=s().h1`
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: ${c.w4.colors.mainText};
+  text-align: center;
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  animation: ${h} 0.5s ease both;
+`,y=s().p`
+  font-size: ${c.w4.typography.fontSizeMd};
+  color: ${c.w4.colors.mainTextMuted};
+  text-align: center;
+  margin: 0;
+  max-width: 400px;
+  line-height: 1.5;
+  position: relative;
+  z-index: 1;
+  animation: ${h} 0.5s ease 0.1s both;
+`,$=s().div`
+  display: grid;
+  grid-template-columns: repeat(${({columns:e})=>e??3}, 1fr);
+  gap: ${c.w4.spacing.lg};
+  max-width: 880px;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+  animation: ${h} 0.5s ease 0.2s both;
+
+  @media (max-width: ${c.w4.breakpoints.lg}) {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 480px;
+  }
+
+  @media (max-width: ${c.w4.breakpoints.md}) {
+    grid-template-columns: 1fr;
+    max-width: 320px;
+  }
+`,k=s().h2`
+  font-size: ${c.w4.typography.fontSizeSm};
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: ${c.w4.colors.mainTextMuted};
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  animation: ${h} 0.5s ease 0.25s both;
+`,v=(0,l.keyframes)`
+  0%, 100% { opacity: 0.15; transform: scale(0.8); }
+  50%      { opacity: 0.9; transform: scale(1.2); }
+`,z=s().div`
+  position: absolute;
+  left: ${({x:e})=>e}%;
+  top: ${({y:e})=>e}%;
+  width: ${({size:e})=>e}px;
+  height: ${({size:e})=>e}px;
+  border-radius: 50%;
+  background: white;
+  animation: ${v} ${({dur:e})=>e}s ease-in-out infinite;
+  animation-delay: ${({delay:e})=>e}s;
+  pointer-events: none;
+`,j=(0,l.keyframes)`
+  0%   { transform: translateX(0); opacity: 0; }
+  2%   { opacity: 1; }
+  15%  { opacity: 0.6; }
+  20%  { transform: translateX(300px); opacity: 0; }
+  100% { transform: translateX(300px); opacity: 0; }
+`,T=s().div`
+  position: absolute;
+  top: ${({top:e})=>e}%;
+  left: 5%;
+  width: 80px;
+  height: 1px;
+  transform: rotate(-25deg);
+  transform-origin: left center;
+  background: linear-gradient(90deg, transparent 0%, rgba(255, 255, 255, 0.5) 60%, white 100%);
+  border-radius: 1px;
+  opacity: 0;
+  pointer-events: none;
+  animation: ${j} ${({delay:e})=>e}s ease-out infinite;
+
+  &::after {
+    content: '';
+    position: absolute;
+    right: -1px;
+    top: -1.5px;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background: white;
+    box-shadow: 0 0 4px 1px rgba(200, 200, 255, 0.5);
+  }
+`,E=[{x:3,y:5,size:1.5,delay:0,dur:3.2},{x:8,y:35,size:2,delay:1.8,dur:3.4},{x:12,y:70,size:1.5,delay:.6,dur:4.1},{x:18,y:15,size:2.5,delay:2.4,dur:3},{x:22,y:55,size:1.5,delay:.3,dur:4.5},{x:28,y:88,size:2,delay:1.1,dur:3.6},{x:33,y:25,size:1.5,delay:2.8,dur:4},{x:40,y:60,size:2,delay:.9,dur:3.3},{x:45,y:8,size:2.5,delay:1.5,dur:3.8},{x:50,y:45,size:1.5,delay:2.1,dur:4.3},{x:55,y:78,size:2,delay:.4,dur:3.1},{x:60,y:18,size:1.5,delay:1.7,dur:4.6},{x:65,y:50,size:2.5,delay:2.6,dur:3.5},{x:70,y:85,size:1.5,delay:.2,dur:3.9},{x:75,y:30,size:2,delay:1.3,dur:4.2},{x:80,y:65,size:1.5,delay:2.9,dur:3.7},{x:85,y:10,size:2,delay:.7,dur:3.4},{x:88,y:42,size:2.5,delay:1.9,dur:4.4},{x:92,y:75,size:1.5,delay:.5,dur:3.2},{x:96,y:22,size:2,delay:2.3,dur:3.8}],S=s().button`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: ${c.w4.spacing.md};
+  padding: ${c.w4.spacing.xl} ${c.w4.spacing.lg};
+  padding-top: 24px;
+  background: linear-gradient(
+    168deg,
+    ${({accentColor:e})=>e}0a 0%,
+    ${c.w4.colors.surface} 45%,
+    ${c.w4.colors.surface} 100%
+  );
+  border: 1px solid ${({accentColor:e})=>e}30;
+  border-radius: ${c.w4.borderRadius.lg};
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: border-color 0.25s, transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s;
+  font-family: ${c.w4.typography.fontFamily};
+  min-height: 180px;
+
+  /* top accent glow line */
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, ${({accentColor:e})=>e}, transparent);
+    opacity: 0.5;
+    transition: opacity 0.3s;
+  }
+
+  /* shimmer sweep */
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60%;
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      ${({accentColor:e})=>e}08,
+      ${({accentColor:e})=>e}14,
+      transparent
+    );
+    transform: translateX(-100%) skewX(-15deg);
+    pointer-events: none;
+  }
+
+  &:hover {
+    border-color: ${({accentColor:e})=>e}60;
+    background: linear-gradient(
+      168deg,
+      ${({accentColor:e})=>e}14 0%,
+      ${c.w4.colors.surfaceRaised} 45%,
+      ${c.w4.colors.surfaceRaised} 100%
+    );
+    transform: translateY(-4px) scale(1.02);
+    box-shadow:
+      0 0 24px ${({accentColor:e})=>e}15,
+      0 8px 32px rgba(0, 0, 0, 0.3);
+  }
+  &:hover::before {
+    opacity: 1;
+    box-shadow: 0 0 10px ${({accentColor:e})=>e}40;
+  }
+  &:hover::after {
+    animation: ${x} 0.8s ease-out;
+  }
+  &:hover .card-emoji {
+    animation: ${f} 1.5s ease-in-out infinite;
+  }
+
+  &:active {
+    transform: translateY(-2px) scale(0.98);
+  }
+`,P=s().span`
+  font-size: 48px;
+  line-height: 1;
+  animation: ${u} 3s ease-in-out infinite;
+  animation-delay: ${({delay:e})=>e}s;
+  filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.1));
+  transition: filter 0.3s;
+`,R=s().span`
+  font-size: ${c.w4.typography.fontSizeMd};
+  font-weight: 700;
+  color: ${c.w4.colors.mainText};
+`,M=s().span`
+  font-size: ${c.w4.typography.fontSizeSm};
+  color: ${c.w4.colors.mainTextMuted};
+  text-align: center;
+  line-height: 1.4;
+`;s().div`
+  display: flex;
+  gap: 2px;
+  padding: 2px;
+  background: ${c.w4.colors.mainBg};
+  border: 1px solid ${c.w4.colors.border};
+  border-radius: ${c.w4.borderRadius.md};
+  flex-shrink: 0;
+`,s().button`
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 14px;
+  border: none;
+  border-radius: ${c.w4.borderRadius.sm};
+  font-size: 13px;
+  font-weight: 600;
+  font-family: ${c.w4.typography.fontFamily};
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+  white-space: nowrap;
+  background: ${({active:e})=>e?c.w4.colors.surface:"transparent"};
+  color: ${({active:e})=>e?c.w4.colors.mainText:c.w4.colors.mainTextMuted};
+  box-shadow: ${({active:e})=>e?"0 1px 3px rgba(0,0,0,0.3)":"none"};
+  &:hover {
+    color: ${c.w4.colors.mainText};
+    background: ${({active:e})=>e?c.w4.colors.surface:"rgba(255,255,255,0.04)"};
+  }
+`;let Y=s().button`
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border: 1px solid ${c.w4.colors.border};
+  border-radius: ${c.w4.borderRadius.sm};
+  background: none;
+  color: ${c.w4.colors.mainTextMuted};
+  font-size: 12px;
+  font-family: ${c.w4.typography.fontFamily};
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+  &:hover { border-color: ${c.w4.colors.accent}; color: ${c.w4.colors.mainText}; }
+
+  @media (max-width: ${c.w4.breakpoints.md}) {
+    .back-label { display: none; }
+  }
+`,X=s().div`
+  display: flex;
+  align-items: center;
+  gap: ${c.w4.spacing.sm};
+`,N={pt:"O que vamos aprender hoje?",en:"What shall we learn today?"},C={pt:"Escolhe uma disciplina para come\xe7ar",en:"Pick a subject to get started"},L=document.getElementById("root");if(!L)throw Error("Root element #root not found");(0,r.createRoot)(L).render((0,o.jsx)(function({topBarRight:e}){let[a,t]=(0,i.useState)(g),[r]=(0,p.Ym)(),n="pt"===r?"pt":"en";if((0,i.useEffect)(()=>{let e=()=>t(g());return window.addEventListener("hashchange",e),()=>window.removeEventListener("hashchange",e)},[]),!a)return(0,o.jsx)(c.PE,{title:"School",sidebar:null,topBarRight:e,children:(0,o.jsxs)(b,{children:[E.map((e,a)=>(0,o.jsx)(z,{x:e.x,y:e.y,size:e.size,delay:e.delay,dur:e.dur},a)),(0,o.jsx)(T,{top:15,delay:12}),(0,o.jsx)(T,{top:55,delay:25}),(0,o.jsx)(w,{children:N[n]}),(0,o.jsx)(y,{children:C[n]}),(0,o.jsx)(k,{children:"pt"===n?"Disciplinas":"Subjects"}),(0,o.jsx)($,{columns:4,children:m.map((e,a)=>(0,o.jsxs)(S,{accentColor:e.color,onClick:()=>{t(e.key),window.location.hash=`#/${e.hashPrefix}`},children:[(0,o.jsx)(P,{className:"card-emoji",delay:.4*a,children:e.emoji}),(0,o.jsx)(R,{children:e.label[n]}),(0,o.jsx)(M,{children:e.description[n]})]},e.key))})]})});let s=(0,o.jsxs)(X,{children:[(0,o.jsxs)(Y,{onClick:()=>{t(null),window.location.hash="#/school"},children:["←",(0,o.jsxs)("span",{className:"back-label",children:[" ","pt"===n?"Disciplinas":"Subjects"]})]}),e]}),l=m.find(e=>e.key===a);return(0,o.jsx)(d.WO,{hashPrefix:l.hashPrefix,defaultLang:"pt",locale:r,languages:l.languages,welcomeTitle:l.welcomeTitle,welcomeSub:l.welcomeSub,topBarRight:s},a)},{}))}}]);

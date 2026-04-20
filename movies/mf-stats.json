@@ -27,6 +27,55 @@
   "shared": [
     {
       "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "shareScope": "default",
+      "name": "@atlantis/bll",
+      "version": "1.0.0",
+      "eager": false,
+      "id": "movies:@atlantis/bll",
+      "assets": {
+        "js": {
+          "async": [
+            "336.8f7fbc372dedc7e4.js",
+            "408.ab42c4e57b1fed27.js"
+          ],
+          "sync": [
+            "534.b4d8733f6c040493.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "shareScope": "default",
+      "name": "@atlantis/dal",
+      "version": "1.0.0",
+      "eager": false,
+      "id": "movies:@atlantis/dal",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "408.ab42c4e57b1fed27.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
       "requiredVersion": "^11.13.5",
       "shareScope": "default",
       "name": "@emotion/react",
@@ -133,21 +182,24 @@
       "name": "App",
       "requires": [
         "@emotion/styled",
-        "@emotion/react"
+        "@emotion/react",
+        "@atlantis/bll"
       ],
       "file": "src/App",
       "assets": {
         "js": {
           "sync": [
             "559.6c8f17c278227504.js",
-            "268.4d54f97378d7645e.js",
-            "__federation_expose_App.8e514a73fcd3187c.js"
+            "268.569448c25f9c7a88.js",
+            "__federation_expose_App.89d8e47267e0241d.js"
           ],
           "async": [
             "336.8f7fbc372dedc7e4.js",
             "253.168cd8f6d481b9fd.js",
             "214.e1c02eeeeed5e86c.js",
-            "555.00b4b06c8d9e8c9b.js"
+            "555.00b4b06c8d9e8c9b.js",
+            "408.ab42c4e57b1fed27.js",
+            "534.b4d8733f6c040493.js"
           ]
         },
         "css": {

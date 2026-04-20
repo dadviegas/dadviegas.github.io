@@ -27,6 +27,28 @@
   "shared": [
     {
       "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "shareScope": "default",
+      "name": "@atlantis/dal",
+      "version": "1.0.0",
+      "eager": false,
+      "id": "promptlab:@atlantis/dal",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "408.722b76462ebf8ee9.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
       "requiredVersion": "^11.13.5",
       "shareScope": "default",
       "name": "@emotion/react",
@@ -140,13 +162,14 @@
         "js": {
           "sync": [
             "942.1d31c07c0fdd81d5.js",
-            "871.eeffebb56c25627e.js",
-            "__federation_expose_App.6e87c1efa7c39dc8.js"
+            "871.5b0df62c953d7de5.js",
+            "__federation_expose_App.ac32ed8372c471b9.js"
           ],
           "async": [
             "336.90d6c2527385de6b.js",
             "214.9b3e98713ab3000b.js",
-            "555.8b53c8eaaf014be9.js"
+            "555.8b53c8eaaf014be9.js",
+            "408.722b76462ebf8ee9.js"
           ]
         },
         "css": {

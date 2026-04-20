@@ -26,6 +26,25 @@
   },
   "shared": [
     {
+      "id": "colorlab:@atlantis/dal",
+      "name": "@atlantis/dal",
+      "version": "1.0.0",
+      "singleton": true,
+      "requiredVersion": "^1.0.0",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "8408.fa02f6f4a2ff2496.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
       "id": "colorlab:@emotion/react",
       "name": "@emotion/react",
       "version": "11.14.0",
@@ -118,14 +137,15 @@
         "js": {
           "sync": [
             "8914.33b0646dd1ca59d1.js",
-            "7074.88a724e08335d22c.js",
-            "__federation_expose_App.9f4ff85f8c2eba02.js"
+            "7074.e28da3c6bd644ebf.js",
+            "__federation_expose_App.073aff324a8fc328.js"
           ],
           "async": [
             "5336.270f38e7d39465b4.js",
             "4253.7b01d0e5b19cd897.js",
             "214.921f4259b786e76d.js",
             "6555.3b034a5c3c2a2b2a.js",
+            "8408.fa02f6f4a2ff2496.js",
             "6087.d3bb9cac0b9e644a.js",
             "2554.ae3dd0ec9599b449.js",
             "3354.890b9218ffeb2bf2.js",

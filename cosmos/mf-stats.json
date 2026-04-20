@@ -122,7 +122,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     },
     {
       "singleton": true,
@@ -154,6 +156,7 @@
       "id": "cosmos:App",
       "name": "App",
       "requires": [
+        "react-dom",
         "@emotion/styled",
         "@emotion/react"
       ],

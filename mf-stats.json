@@ -175,7 +175,7 @@
       "federationContainerName": "markdown",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/markdown/remoteEntry.js"
     },
@@ -185,7 +185,7 @@
       "federationContainerName": "earth",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/earth/remoteEntry.js"
     },
@@ -195,7 +195,7 @@
       "federationContainerName": "techscope",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/techscope/remoteEntry.js"
     },
@@ -205,7 +205,7 @@
       "federationContainerName": "citypulse",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/citypulse/remoteEntry.js"
     },
@@ -215,7 +215,7 @@
       "federationContainerName": "cosmos",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/cosmos/remoteEntry.js"
     },
@@ -225,7 +225,7 @@
       "federationContainerName": "stockpulse",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/stockpulse/remoteEntry.js"
     },
@@ -235,7 +235,7 @@
       "federationContainerName": "pad",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/pad/remoteEntry.js"
     },
@@ -245,7 +245,7 @@
       "federationContainerName": "regexlab",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/regexlab/remoteEntry.js"
     },
@@ -255,7 +255,7 @@
       "federationContainerName": "jsonexplorer",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/jsonexplorer/remoteEntry.js"
     },
@@ -265,7 +265,7 @@
       "federationContainerName": "codediff",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/codediff/remoteEntry.js"
     },
@@ -275,7 +275,7 @@
       "federationContainerName": "playground",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/playground/remoteEntry.js"
     },
@@ -285,7 +285,7 @@
       "federationContainerName": "jwtinspector",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/jwtinspector/remoteEntry.js"
     },
@@ -295,7 +295,7 @@
       "federationContainerName": "colorlab",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/colorlab/remoteEntry.js"
     },
@@ -305,7 +305,7 @@
       "federationContainerName": "cronbuilder",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/cronbuilder/remoteEntry.js"
     },
@@ -315,7 +315,7 @@
       "federationContainerName": "csvexplorer",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/csvexplorer/remoteEntry.js"
     },
@@ -325,7 +325,7 @@
       "federationContainerName": "chartbuilder",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/chartbuilder/remoteEntry.js"
     },
@@ -335,7 +335,7 @@
       "federationContainerName": "school",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/school/remoteEntry.js"
     },
@@ -345,7 +345,7 @@
       "federationContainerName": "weather",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/weather/remoteEntry.js"
     },
@@ -355,7 +355,7 @@
       "federationContainerName": "apiexplorer",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/apiexplorer/remoteEntry.js"
     },
@@ -365,7 +365,7 @@
       "federationContainerName": "movies",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/movies/remoteEntry.js"
     },
@@ -375,7 +375,7 @@
       "federationContainerName": "promptlab",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/promptlab/remoteEntry.js"
     },
@@ -385,7 +385,7 @@
       "federationContainerName": "imagegen",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/imagegen/remoteEntry.js"
     },
@@ -395,7 +395,7 @@
       "federationContainerName": "games",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/games/remoteEntry.js"
     },
@@ -405,7 +405,7 @@
       "federationContainerName": "daily",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/daily/remoteEntry.js"
     },
@@ -415,7 +415,7 @@
       "federationContainerName": "ask",
       "moduleName": "App",
       "usedIn": [
-        "src/bootstrap.tsx + 53 modules"
+        "src/bootstrap.tsx + 29 modules"
       ],
       "version": "/ask/remoteEntry.js"
     }

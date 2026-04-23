@@ -1,17 +1,18 @@
-"use strict";(self.webpackChunk_atlantis_shell=self.webpackChunk_atlantis_shell||[]).push([["9504"],{28675(e,o,i){i.d(o,{LabLauncherWidget:()=>z});var l=i(65723),a=i(37991),t=i(36859),n=i.n(t),r=i(72799),s=i(23930),c=i(28170),p=i(98975);let d=(0,r.keyframes)`
+"use strict";(self.webpackChunk_atlantis_shell=self.webpackChunk_atlantis_shell||[]).push([["4422"],{24853(e,o,t){t.d(o,{LearnLauncherWidget:()=>C});var i=t(65723),l=t(37991),n=t(36859),r=t.n(n),a=t(72799),s=t(23930),c=t(2938),d=t(28170),p=t(98975),h=t(20593);let x=(0,a.keyframes)`
   from { opacity: 0; transform: translateY(4px); }
   to   { opacity: 1; transform: translateY(0); }
-`,h=n().div`
+`,f=r().div`
   display: flex;
   flex-direction: column;
   gap: 16px;
-  height: 100%;
-  animation: ${d} 0.3s ease both;
-`,x=n().div`
+  flex: 1;
+  min-height: 0;
+  animation: ${x} 0.3s ease both;
+`,g=r().div`
   display: flex;
   gap: 14px;
   align-items: flex-start;
-`,g=n().div`
+`,b=r().div`
   width: 54px;
   height: 54px;
   border-radius: 10px;
@@ -22,22 +23,22 @@
   font-size: 24px;
   color: #fff;
   flex-shrink: 0;
-`,b=n().div`
+`,u=r().div`
   flex: 1;
   min-width: 0;
   padding-top: 2px;
-`,f=n().div`
+`,m=r().div`
   font-size: 17px;
   font-weight: 600;
   letter-spacing: -0.2px;
   color: ${s.w4.colors.mainText};
   margin-bottom: 2px;
-`,u=n().div`
+`,y=r().div`
   font-size: 11.5px;
   color: ${s.w4.colors.mainTextMuted};
   line-height: 1.3;
   margin-bottom: 8px;
-`,m=n().div`
+`,w=r().div`
   display: inline-block;
   padding: 2px 7px;
   border-radius: 3px;
@@ -47,13 +48,13 @@
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: ${s.w4.colors.mainTextMuted};
-`,y=n().div`
+`,$=r().div`
   display: grid;
-  grid-template-columns: ${({cols:e})=>`repeat(${e}, 1fr)`};
+  grid-template-columns: repeat(3, 1fr);
   gap: 10px;
   flex: 1;
   min-height: 0;
-`,w=n().button`
+`,j=r().button`
   background: ${s.w4.colors.codeBg};
   border: 1px solid ${s.w4.colors.borderSubtle};
   border-radius: 8px;
@@ -70,7 +71,7 @@
 
   &:hover { border-color: ${s.w4.colors.borderStrong}; background: ${s.w4.colors.surfaceHover}; }
   &:focus-visible { outline: 2px solid ${s.w4.colors.accent}; outline-offset: -1px; }
-`,$=n().div`
+`,k=r().div`
   width: 30px;
   height: 30px;
   border-radius: 50%;
@@ -80,10 +81,10 @@
   align-items: center;
   justify-content: center;
   font-size: 14px;
-`,k=n().div`
+`,v=r().div`
   font-size: 11px;
   color: ${s.w4.colors.mainText};
-`,v=n().button`
+`,L=r().button`
   display: inline-flex;
   align-self: flex-start;
   background: none;
@@ -97,4 +98,4 @@
 
   &:hover { opacity: 0.8; }
   &:focus-visible { outline: 2px solid ${s.w4.colors.accent}; outline-offset: 2px; }
-`,j=[{id:"ask",glyph:"✦",label:"Ask",bg:"#5e4cbb",hash:"#/ask"},{id:"promptlab",glyph:"◐",label:"Prompt",bg:"#c47a5e",hash:"#/promptlab"},{id:"imagegen",glyph:"◎",label:"Image",bg:"#a85c7a",hash:"#/imagegen"},{id:"playground",glyph:"⟨⟩",label:"Code",bg:"#4a6fa5",hash:"#/playground"},{id:"pad",glyph:"✎",label:"Pad",bg:"#7aa86c",hash:"#/pad"},{id:"apiexplorer",glyph:"☌",label:"API",bg:"#b08c4a",hash:"#/apiexplorer"}];function z({locale:e}){let o="pt"===e?"pt":"en",i=(0,a.useMemo)(()=>(0,c.Nx)(o,p.A),[o]);return(0,l.jsxs)(h,{children:[(0,l.jsxs)(x,{children:[(0,l.jsx)(g,{bg:"linear-gradient(135deg, #3a2f5c 0%, #4e3d80 100%)",children:"⟁"}),(0,l.jsxs)(b,{children:[(0,l.jsx)(f,{children:i("labLauncher.title")}),(0,l.jsx)(u,{children:i("labLauncher.subtitle")}),(0,l.jsxs)(m,{children:[j.length," ",i("labLauncher.count")]})]})]}),(0,l.jsx)(y,{cols:3,children:j.map(e=>(0,l.jsxs)(w,{type:"button",onClick:()=>{window.location.hash=e.hash},"aria-label":e.label,children:[(0,l.jsx)($,{bg:e.bg,children:e.glyph}),(0,l.jsx)(k,{children:e.label})]},e.id))}),(0,l.jsx)(v,{color:s.w4.suites.lab,type:"button",onClick:()=>{window.location.hash="#/ask"},children:i("labLauncher.open")})]})}}}]);
+`,z=[{id:"school",glyph:"✎",label:"Escola",bg:"#c4844a",hash:"#/school"},{id:"leitor",glyph:"ℓ",label:"Leitor",bg:"#c44a4a",hash:"#/leitor"},{id:"games",glyph:"◉",label:"Jogos",bg:"#4a6fc4",hash:"#/games"},{id:"cosmos",glyph:"☿",label:"Cosmos",bg:"#4a4a4a",hash:"#/cosmos"},{id:"earth",glyph:"⨁",label:"Earth",bg:"#7aa86c",hash:"#/earth"},{id:"weather",glyph:"☀",label:"Tempo",bg:"#5e4cbb",hash:"#/weather"}];function C({locale:e}){let o="pt"===e?"pt":"en",t=(0,l.useMemo)(()=>(0,d.Nx)(o,p.A),[o]);return(0,i.jsx)(c.rl,{title:t("learnLauncher.title"),accentColor:h.A.accentColor,children:(0,i.jsxs)(f,{children:[(0,i.jsxs)(g,{children:[(0,i.jsx)(b,{bg:"linear-gradient(135deg, #2f5c4f 0%, #3e805f 100%)",children:"⌘"}),(0,i.jsxs)(u,{children:[(0,i.jsx)(m,{children:t("learnLauncher.title")}),(0,i.jsx)(y,{children:t("learnLauncher.subtitle")}),(0,i.jsxs)(w,{children:[z.length," ",t("learnLauncher.count")]})]})]}),(0,i.jsx)($,{children:z.map(e=>(0,i.jsxs)(j,{type:"button",onClick:()=>{window.location.hash=e.hash},"aria-label":e.label,children:[(0,i.jsx)(k,{bg:e.bg,children:e.glyph}),(0,i.jsx)(v,{children:e.label})]},e.id))}),(0,i.jsx)(L,{color:s.w4.suites.learn,type:"button",onClick:()=>{window.location.hash="#/school"},children:t("learnLauncher.open")})]})})}}}]);

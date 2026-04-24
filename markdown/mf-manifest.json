@@ -28,9 +28,9 @@
     {
       "id": "markdown:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0",
+      "version": "1.0.0-d2e6124",
       "singleton": true,
-      "requiredVersion": "^1.0.0",
+      "requiredVersion": "1.0.0-d2e6124",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "4015.d72c2f228562fa75.js",
-            "7294.d17c9c801761291c.js",
+            "7294.ac67ae9516585987.js",
             "__federation_expose_App.ebfbd69067d9d80d.js"
           ],
           "async": [

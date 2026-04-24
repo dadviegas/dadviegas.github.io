@@ -28,9 +28,9 @@
     {
       "id": "weather:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0",
+      "version": "1.0.0-d2e6124",
       "singleton": true,
-      "requiredVersion": "^1.0.0",
+      "requiredVersion": "1.0.0-d2e6124",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "143.89e9c2e5ed68ae29.js",
-            "895.c3a33e1ee4797689.js",
+            "895.ddb7d4ab9fd9c6f8.js",
             "__federation_expose_App.225d88a006e4a054.js"
           ],
           "async": [

@@ -27,10 +27,10 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "^1.0.0",
+      "requiredVersion": "1.0.0-d2e6124",
       "shareScope": "default",
+      "version": "1.0.0-d2e6124",
       "name": "@atlantis/dal",
-      "version": "1.0.0",
       "eager": false,
       "id": "jwtinspector:@atlantis/dal",
       "assets": {
@@ -159,7 +159,7 @@
         "js": {
           "sync": [
             "4063.9fd501358ab80840.js",
-            "3594.6c72140a0a957507.js",
+            "3594.bae38c574933b287.js",
             "__federation_expose_App.aaeccea09fe7c9c3.js"
           ],
           "async": [

@@ -28,9 +28,9 @@
     {
       "id": "stockpulse:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-ca58dc6",
+      "version": "1.0.0-d47a24d",
       "singleton": true,
-      "requiredVersion": "1.0.0-ca58dc6",
+      "requiredVersion": "1.0.0-d47a24d",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "4063.de1106f99243e6b3.js",
-            "4531.28283ca7e7895389.js",
+            "4531.db4c01e35ed14f22.js",
             "__federation_expose_App.73c668e32ad676b4.js"
           ],
           "async": [

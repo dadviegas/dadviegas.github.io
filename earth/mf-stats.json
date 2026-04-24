@@ -37,10 +37,10 @@
         "js": {
           "async": [
             "336.0666da4e2127a4c8.js",
-            "626.818768820d44ec30.js"
+            "626.94d0c6e17420b579.js"
           ],
           "sync": [
-            "910.8e1fe1a80338dd36.js"
+            "910.0ecaace2ef5b1103.js"
           ]
         },
         "css": {
@@ -62,7 +62,7 @@
         "js": {
           "async": [],
           "sync": [
-            "626.818768820d44ec30.js"
+            "626.94d0c6e17420b579.js"
           ]
         },
         "css": {
@@ -167,7 +167,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -177,6 +179,7 @@
       "id": "earth:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
@@ -191,8 +194,8 @@
             "336.0666da4e2127a4c8.js",
             "214.f9ac8a13e36dada7.js",
             "555.8ce00839ee788f78.js",
-            "626.818768820d44ec30.js",
-            "910.8e1fe1a80338dd36.js"
+            "626.94d0c6e17420b579.js",
+            "910.0ecaace2ef5b1103.js"
           ]
         },
         "css": {

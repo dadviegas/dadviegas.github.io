@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "6412.5370b10cb44ee628.js"
+            "6412.66ff481fae32bf08.js"
           ]
         },
         "css": {
@@ -142,9 +142,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -154,7 +152,6 @@
       "id": "pad:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
@@ -170,7 +167,7 @@
             "4253.c521dd48faed23e0.js",
             "214.03cd7ba1a9bf3b21.js",
             "6555.2f4d5d58d2319f0c.js",
-            "6412.5370b10cb44ee628.js",
+            "6412.66ff481fae32bf08.js",
             "2554.bffbb32c49ff2a22.js",
             "3354.dcde7d180bf0cd47.js",
             "8500.9d16ead9479a1e80.js",

@@ -37,10 +37,10 @@
         "js": {
           "async": [
             "5336.c1ee3f439bab9f03.js",
-            "8626.54b4232fc4b321ee.js"
+            "8626.516a62995fbb823e.js"
           ],
           "sync": [
-            "4067.7ab5c6e184ab2418.js"
+            "4067.a292f49e91f14e52.js"
           ]
         },
         "css": {
@@ -64,7 +64,7 @@
         "js": {
           "async": [],
           "sync": [
-            "8626.54b4232fc4b321ee.js"
+            "8626.516a62995fbb823e.js"
           ]
         },
         "css": {
@@ -171,9 +171,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -183,7 +181,6 @@
       "id": "games:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled",
         "@emotion/react",
         "@atlantis/bll"
@@ -201,8 +198,8 @@
             "4253.dc33225bdada07d3.js",
             "214.c7a438e88778b96b.js",
             "6555.83f52a0f51652bda.js",
-            "8626.54b4232fc4b321ee.js",
-            "4067.7ab5c6e184ab2418.js",
+            "8626.516a62995fbb823e.js",
+            "4067.a292f49e91f14e52.js",
             "6087.caf0e20ceaa31ce6.js",
             "2554.dfcfd5fb0beab89a.js",
             "3354.153f22f1244426ed.js",

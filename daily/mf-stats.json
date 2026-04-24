@@ -37,10 +37,10 @@
         "js": {
           "async": [
             "5336.259954b18d924798.js",
-            "8626.29b47da916a1a83e.js"
+            "8626.38b6e596e236d75e.js"
           ],
           "sync": [
-            "1910.8b2fa6d846199568.js"
+            "1910.df8f26256221d0a3.js"
           ]
         },
         "css": {
@@ -64,7 +64,7 @@
         "js": {
           "async": [],
           "sync": [
-            "8626.29b47da916a1a83e.js"
+            "8626.38b6e596e236d75e.js"
           ]
         },
         "css": {
@@ -171,7 +171,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -181,6 +183,7 @@
       "id": "daily:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled",
         "@emotion/react",
         "@atlantis/bll"
@@ -191,15 +194,15 @@
           "sync": [
             "1189.0633cb4a895e74fc.js",
             "5170.5720597be02470f0.js",
-            "__federation_expose_App.2c6ea5c78ca5f665.js"
+            "__federation_expose_App.98cc7c4e1e140ed5.js"
           ],
           "async": [
             "5336.259954b18d924798.js",
             "4253.ef0d193352b7733e.js",
             "214.222eaa19cda4a97a.js",
             "6555.d5fcc9797ed19299.js",
-            "8626.29b47da916a1a83e.js",
-            "1910.8b2fa6d846199568.js",
+            "8626.38b6e596e236d75e.js",
+            "1910.df8f26256221d0a3.js",
             "6087.5ee174ff6c7a291e.js",
             "2554.77c33daeff159370.js",
             "3354.01de1d84ec4b74c9.js",

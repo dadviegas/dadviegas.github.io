@@ -37,10 +37,10 @@
         "js": {
           "async": [
             "336.90d6c2527385de6b.js",
-            "626.9a4143c3182256f6.js"
+            "626.92ad3aeb85ca004b.js"
           ],
           "sync": [
-            "910.860fcc6b9cf7684f.js"
+            "910.7f3a378859dbc9ed.js"
           ]
         },
         "css": {
@@ -62,7 +62,7 @@
         "js": {
           "async": [],
           "sync": [
-            "626.9a4143c3182256f6.js"
+            "626.92ad3aeb85ca004b.js"
           ]
         },
         "css": {
@@ -169,7 +169,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -179,6 +181,7 @@
       "id": "promptlab:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled",
         "@emotion/react"
       ],
@@ -194,8 +197,8 @@
             "336.90d6c2527385de6b.js",
             "214.9b3e98713ab3000b.js",
             "555.8b53c8eaaf014be9.js",
-            "626.9a4143c3182256f6.js",
-            "910.860fcc6b9cf7684f.js"
+            "626.92ad3aeb85ca004b.js",
+            "910.7f3a378859dbc9ed.js"
           ]
         },
         "css": {

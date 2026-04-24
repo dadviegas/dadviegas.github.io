@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-d47a24d",
+      "requiredVersion": "1.0.0-2ea18a8",
       "shareScope": "default",
-      "version": "1.0.0-d47a24d",
+      "version": "1.0.0-2ea18a8",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "earth:@atlantis/bll",
@@ -40,7 +40,7 @@
             "8626.35729e69d2c71fd5.js"
           ],
           "sync": [
-            "9556.0737ec7859be892c.js"
+            "8163.9c8f50b6d7473b22.js"
           ]
         },
         "css": {
@@ -48,13 +48,15 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-d47a24d",
+      "requiredVersion": "1.0.0-2ea18a8",
       "shareScope": "default",
-      "version": "1.0.0-d47a24d",
+      "version": "1.0.0-2ea18a8",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "earth:@atlantis/dal",
@@ -177,15 +179,16 @@
       "id": "earth:App",
       "name": "App",
       "requires": [
-        "@emotion/styled"
+        "@emotion/styled",
+        "@atlantis/bll"
       ],
       "file": "src/App",
       "assets": {
         "js": {
           "sync": [
             "4063.62ae06aaf43c8d82.js",
-            "1210.0d914a0d235f9c0d.js",
-            "__federation_expose_App.37b6ddc59805534a.js"
+            "1210.f800558578f03f36.js",
+            "__federation_expose_App.a5e32580962ffb83.js"
           ],
           "async": [
             "5336.2022b79b7869ccc5.js",
@@ -193,6 +196,7 @@
             "214.f9ac8a13e36dada7.js",
             "6555.bdcd1246f1800370.js",
             "8626.35729e69d2c71fd5.js",
+            "8163.9c8f50b6d7473b22.js",
             "6087.cc074eefbc6142ec.js",
             "2554.d72d965f6c37d4dd.js",
             "3354.7df50b4ae470ba76.js",
@@ -241,8 +245,7 @@
             "2648.bec29485c3b3a972.js",
             "8662.51b96375ff0118eb.js",
             "1611.b3c209b5caa351a3.js",
-            "6016.38e367003d00d2ee.js",
-            "9556.0737ec7859be892c.js"
+            "6016.38e367003d00d2ee.js"
           ]
         },
         "css": {

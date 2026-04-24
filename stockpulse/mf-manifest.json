@@ -28,9 +28,9 @@
     {
       "id": "stockpulse:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-d47a24d",
+      "version": "1.0.0-2ea18a8",
       "singleton": true,
-      "requiredVersion": "1.0.0-d47a24d",
+      "requiredVersion": "1.0.0-2ea18a8",
       "assets": {
         "js": {
           "async": [],
@@ -137,8 +137,8 @@
         "js": {
           "sync": [
             "4063.de1106f99243e6b3.js",
-            "4531.db4c01e35ed14f22.js",
-            "__federation_expose_App.73c668e32ad676b4.js"
+            "4531.61133949e9282ffc.js",
+            "__federation_expose_App.6cf8578f021735f5.js"
           ],
           "async": [
             "5336.86b47d3638a3dbb9.js",

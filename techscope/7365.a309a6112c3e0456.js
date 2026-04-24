@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_techscope=self.webpackChunk_atlantis_techscope||[]).push([["7365"],{5908(e,c,s){s.d(c,{createPacketServices:()=>t.$});var t=s(6923);s(5164)}}]);

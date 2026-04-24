@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_techscope=self.webpackChunk_atlantis_techscope||[]).push([["8898"],{1273(e,s,a){a.d(s,{createWardleyServices:()=>c.J});var c=a(965);a(5164)}}]);

@@ -35,10 +35,10 @@
         "js": {
           "async": [
             "5336.9589af9bd65d3aa5.js",
-            "8626.4ef1f0ac2ab3da51.js"
+            "8626.6e6fb57d30a52827.js"
           ],
           "sync": [
-            "3548.c4ae18092e97becb.js"
+            "4883.b8ec43f15b39723b.js"
           ]
         },
         "css": {
@@ -57,7 +57,7 @@
         "js": {
           "async": [],
           "sync": [
-            "8626.4ef1f0ac2ab3da51.js"
+            "8626.6e6fb57d30a52827.js"
           ]
         },
         "css": {
@@ -300,6 +300,12 @@
       "moduleName": "App",
       "alias": "ask",
       "entry": "/ask/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "finance",
+      "moduleName": "App",
+      "alias": "finance",
+      "entry": "/finance/remoteEntry.js"
     }
   ],
   "exposes": []

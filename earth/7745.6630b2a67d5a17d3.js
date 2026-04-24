@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_earth=self.webpackChunk_atlantis_earth||[]).push([["7745"],{7256(e,t,a){a.d(t,{createArchitectureServices:()=>r.S});var r=a(5796);a(5164)}}]);

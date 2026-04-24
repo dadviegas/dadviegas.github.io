@@ -28,17 +28,19 @@
     {
       "id": "ask:@atlantis/bll",
       "name": "@atlantis/bll",
-      "version": "1.0.0-2ea18a8",
+      "version": "1.0.0-f737cd2",
       "singleton": true,
-      "requiredVersion": "1.0.0-2ea18a8",
+      "requiredVersion": "1.0.0-f737cd2",
       "assets": {
         "js": {
           "async": [
             "5336.1077bc160e4d84c4.js",
+            "214.7f470f7257ac567d.js",
+            "6555.b68fa1376df907da.js",
             "8626.d309f8467dee3c2c.js"
           ],
           "sync": [
-            "1660.da93928771373132.js"
+            "3193.a33b506034d6f442.js"
           ]
         },
         "css": {
@@ -50,9 +52,9 @@
     {
       "id": "ask:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-2ea18a8",
+      "version": "1.0.0-f737cd2",
       "singleton": true,
-      "requiredVersion": "1.0.0-2ea18a8",
+      "requiredVersion": "1.0.0-f737cd2",
       "assets": {
         "js": {
           "async": [],
@@ -78,7 +80,7 @@
             "5336.1077bc160e4d84c4.js"
           ],
           "sync": [
-            "6555.98a9c99a01a00394.js"
+            "6555.b68fa1376df907da.js"
           ]
         },
         "css": {
@@ -97,10 +99,10 @@
         "js": {
           "async": [
             "5336.1077bc160e4d84c4.js",
-            "6555.98a9c99a01a00394.js"
+            "6555.b68fa1376df907da.js"
           ],
           "sync": [
-            "214.b3587e892b290e97.js"
+            "214.7f470f7257ac567d.js"
           ]
         },
         "css": {
@@ -158,17 +160,19 @@
       "assets": {
         "js": {
           "sync": [
-            "9167.4a02d686a5cd3ac4.js",
-            "6177.e3f47c73ecc721d0.js",
-            "__federation_expose_App.8203027997faf83f.js"
+            "7143.1c07c29c7bace5d7.js",
+            "7132.767b3a2ac83b67fa.js",
+            "5755.d0a5bf73e9970599.js",
+            "5433.7e1264e3f2dddadb.js",
+            "__federation_expose_App.b055ea4c1241e267.js"
           ],
           "async": [
             "5336.1077bc160e4d84c4.js",
             "4253.f894b8ae287ddb56.js",
-            "214.b3587e892b290e97.js",
-            "6555.98a9c99a01a00394.js",
+            "214.7f470f7257ac567d.js",
+            "6555.b68fa1376df907da.js",
             "8626.d309f8467dee3c2c.js",
-            "1660.da93928771373132.js",
+            "3193.a33b506034d6f442.js",
             "6087.6839d686d30baf8a.js",
             "2554.26e92531df9c1071.js",
             "3354.13d4050490cde908.js",

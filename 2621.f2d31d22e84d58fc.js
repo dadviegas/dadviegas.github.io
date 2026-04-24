@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_shell=self.webpackChunk_atlantis_shell||[]).push([["2621"],{69932(n,a,l){l.d(a,{A:()=>s});function s(){return(s=Object.assign?Object.assign.bind():function(n){for(var a=1;a<arguments.length;a++){var l=arguments[a];for(var s in l)({}).hasOwnProperty.call(l,s)&&(n[s]=l[s])}return n}).apply(null,arguments)}}}]);

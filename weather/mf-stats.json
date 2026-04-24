@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-2ea18a8",
+      "requiredVersion": "1.0.0-f737cd2",
       "shareScope": "default",
-      "version": "1.0.0-2ea18a8",
+      "version": "1.0.0-f737cd2",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "weather:@atlantis/bll",
@@ -37,10 +37,12 @@
         "js": {
           "async": [
             "336.295ab048011b55e6.js",
+            "214.ac5f14bd57a51e75.js",
+            "555.205cf0739745f525.js",
             "626.aec07cc040fa7724.js"
           ],
           "sync": [
-            "163.54522d31d468f987.js"
+            "294.d75f502268a7c5ee.js"
           ]
         },
         "css": {
@@ -54,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-2ea18a8",
+      "requiredVersion": "1.0.0-f737cd2",
       "shareScope": "default",
-      "version": "1.0.0-2ea18a8",
+      "version": "1.0.0-f737cd2",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "weather:@atlantis/dal",
@@ -113,7 +115,7 @@
             "555.205cf0739745f525.js"
           ],
           "sync": [
-            "833.ada9ee5275259280.js"
+            "214.ac5f14bd57a51e75.js"
           ]
         },
         "css": {
@@ -169,7 +171,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -179,6 +183,7 @@
       "id": "weather:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled",
         "@atlantis/bll"
       ],
@@ -187,15 +192,15 @@
         "js": {
           "sync": [
             "143.89e9c2e5ed68ae29.js",
-            "523.d7299d77805aef12.js",
-            "__federation_expose_App.8e615b47f6ab4bdb.js"
+            "407.a7f2f53ed5d908e6.js",
+            "__federation_expose_App.6ed6a1ec67e4b802.js"
           ],
           "async": [
             "336.295ab048011b55e6.js",
-            "833.ada9ee5275259280.js",
+            "214.ac5f14bd57a51e75.js",
             "555.205cf0739745f525.js",
             "626.aec07cc040fa7724.js",
-            "163.54522d31d468f987.js"
+            "294.d75f502268a7c5ee.js"
           ]
         },
         "css": {

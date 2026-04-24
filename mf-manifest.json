@@ -35,10 +35,12 @@
         "js": {
           "async": [
             "5336.9589af9bd65d3aa5.js",
+            "214.f3478f036eb35f51.js",
+            "6555.62a7c56aedeb37e5.js",
             "8626.6e6fb57d30a52827.js"
           ],
           "sync": [
-            "8873.2c3121a26bd5b01d.js"
+            "9047.ca339857e3543f49.js"
           ]
         },
         "css": {
@@ -78,7 +80,7 @@
             "5336.9589af9bd65d3aa5.js"
           ],
           "sync": [
-            "6555.08a12dbaf7b15fbb.js"
+            "6555.62a7c56aedeb37e5.js"
           ]
         },
         "css": {
@@ -97,10 +99,10 @@
         "js": {
           "async": [
             "5336.9589af9bd65d3aa5.js",
-            "6555.08a12dbaf7b15fbb.js"
+            "6555.62a7c56aedeb37e5.js"
           ],
           "sync": [
-            "214.7fda22c0f39a3478.js"
+            "214.f3478f036eb35f51.js"
           ]
         },
         "css": {

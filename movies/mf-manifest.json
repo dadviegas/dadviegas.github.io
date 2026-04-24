@@ -28,9 +28,9 @@
     {
       "id": "movies:@atlantis/bll",
       "name": "@atlantis/bll",
-      "version": "1.0.0-2350bce",
+      "version": "1.0.0-ca58dc6",
       "singleton": true,
-      "requiredVersion": "1.0.0-2350bce",
+      "requiredVersion": "1.0.0-ca58dc6",
       "assets": {
         "js": {
           "async": [
@@ -38,7 +38,7 @@
             "8626.19d019e4bf51e978.js"
           ],
           "sync": [
-            "9556.947dd16a2a369224.js"
+            "9556.4cbf9e6d6130c169.js"
           ]
         },
         "css": {
@@ -50,9 +50,9 @@
     {
       "id": "movies:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-2350bce",
+      "version": "1.0.0-ca58dc6",
       "singleton": true,
-      "requiredVersion": "1.0.0-2350bce",
+      "requiredVersion": "1.0.0-ca58dc6",
       "assets": {
         "js": {
           "async": [],
@@ -159,8 +159,8 @@
         "js": {
           "sync": [
             "4063.3e78a5f4caf8d4e2.js",
-            "3268.ccc17d49aa45a123.js",
-            "__federation_expose_App.81ccd7e5c9ea3d87.js"
+            "3268.5265b9eed77b43d2.js",
+            "__federation_expose_App.c03d4ed9523929f0.js"
           ],
           "async": [
             "5336.4b8ed4cff7ab52ae.js",
@@ -168,16 +168,16 @@
             "214.e1c02eeeeed5e86c.js",
             "6555.c066bc0cbe4d3bcf.js",
             "8626.19d019e4bf51e978.js",
-            "9556.947dd16a2a369224.js",
+            "9556.4cbf9e6d6130c169.js",
             "6087.436e163f8059c459.js",
             "2554.d4effbfee28f0d5b.js",
             "3354.a521ad664f3ad45c.js",
             "8500.55cf6cbbd9879324.js",
             "7739.704eb82acbceb8e8.js",
-            "3698.bf1bf6ab2a8ab03a.js",
+            "3698.8d994ae90bfc575a.js",
             "803.b2eee9d6b1040faa.js",
             "6049.970e993cf573231d.js",
-            "7365.f9f363e560449d98.js",
+            "7365.735efbedc170bb8c.js",
             "4768.f53d57474f9c67e1.js",
             "643.b754755b833dbb4e.js",
             "7745.1aa411851bf19c6f.js",

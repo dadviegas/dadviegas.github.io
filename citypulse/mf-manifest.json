@@ -28,9 +28,9 @@
     {
       "id": "citypulse:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-2350bce",
+      "version": "1.0.0-ca58dc6",
       "singleton": true,
-      "requiredVersion": "1.0.0-2350bce",
+      "requiredVersion": "1.0.0-ca58dc6",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "4063.528ca882e16c0aac.js",
-            "7206.f9dd96d23184266d.js",
+            "7206.4e5f9cfb07f3d7bf.js",
             "__federation_expose_App.dd946548474c16d9.js"
           ],
           "async": [
@@ -151,10 +151,10 @@
             "3354.fb064c43a606fc0d.js",
             "8500.1c06fb0f0285eb24.js",
             "7739.8dd3f519dda337bc.js",
-            "3698.f3fdb8b4129361d9.js",
+            "3698.066b4a7001619afc.js",
             "803.85c01f2ad6233be6.js",
             "6049.4161d3aeea19751c.js",
-            "7365.2055d82c99026f52.js",
+            "7365.b2724c143b19d943.js",
             "4768.541910371122890a.js",
             "643.dc1855d4d81311b4.js",
             "7745.632a5b4e3b1f66a9.js",

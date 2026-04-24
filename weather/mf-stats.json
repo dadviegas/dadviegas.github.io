@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-2350bce",
+      "requiredVersion": "1.0.0-ca58dc6",
       "shareScope": "default",
-      "version": "1.0.0-2350bce",
+      "version": "1.0.0-ca58dc6",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "weather:@atlantis/dal",
@@ -142,9 +142,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -154,7 +152,6 @@
       "id": "weather:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
@@ -162,7 +159,7 @@
         "js": {
           "sync": [
             "143.89e9c2e5ed68ae29.js",
-            "895.0fd3646ad960b3f7.js",
+            "895.6bb2db3947c15281.js",
             "__federation_expose_App.225d88a006e4a054.js"
           ],
           "async": [

@@ -28,9 +28,9 @@
     {
       "id": "regexlab:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-2350bce",
+      "version": "1.0.0-ca58dc6",
       "singleton": true,
-      "requiredVersion": "1.0.0-2350bce",
+      "requiredVersion": "1.0.0-ca58dc6",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "4063.02fdb04f4d0ab4dc.js",
-            "3594.84d862966f7a1f82.js",
+            "3594.2f87ee1af870f80f.js",
             "__federation_expose_App.3e95c52ff3052dc1.js"
           ],
           "async": [
@@ -151,10 +151,10 @@
             "3354.33f3b4bb5cc8cbc8.js",
             "8500.b16536f1f02e117d.js",
             "7739.1463a89608e8a001.js",
-            "3698.43e44640efa7d60d.js",
+            "3698.fab89dd38d7d8644.js",
             "803.950c3f1ca202aba8.js",
             "6049.a7bd810283fa051b.js",
-            "7365.2abd8cd18040413b.js",
+            "7365.f9225305909f0e25.js",
             "4768.e01283e06f8ffc6e.js",
             "643.6c58583596d6fe2e.js",
             "7745.1c676cf075ddb144.js",

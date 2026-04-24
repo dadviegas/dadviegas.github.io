@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-2350bce",
+      "requiredVersion": "1.0.0-ca58dc6",
       "shareScope": "default",
-      "version": "1.0.0-2350bce",
+      "version": "1.0.0-ca58dc6",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "stockpulse:@atlantis/dal",
@@ -142,7 +142,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -152,6 +154,7 @@
       "id": "stockpulse:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
@@ -159,7 +162,7 @@
         "js": {
           "sync": [
             "4063.de1106f99243e6b3.js",
-            "4531.487354686a74a7d8.js",
+            "4531.28283ca7e7895389.js",
             "__federation_expose_App.73c668e32ad676b4.js"
           ],
           "async": [
@@ -173,10 +176,10 @@
             "3354.fb3e1ae3f14c1a93.js",
             "8500.d17927c5815bc944.js",
             "7739.4438dce257b18662.js",
-            "3698.08576d268b21cbf8.js",
+            "3698.5ced7bfb157ec5b7.js",
             "803.deb76e3050865baf.js",
             "6049.d6e6a1c078448cd5.js",
-            "7365.d0424aeb155b6bbd.js",
+            "7365.6faf449bc7f1fcc8.js",
             "4768.292d9e681a2d306c.js",
             "643.caebdd47f7eab0d1.js",
             "7745.768d2b3764c05ae6.js",

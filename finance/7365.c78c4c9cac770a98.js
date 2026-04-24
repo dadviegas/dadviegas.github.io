@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_finance=self.webpackChunk_atlantis_finance||[]).push([["7365"],{5908(e,a,c){c.d(a,{createPacketServices:()=>n.$});var n=c(6923);c(5164)}}]);

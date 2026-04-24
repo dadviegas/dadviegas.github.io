@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-d2e6124",
+      "requiredVersion": "1.0.0-2350bce",
       "shareScope": "default",
-      "version": "1.0.0-d2e6124",
+      "version": "1.0.0-2350bce",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "daily:@atlantis/bll",
@@ -40,7 +40,7 @@
             "8626.db24ee1bbaaec06b.js"
           ],
           "sync": [
-            "9556.34f3c2cd7a1df64a.js"
+            "9556.3a68fccfd6cfcf83.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-d2e6124",
+      "requiredVersion": "1.0.0-2350bce",
       "shareScope": "default",
-      "version": "1.0.0-d2e6124",
+      "version": "1.0.0-2350bce",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "daily:@atlantis/dal",
@@ -171,9 +171,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -183,7 +181,6 @@
       "id": "daily:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled",
         "@emotion/react",
         "@atlantis/bll"
@@ -193,8 +190,8 @@
         "js": {
           "sync": [
             "4063.12a87fb0595630ce.js",
-            "1265.7c8a5c5f544b8bf4.js",
-            "__federation_expose_App.9d56c3c06eb55360.js"
+            "1265.851a54b3459dbf96.js",
+            "__federation_expose_App.62af9acc3fbf781d.js"
           ],
           "async": [
             "5336.259954b18d924798.js",
@@ -202,16 +199,16 @@
             "214.222eaa19cda4a97a.js",
             "6555.d5fcc9797ed19299.js",
             "8626.db24ee1bbaaec06b.js",
-            "9556.34f3c2cd7a1df64a.js",
+            "9556.3a68fccfd6cfcf83.js",
             "6087.5ee174ff6c7a291e.js",
             "2554.77c33daeff159370.js",
             "3354.01de1d84ec4b74c9.js",
             "8500.154c6ee57373e576.js",
             "7739.bc49ae21ac84e50a.js",
-            "3698.0c7e4c39636045b2.js",
+            "3698.f85e593c37d152a7.js",
             "803.d2797a5cc4d88b68.js",
             "6049.583e8a5e8ed5b676.js",
-            "7365.4cb09182c7b6468f.js",
+            "7365.7ad96f89c8bafbff.js",
             "4768.3b779f48eff29322.js",
             "643.d941d7cb97bb5f19.js",
             "7745.725e729dd80670bc.js",

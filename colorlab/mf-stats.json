@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-d2e6124",
+      "requiredVersion": "1.0.0-2350bce",
       "shareScope": "default",
-      "version": "1.0.0-d2e6124",
+      "version": "1.0.0-2350bce",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "colorlab:@atlantis/dal",
@@ -159,7 +159,7 @@
         "js": {
           "sync": [
             "4063.c3b91c8f016fc3cf.js",
-            "9125.e65e9bd9f0b22096.js",
+            "9125.c825bb0330159cbc.js",
             "__federation_expose_App.9b41a96e825eb278.js"
           ],
           "async": [
@@ -173,10 +173,10 @@
             "3354.890b9218ffeb2bf2.js",
             "8500.30adbb73486ed04e.js",
             "7739.466cb05b129924f6.js",
-            "3698.b89b19c9926418de.js",
+            "3698.ee177bb622ef15ac.js",
             "803.85c622a7e805e9e2.js",
             "6049.920272a5367f39e7.js",
-            "7365.693abaa4ff4ca004.js",
+            "7365.93c026efede32a96.js",
             "4768.f0fd8ed4a0ce576f.js",
             "643.5aaea73bbc21b8ae.js",
             "7745.0a50dabeef2c40c5.js",

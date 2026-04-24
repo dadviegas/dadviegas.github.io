@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-d2e6124",
+      "requiredVersion": "1.0.0-2350bce",
       "shareScope": "default",
-      "version": "1.0.0-d2e6124",
+      "version": "1.0.0-2350bce",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "chartbuilder:@atlantis/dal",
@@ -159,7 +159,7 @@
         "js": {
           "sync": [
             "4063.ff5c2a11aaf54048.js",
-            "2926.a0e08ce0ef158585.js",
+            "2926.71e9f79ba09600f4.js",
             "__federation_expose_App.91db271ba814e581.js"
           ],
           "async": [
@@ -173,10 +173,10 @@
             "3354.fe181d274809c623.js",
             "8500.56aba4df6d34a99e.js",
             "7739.57ed08dcf5922e94.js",
-            "3698.fd1682a5136b41c7.js",
+            "3698.ebec5559207f3895.js",
             "803.da194ea5d97010e2.js",
             "6049.ee55a3d714e70e2a.js",
-            "7365.2144a5ed0b87ff83.js",
+            "7365.51f6a2fb80085af4.js",
             "4768.a227826f9f8c7425.js",
             "643.9fc8de2c585e12f5.js",
             "7745.d01415c83c14e55e.js",

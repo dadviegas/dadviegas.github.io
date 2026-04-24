@@ -28,9 +28,9 @@
     {
       "id": "codediff:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-d2e6124",
+      "version": "1.0.0-2350bce",
       "singleton": true,
-      "requiredVersion": "1.0.0-d2e6124",
+      "requiredVersion": "1.0.0-2350bce",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "4063.e853d8e13bfb53e2.js",
-            "3124.dbf352baa659469b.js",
+            "3124.8f9fb5a41db0efab.js",
             "__federation_expose_App.9d9207241d276e23.js"
           ],
           "async": [
@@ -151,10 +151,10 @@
             "3354.4e8b31e38db83af8.js",
             "8500.bd6a65515fbbdf7b.js",
             "7739.d6062a17c2c46b46.js",
-            "3698.24e0d92ab40fe42c.js",
+            "3698.a9f4cd3707e224d3.js",
             "803.8b9cf6cb16c02a4f.js",
             "6049.fc0301418db4d6d4.js",
-            "7365.5b7f31ca6c8b2c01.js",
+            "7365.3f3f5042b64d82a4.js",
             "4768.26e294ca83fc5e53.js",
             "643.cb9916f73aa80c81.js",
             "7745.1f1afacaf19d5b50.js",

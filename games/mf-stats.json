@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-d2e6124",
+      "requiredVersion": "1.0.0-2350bce",
       "shareScope": "default",
-      "version": "1.0.0-d2e6124",
+      "version": "1.0.0-2350bce",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "games:@atlantis/bll",
@@ -40,7 +40,7 @@
             "8626.e323d48e84527987.js"
           ],
           "sync": [
-            "5338.b4d0d7131bc1ae1e.js"
+            "5338.974a5b33be9b3f55.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-d2e6124",
+      "requiredVersion": "1.0.0-2350bce",
       "shareScope": "default",
-      "version": "1.0.0-d2e6124",
+      "version": "1.0.0-2350bce",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "games:@atlantis/dal",
@@ -171,7 +171,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -181,6 +183,7 @@
       "id": "games:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled",
         "@emotion/react",
         "@atlantis/bll"
@@ -190,8 +193,8 @@
         "js": {
           "sync": [
             "1159.f6f32ecc869a4d36.js",
-            "9732.abd9b54a698c43dd.js",
-            "__federation_expose_App.984a11869068e02a.js"
+            "7958.85187c0879125e5f.js",
+            "__federation_expose_App.cdf34707dceb4f9e.js"
           ],
           "async": [
             "5336.c1ee3f439bab9f03.js",
@@ -199,16 +202,16 @@
             "214.c7a438e88778b96b.js",
             "6555.83f52a0f51652bda.js",
             "8626.e323d48e84527987.js",
-            "5338.b4d0d7131bc1ae1e.js",
+            "5338.974a5b33be9b3f55.js",
             "6087.caf0e20ceaa31ce6.js",
             "2554.dfcfd5fb0beab89a.js",
             "3354.153f22f1244426ed.js",
             "8500.8ee22660f1936f49.js",
             "7739.c83daa5a16c77818.js",
-            "3698.af513f36f69f1338.js",
+            "3698.0a163f99f1cb7054.js",
             "803.814df0853de6e3dc.js",
             "6049.238338333390080e.js",
-            "7365.60ef39f7e7e53dc8.js",
+            "7365.66e06f51e79e49b7.js",
             "4768.0d57b9aa02ce15d1.js",
             "643.a3b02fae2b781f02.js",
             "7745.1c74afce76b6e3d0.js",

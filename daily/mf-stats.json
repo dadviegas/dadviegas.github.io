@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-dd91c30",
+      "requiredVersion": "1.0.0-ddd2b60",
       "shareScope": "default",
-      "version": "1.0.0-dd91c30",
+      "version": "1.0.0-ddd2b60",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "daily:@atlantis/bll",
@@ -42,7 +42,7 @@
             "8626.db24ee1bbaaec06b.js"
           ],
           "sync": [
-            "8294.30e9788c8e006089.js"
+            "8294.473e82835c29ecb4.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-dd91c30",
+      "requiredVersion": "1.0.0-ddd2b60",
       "shareScope": "default",
-      "version": "1.0.0-dd91c30",
+      "version": "1.0.0-ddd2b60",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "daily:@atlantis/dal",
@@ -173,7 +173,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -183,6 +185,7 @@
       "id": "daily:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled",
         "@emotion/react",
         "@atlantis/bll"
@@ -193,9 +196,9 @@
           "sync": [
             "7143.248b4b110d071c40.js",
             "6384.6d82ee2fb5a37302.js",
-            "1407.e214583065633b37.js",
-            "1265.db8caae897efd288.js",
-            "__federation_expose_App.d5e9208f79269305.js"
+            "1407.352cf258775320ad.js",
+            "1265.8fb0bd105cdab998.js",
+            "__federation_expose_App.673d9a4a4a5f22ce.js"
           ],
           "async": [
             "5336.259954b18d924798.js",
@@ -203,7 +206,7 @@
             "214.222eaa19cda4a97a.js",
             "6555.d5fcc9797ed19299.js",
             "8626.db24ee1bbaaec06b.js",
-            "8294.30e9788c8e006089.js",
+            "8294.473e82835c29ecb4.js",
             "6087.5ee174ff6c7a291e.js",
             "2554.77c33daeff159370.js",
             "3354.01de1d84ec4b74c9.js",

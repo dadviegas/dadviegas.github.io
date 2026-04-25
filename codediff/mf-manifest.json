@@ -28,9 +28,9 @@
     {
       "id": "codediff:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-36c50f8",
+      "version": "1.0.0-aaf1684",
       "singleton": true,
-      "requiredVersion": "1.0.0-36c50f8",
+      "requiredVersion": "1.0.0-aaf1684",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "451.eb6aae0259e01eec.js",
-            "124.ccb14ea530451051.js",
+            "124.e22ad2af3feacffd.js",
             "__federation_expose_App.018f254da7194332.js"
           ],
           "async": [

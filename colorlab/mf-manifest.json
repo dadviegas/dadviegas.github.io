@@ -28,9 +28,9 @@
     {
       "id": "colorlab:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-33f3a45",
+      "version": "1.0.0-36c50f8",
       "singleton": true,
-      "requiredVersion": "1.0.0-33f3a45",
+      "requiredVersion": "1.0.0-36c50f8",
       "assets": {
         "js": {
           "async": [],
@@ -136,8 +136,8 @@
       "assets": {
         "js": {
           "sync": [
-            "63.83095832eff3c2af.js",
-            "125.dade1871e4595a42.js",
+            "451.c46ecfa10f527e28.js",
+            "125.d2f1d8bc02b41a44.js",
             "__federation_expose_App.ce8eb59b121c52a5.js"
           ],
           "async": [

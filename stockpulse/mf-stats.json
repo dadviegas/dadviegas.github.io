@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-33f3a45",
+      "requiredVersion": "1.0.0-36c50f8",
       "shareScope": "default",
-      "version": "1.0.0-33f3a45",
+      "version": "1.0.0-36c50f8",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "stockpulse:@atlantis/dal",
@@ -142,9 +142,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -154,15 +152,14 @@
       "id": "stockpulse:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
       "assets": {
         "js": {
           "sync": [
-            "63.faf4c7f9cf4d6d0d.js",
-            "531.8f0ec1465c60a11f.js",
+            "451.d5ba518ed1f7e9f5.js",
+            "531.ce6b9e4b6a577ade.js",
             "__federation_expose_App.b1996d51297cd349.js"
           ],
           "async": [

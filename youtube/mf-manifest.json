@@ -1,0 +1,186 @@
+{
+  "id": "youtube",
+  "name": "youtube",
+  "metaData": {
+    "name": "youtube",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/youtube"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "youtube",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "id": "youtube:@atlantis/bll",
+      "name": "@atlantis/bll",
+      "version": "1.0.0-f5938eb",
+      "singleton": true,
+      "requiredVersion": "1.0.0-f5938eb",
+      "assets": {
+        "js": {
+          "async": [
+            "336.6e1231f05db1b009.js",
+            "214.52b9a0c97cdfa912.js",
+            "555.bbcd02512131e02c.js",
+            "460.c83a4645277e686e.js"
+          ],
+          "sync": [
+            "188.11e2fdbbfe6fb6c2.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "youtube:@atlantis/dal",
+      "name": "@atlantis/dal",
+      "version": "1.0.0-f5938eb",
+      "singleton": true,
+      "requiredVersion": "1.0.0-f5938eb",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "460.c83a4645277e686e.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "youtube:@emotion/react",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "assets": {
+        "js": {
+          "async": [
+            "336.6e1231f05db1b009.js"
+          ],
+          "sync": [
+            "555.bbcd02512131e02c.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "youtube:@emotion/styled",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "assets": {
+        "js": {
+          "async": [
+            "336.6e1231f05db1b009.js",
+            "555.bbcd02512131e02c.js"
+          ],
+          "sync": [
+            "214.52b9a0c97cdfa912.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "youtube:react-dom",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "336.6e1231f05db1b009.js"
+          ],
+          "sync": [
+            "253.38b182fde62fc0f7.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "youtube:react",
+      "name": "react",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.6e1231f05db1b009.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "youtube:App",
+      "name": "App",
+      "assets": {
+        "js": {
+          "sync": [
+            "251.0611c953603185c0.js",
+            "384.0b404231901fdf97.js",
+            "407.fc23a6e8827bd1a1.js",
+            "773.ec08548725d558a7.js",
+            "__federation_expose_App.023a6abdcbfea4a2.js"
+          ],
+          "async": [
+            "336.6e1231f05db1b009.js",
+            "253.38b182fde62fc0f7.js",
+            "214.52b9a0c97cdfa912.js",
+            "555.bbcd02512131e02c.js",
+            "460.c83a4645277e686e.js",
+            "188.11e2fdbbfe6fb6c2.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./App"
+    }
+  ]
+}

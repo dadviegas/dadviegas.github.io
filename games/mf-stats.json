@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-aaf1684",
+      "requiredVersion": "1.0.0-f5938eb",
       "shareScope": "default",
-      "version": "1.0.0-aaf1684",
+      "version": "1.0.0-f5938eb",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "games:@atlantis/bll",
@@ -39,10 +39,10 @@
             "336.6d03358548d2b55e.js",
             "214.c7a438e88778b96b.js",
             "555.a5393aca6dbadd8c.js",
-            "626.34ed9d38ccdd50d7.js"
+            "460.552eb1ca57fac173.js"
           ],
           "sync": [
-            "158.a13022547fc70cd8.js"
+            "1.ba1d0ace154a77da.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-aaf1684",
+      "requiredVersion": "1.0.0-f5938eb",
       "shareScope": "default",
-      "version": "1.0.0-aaf1684",
+      "version": "1.0.0-f5938eb",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "games:@atlantis/dal",
@@ -66,7 +66,7 @@
         "js": {
           "async": [],
           "sync": [
-            "626.34ed9d38ccdd50d7.js"
+            "460.552eb1ca57fac173.js"
           ]
         },
         "css": {
@@ -193,17 +193,17 @@
           "sync": [
             "251.94b5c911fb72443c.js",
             "68.1fa551403dad34d0.js",
-            "755.1ab5d10e8b83f1d1.js",
-            "503.f6f9b8f764914f95.js",
-            "__federation_expose_App.815bf06456abb4a0.js"
+            "755.d1e9aebf115c5224.js",
+            "854.540120fd6a39bd89.js",
+            "__federation_expose_App.e242f669b04f43c2.js"
           ],
           "async": [
             "336.6d03358548d2b55e.js",
             "253.fc6e4d35a24f2163.js",
             "214.c7a438e88778b96b.js",
             "555.a5393aca6dbadd8c.js",
-            "626.34ed9d38ccdd50d7.js",
-            "158.a13022547fc70cd8.js"
+            "460.552eb1ca57fac173.js",
+            "1.ba1d0ace154a77da.js"
           ]
         },
         "css": {

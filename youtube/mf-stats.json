@@ -1,0 +1,219 @@
+{
+  "id": "youtube",
+  "name": "youtube",
+  "metaData": {
+    "name": "youtube",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/youtube"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "youtube",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "1.0.0-f5938eb",
+      "shareScope": "default",
+      "version": "1.0.0-f5938eb",
+      "name": "@atlantis/bll",
+      "eager": false,
+      "id": "youtube:@atlantis/bll",
+      "assets": {
+        "js": {
+          "async": [
+            "336.6e1231f05db1b009.js",
+            "214.52b9a0c97cdfa912.js",
+            "555.bbcd02512131e02c.js",
+            "460.c83a4645277e686e.js"
+          ],
+          "sync": [
+            "188.11e2fdbbfe6fb6c2.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "1.0.0-f5938eb",
+      "shareScope": "default",
+      "version": "1.0.0-f5938eb",
+      "name": "@atlantis/dal",
+      "eager": false,
+      "id": "youtube:@atlantis/dal",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "460.c83a4645277e686e.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "eager": false,
+      "id": "youtube:@emotion/react",
+      "assets": {
+        "js": {
+          "async": [
+            "336.6e1231f05db1b009.js"
+          ],
+          "sync": [
+            "555.bbcd02512131e02c.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "eager": false,
+      "id": "youtube:@emotion/styled",
+      "assets": {
+        "js": {
+          "async": [
+            "336.6e1231f05db1b009.js",
+            "555.bbcd02512131e02c.js"
+          ],
+          "sync": [
+            "214.52b9a0c97cdfa912.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "youtube:react-dom",
+      "assets": {
+        "js": {
+          "async": [
+            "336.6e1231f05db1b009.js"
+          ],
+          "sync": [
+            "253.38b182fde62fc0f7.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "youtube:react",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.6e1231f05db1b009.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./App",
+      "id": "youtube:App",
+      "name": "App",
+      "requires": [
+        "react",
+        "@emotion/styled",
+        "@emotion/react",
+        "@atlantis/bll"
+      ],
+      "file": "src/App",
+      "assets": {
+        "js": {
+          "sync": [
+            "251.0611c953603185c0.js",
+            "384.0b404231901fdf97.js",
+            "407.fc23a6e8827bd1a1.js",
+            "773.ec08548725d558a7.js",
+            "__federation_expose_App.023a6abdcbfea4a2.js"
+          ],
+          "async": [
+            "336.6e1231f05db1b009.js",
+            "253.38b182fde62fc0f7.js",
+            "214.52b9a0c97cdfa912.js",
+            "555.bbcd02512131e02c.js",
+            "460.c83a4645277e686e.js",
+            "188.11e2fdbbfe6fb6c2.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

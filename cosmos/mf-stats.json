@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-aaf1684",
+      "requiredVersion": "1.0.0-f5938eb",
       "shareScope": "default",
-      "version": "1.0.0-aaf1684",
+      "version": "1.0.0-f5938eb",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "cosmos:@atlantis/bll",
@@ -39,10 +39,10 @@
             "336.b4fef86ba75f24ce.js",
             "214.e86ecc54031bcea7.js",
             "555.9eca672ace767a50.js",
-            "626.88936b02cc52400e.js"
+            "460.c31673b6c1e0928d.js"
           ],
           "sync": [
-            "408.86c7f34395f4ff02.js"
+            "188.25e646b492cdc07b.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-aaf1684",
+      "requiredVersion": "1.0.0-f5938eb",
       "shareScope": "default",
-      "version": "1.0.0-aaf1684",
+      "version": "1.0.0-f5938eb",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "cosmos:@atlantis/dal",
@@ -64,7 +64,7 @@
         "js": {
           "async": [],
           "sync": [
-            "626.88936b02cc52400e.js"
+            "460.c31673b6c1e0928d.js"
           ]
         },
         "css": {
@@ -149,9 +149,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -183,7 +181,6 @@
       "id": "cosmos:App",
       "name": "App",
       "requires": [
-        "react-dom",
         "@emotion/styled",
         "@emotion/react"
       ],
@@ -193,8 +190,8 @@
           "sync": [
             "251.1bd51cdc72697e98.js",
             "46.9aeea687cf520598.js",
-            "407.69f2faa36e73f6da.js",
-            "649.c1d105046a67032f.js",
+            "407.d02284a00979cc06.js",
+            "649.0a626f825aa4aae1.js",
             "__federation_expose_App.a03d2101ba7d496e.js"
           ],
           "async": [
@@ -202,8 +199,8 @@
             "253.bcd82c93d209f418.js",
             "214.e86ecc54031bcea7.js",
             "555.9eca672ace767a50.js",
-            "626.88936b02cc52400e.js",
-            "408.86c7f34395f4ff02.js"
+            "460.c31673b6c1e0928d.js",
+            "188.25e646b492cdc07b.js"
           ]
         },
         "css": {

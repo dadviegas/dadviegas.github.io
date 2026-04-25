@@ -28,14 +28,14 @@
     {
       "id": "colorlab:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-aaf1684",
+      "version": "1.0.0-f5938eb",
       "singleton": true,
-      "requiredVersion": "1.0.0-aaf1684",
+      "requiredVersion": "1.0.0-f5938eb",
       "assets": {
         "js": {
           "async": [],
           "sync": [
-            "412.f2785df9aff901ad.js"
+            "824.fb89e470cf9edaa7.js"
           ]
         },
         "css": {
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "451.c46ecfa10f527e28.js",
-            "125.c642e5b4125822bf.js",
+            "125.26d565f75efeab36.js",
             "__federation_expose_App.ce8eb59b121c52a5.js"
           ],
           "async": [
@@ -145,7 +145,7 @@
             "253.ffc18fc4d623854a.js",
             "214.921f4259b786e76d.js",
             "555.e08cc7b9035a7a69.js",
-            "412.f2785df9aff901ad.js"
+            "824.fb89e470cf9edaa7.js"
           ]
         },
         "css": {

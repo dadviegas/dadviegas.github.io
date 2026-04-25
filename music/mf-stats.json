@@ -1,0 +1,183 @@
+{
+  "id": "music",
+  "name": "music",
+  "metaData": {
+    "name": "music",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/music"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "music",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "1.0.0-f5938eb",
+      "shareScope": "default",
+      "version": "1.0.0-f5938eb",
+      "name": "@atlantis/dal",
+      "eager": false,
+      "id": "music:@atlantis/dal",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "824.81768aedbe8e521b.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "eager": false,
+      "id": "music:@emotion/react",
+      "assets": {
+        "js": {
+          "async": [
+            "336.cb3c764f64d16b51.js"
+          ],
+          "sync": [
+            "555.1d98d5c48ba42a96.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "eager": false,
+      "id": "music:@emotion/styled",
+      "assets": {
+        "js": {
+          "async": [
+            "336.cb3c764f64d16b51.js",
+            "555.1d98d5c48ba42a96.js"
+          ],
+          "sync": [
+            "214.82c14af8b9d233db.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": [
+        "./App"
+      ]
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "music:react-dom",
+      "assets": {
+        "js": {
+          "async": [
+            "336.cb3c764f64d16b51.js"
+          ],
+          "sync": [
+            "253.6feb251dcfef604b.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "music:react",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.cb3c764f64d16b51.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./App",
+      "id": "music:App",
+      "name": "App",
+      "requires": [
+        "@emotion/styled",
+        "@emotion/react"
+      ],
+      "file": "src/App",
+      "assets": {
+        "js": {
+          "sync": [
+            "451.268d40ddebe66aa6.js",
+            "265.2251521b34edb498.js",
+            "__federation_expose_App.0985c822a1e80830.js"
+          ],
+          "async": [
+            "336.cb3c764f64d16b51.js",
+            "253.6feb251dcfef604b.js",
+            "214.82c14af8b9d233db.js",
+            "555.1d98d5c48ba42a96.js",
+            "824.81768aedbe8e521b.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

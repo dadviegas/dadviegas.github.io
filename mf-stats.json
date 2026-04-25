@@ -39,10 +39,10 @@
             "5336.9589af9bd65d3aa5.js",
             "214.f3478f036eb35f51.js",
             "6555.62a7c56aedeb37e5.js",
-            "8626.6e6fb57d30a52827.js"
+            "1460.ba5d6c83dcc35d32.js"
           ],
           "sync": [
-            "2497.e4a43e6de2e91b72.js"
+            "632.4bcbd5abc25c289e.js"
           ]
         },
         "css": {
@@ -64,7 +64,7 @@
         "js": {
           "async": [],
           "sync": [
-            "8626.6e6fb57d30a52827.js"
+            "1460.ba5d6c83dcc35d32.js"
           ]
         },
         "css": {
@@ -430,6 +430,26 @@
         "src/bootstrap.tsx + 44 modules"
       ],
       "version": "/finance/remoteEntry.js"
+    },
+    {
+      "alias": "youtube",
+      "consumingFederationContainerName": "shell",
+      "federationContainerName": "youtube",
+      "moduleName": "App",
+      "usedIn": [
+        "src/bootstrap.tsx + 44 modules"
+      ],
+      "version": "/youtube/remoteEntry.js"
+    },
+    {
+      "alias": "music",
+      "consumingFederationContainerName": "shell",
+      "federationContainerName": "music",
+      "moduleName": "App",
+      "usedIn": [
+        "src/bootstrap.tsx + 44 modules"
+      ],
+      "version": "/music/remoteEntry.js"
     }
   ],
   "exposes": []

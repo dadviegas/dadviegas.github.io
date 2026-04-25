@@ -1,6 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_weather=self.webpackChunk_atlantis_weather||[]).push([["512"],{8997(e,t,r){var a=r(2727);t.createRoot=a.createRoot,a.hydrateRoot},3611(e,t,r){var a=r(5723),o=r(7991),i=r(8997),n=r(6859),l=r.n(n),c=r(9874),d=r(3400);let s=new Map(c.rh.map(e=>[e.id,e])),m=c.rh.find(e=>"lisbon"===e.id)??c.rh["0"],h=l().iframe`
-  flex: 1;
-  width: 100%;
-  border: none;
-  display: block;
-`,u=document.getElementById("root");if(!u)throw Error("Root element #root not found");(0,i.createRoot)(u).render((0,a.jsx)(function({topBarRight:e}){let[t,r]=(0,o.useState)(m),[i,n]=(0,o.useState)(m.id),{recent:l,addRecent:u}=(0,d.usePlaceRecents)("atlantis:weather:recent"),p=(0,o.useCallback)(e=>{if(e.id.startsWith("country-")||"__recent__"===e.id)return;let t=s.get(e.id);t&&(r(t),n(t.id),u(t.id))},[]),w=(0,o.useMemo)(()=>(0,c.qs)(l),[l]),f=(0,a.jsx)(c.CD,{entries:w,activeId:i,onSelect:p});return(0,a.jsx)(c.PE,{title:"Weather",sidebar:f,activeId:i,topBarRight:e,children:(0,a.jsx)(h,{src:`https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=\xb0C&metricWind=km/h&zoom=${t.zoom}&overlay=wind&product=ecmwf&level=surface&lat=${t.lat}&lon=${t.lng}`,title:`Weather near ${t.name}`,allowFullScreen:!0},t.id)})},{}))}}]);

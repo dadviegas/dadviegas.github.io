@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-aaf1684",
+      "requiredVersion": "1.0.0-f5938eb",
       "shareScope": "default",
-      "version": "1.0.0-aaf1684",
+      "version": "1.0.0-f5938eb",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "imagegen:@atlantis/bll",
@@ -39,10 +39,10 @@
             "336.723181e64bde35e6.js",
             "214.cd5b11db485496ec.js",
             "555.d0524802c2d5baec.js",
-            "626.a48f20f9605f3a67.js"
+            "460.8f8e0ce46c15b95a.js"
           ],
           "sync": [
-            "158.6bd2f17097dbaea1.js"
+            "1.bad609fe103cba3c.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-aaf1684",
+      "requiredVersion": "1.0.0-f5938eb",
       "shareScope": "default",
-      "version": "1.0.0-aaf1684",
+      "version": "1.0.0-f5938eb",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "imagegen:@atlantis/dal",
@@ -64,7 +64,7 @@
         "js": {
           "async": [],
           "sync": [
-            "626.a48f20f9605f3a67.js"
+            "460.8f8e0ce46c15b95a.js"
           ]
         },
         "css": {
@@ -171,9 +171,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -183,7 +181,6 @@
       "id": "imagegen:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled",
         "@emotion/react"
       ],
@@ -193,8 +190,8 @@
           "sync": [
             "251.cbd66bde303adff7.js",
             "804.ad9b1ee2c4ed2b5e.js",
-            "755.48e7f29152f569ef.js",
-            "787.754cc7ebd06cf07a.js",
+            "755.e2cc8bdc39efa9c4.js",
+            "787.ff36172d60ccb719.js",
             "__federation_expose_App.a52584c1a4e178c7.js"
           ],
           "async": [
@@ -202,8 +199,8 @@
             "253.d33eaa7a34e32dec.js",
             "214.cd5b11db485496ec.js",
             "555.d0524802c2d5baec.js",
-            "626.a48f20f9605f3a67.js",
-            "158.6bd2f17097dbaea1.js"
+            "460.8f8e0ce46c15b95a.js",
+            "1.bad609fe103cba3c.js"
           ]
         },
         "css": {

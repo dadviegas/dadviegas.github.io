@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-aaf1684",
+      "requiredVersion": "1.0.0-f5938eb",
       "shareScope": "default",
-      "version": "1.0.0-aaf1684",
+      "version": "1.0.0-f5938eb",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "stockpulse:@atlantis/dal",
@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "412.7c7160012bddd457.js"
+            "824.430997c8334d6349.js"
           ]
         },
         "css": {
@@ -159,7 +159,7 @@
         "js": {
           "sync": [
             "451.d5ba518ed1f7e9f5.js",
-            "531.226b62fa8682172a.js",
+            "531.693397d20238c335.js",
             "__federation_expose_App.b1996d51297cd349.js"
           ],
           "async": [
@@ -167,7 +167,7 @@
             "253.76df5006ef2bb2d2.js",
             "214.c4292d948c18404e.js",
             "555.fa6325c405832448.js",
-            "412.7c7160012bddd457.js"
+            "824.430997c8334d6349.js"
           ]
         },
         "css": {

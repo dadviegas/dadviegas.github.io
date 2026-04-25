@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_movies=self.webpackChunk_atlantis_movies||[]).push([["6049"],{7640(e,s,a){a.d(s,{createInfoServices:()=>t.v});var t=a(896);a(5164)}}]);

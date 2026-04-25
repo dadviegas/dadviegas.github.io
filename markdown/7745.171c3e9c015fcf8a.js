@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_markdown=self.webpackChunk_atlantis_markdown||[]).push([["7745"],{27256(e,a,t){t.d(a,{createArchitectureServices:()=>r.S});var r=t(85796);t(5164)}}]);

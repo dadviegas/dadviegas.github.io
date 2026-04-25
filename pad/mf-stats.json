@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-ddd2b60",
+      "requiredVersion": "1.0.0-33f3a45",
       "shareScope": "default",
-      "version": "1.0.0-ddd2b60",
+      "version": "1.0.0-33f3a45",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "pad:@atlantis/dal",
@@ -142,9 +142,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -154,15 +152,14 @@
       "id": "pad:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
       "assets": {
         "js": {
           "sync": [
-            "4527.4587e3ef5c4cf9fe.js",
-            "5237.686845ac1a1bc6e6.js",
+            "4527.f54cf3075936011c.js",
+            "5237.494a072a5320690d.js",
             "__federation_expose_App.e54fbc58f9d99c2b.js"
           ],
           "async": [

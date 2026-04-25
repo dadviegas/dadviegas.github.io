@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_stockpulse=self.webpackChunk_atlantis_stockpulse||[]).push([["7745"],{7256(e,s,t){t.d(s,{createArchitectureServices:()=>c.S});var c=t(5796);t(5164)}}]);

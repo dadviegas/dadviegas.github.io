@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_jsonexplorer=self.webpackChunk_atlantis_jsonexplorer||[]).push([["6049"],{7640(e,s,a){a.d(s,{createInfoServices:()=>r.v});var r=a(896);a(5164)}}]);

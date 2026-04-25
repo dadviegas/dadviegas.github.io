@@ -27,22 +27,22 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-ddd2b60",
+      "requiredVersion": "1.0.0-33f3a45",
       "shareScope": "default",
-      "version": "1.0.0-ddd2b60",
+      "version": "1.0.0-33f3a45",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "ask:@atlantis/bll",
       "assets": {
         "js": {
           "async": [
-            "5336.1077bc160e4d84c4.js",
+            "336.7a31c51eaef81637.js",
             "214.7f470f7257ac567d.js",
-            "6555.b68fa1376df907da.js",
-            "8626.d309f8467dee3c2c.js"
+            "555.95f9a4e2e9b2990f.js",
+            "626.1ce8d07381f5fb42.js"
           ],
           "sync": [
-            "3193.f2af8e37e4229102.js"
+            "193.458fd5d466ca13dc.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-ddd2b60",
+      "requiredVersion": "1.0.0-33f3a45",
       "shareScope": "default",
-      "version": "1.0.0-ddd2b60",
+      "version": "1.0.0-33f3a45",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "ask:@atlantis/dal",
@@ -66,7 +66,7 @@
         "js": {
           "async": [],
           "sync": [
-            "8626.d309f8467dee3c2c.js"
+            "626.1ce8d07381f5fb42.js"
           ]
         },
         "css": {
@@ -87,10 +87,10 @@
       "assets": {
         "js": {
           "async": [
-            "5336.1077bc160e4d84c4.js"
+            "336.7a31c51eaef81637.js"
           ],
           "sync": [
-            "6555.b68fa1376df907da.js"
+            "555.95f9a4e2e9b2990f.js"
           ]
         },
         "css": {
@@ -113,8 +113,8 @@
       "assets": {
         "js": {
           "async": [
-            "5336.1077bc160e4d84c4.js",
-            "6555.b68fa1376df907da.js"
+            "336.7a31c51eaef81637.js",
+            "555.95f9a4e2e9b2990f.js"
           ],
           "sync": [
             "214.7f470f7257ac567d.js"
@@ -140,10 +140,10 @@
       "assets": {
         "js": {
           "async": [
-            "5336.1077bc160e4d84c4.js"
+            "336.7a31c51eaef81637.js"
           ],
           "sync": [
-            "4253.f894b8ae287ddb56.js"
+            "253.c7a7fed49865e66b.js"
           ]
         },
         "css": {
@@ -165,7 +165,7 @@
         "js": {
           "async": [],
           "sync": [
-            "5336.1077bc160e4d84c4.js"
+            "336.7a31c51eaef81637.js"
           ]
         },
         "css": {
@@ -191,67 +191,19 @@
       "assets": {
         "js": {
           "sync": [
-            "7143.1c07c29c7bace5d7.js",
-            "7132.767b3a2ac83b67fa.js",
-            "5755.8dc447f81a483f95.js",
-            "7303.3dee40536e1e0da8.js",
-            "__federation_expose_App.b1ba288b8448505b.js"
+            "143.9aef570add947885.js",
+            "655.b676bf1b0ee148bd.js",
+            "755.405797db35d729e6.js",
+            "768.a0007cf706324038.js",
+            "__federation_expose_App.c67e3cb58044db3f.js"
           ],
           "async": [
-            "5336.1077bc160e4d84c4.js",
-            "4253.f894b8ae287ddb56.js",
+            "336.7a31c51eaef81637.js",
+            "253.c7a7fed49865e66b.js",
             "214.7f470f7257ac567d.js",
-            "6555.b68fa1376df907da.js",
-            "8626.d309f8467dee3c2c.js",
-            "3193.f2af8e37e4229102.js",
-            "6087.6839d686d30baf8a.js",
-            "2554.26e92531df9c1071.js",
-            "3354.13d4050490cde908.js",
-            "8500.000b2023640b6c11.js",
-            "7739.a1c3a7bf591f1172.js",
-            "3698.fab0c48bc71b4afb.js",
-            "803.9435919ac662786e.js",
-            "6049.c2870c7c5a08bfda.js",
-            "7365.078b4b1fef51b986.js",
-            "4768.6553c09591c30595.js",
-            "643.e0ad3fa3784da512.js",
-            "7745.16e153fe76a74db2.js",
-            "1928.a19cc50f38e57e0b.js",
-            "4741.0dd311ce27b4b1dc.js",
-            "4417.a66efc678dc9f0ff.js",
-            "8898.16293ec6b8875c74.js",
-            "3216.553864952ffa3329.js",
-            "6790.d3def3e6a9e605dd.js",
-            "2209.0e0e461cced25656.js",
-            "7896.4732b46cb9c040be.js",
-            "7387.278c124a6adc6ffc.js",
-            "7106.59dfe33ce7b60837.js",
-            "4912.129fb8f8415c951d.js",
-            "5125.08a7b749c2d4bfaa.js",
-            "1248.a0ac8e39b68342fd.js",
-            "8246.829691c0c3c9e963.js",
-            "5073.2a554d7eca0313a5.js",
-            "6324.f7011bbe4d31cda6.js",
-            "4992.fe141d8953953c7c.js",
-            "3497.07ba3ea72caff480.js",
-            "9080.92f1feb275c4ea23.js",
-            "8736.2735715b6a2ba1f0.js",
-            "9104.87c0fd7ec9125cf3.js",
-            "949.b7f8b158655c5e0a.js",
-            "6250.8b6fdd94cbfa0576.js",
-            "2542.12ce947d9942808f.js",
-            "3739.d29ad48f033e33aa.js",
-            "8683.61ddc141e88c7599.js",
-            "6835.c3a5e8fcdebd7e52.js",
-            "7663.2bfd7528d5b06feb.js",
-            "464.2d8754264d336da5.js",
-            "2596.d994aeca574a0317.js",
-            "1703.c5caa947da668928.js",
-            "4661.1134f093d641c67e.js",
-            "3843.550814eeafb868ef.js",
-            "2648.9c4e018b32691f69.js",
-            "1611.0ac0180620aa3cfa.js",
-            "6016.9f7776d82d2a92e2.js"
+            "555.95f9a4e2e9b2990f.js",
+            "626.1ce8d07381f5fb42.js",
+            "193.458fd5d466ca13dc.js"
           ]
         },
         "css": {

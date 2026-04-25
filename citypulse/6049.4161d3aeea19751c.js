@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_citypulse=self.webpackChunk_atlantis_citypulse||[]).push([["6049"],{7640(e,s,t){t.d(s,{createInfoServices:()=>a.v});var a=t(896);t(5164)}}]);

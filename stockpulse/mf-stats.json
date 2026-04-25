@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-f737cd2",
+      "requiredVersion": "1.0.0-dd91c30",
       "shareScope": "default",
-      "version": "1.0.0-f737cd2",
+      "version": "1.0.0-dd91c30",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "stockpulse:@atlantis/dal",
@@ -159,7 +159,7 @@
         "js": {
           "sync": [
             "4063.de1106f99243e6b3.js",
-            "4531.ceae66214619723f.js",
+            "4531.71fce64eb8bec23b.js",
             "__federation_expose_App.6cf8578f021735f5.js"
           ],
           "async": [

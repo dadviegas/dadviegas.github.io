@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-e07aa3f",
+      "requiredVersion": "1.0.0-3ad3591",
       "shareScope": "default",
-      "version": "1.0.0-e07aa3f",
+      "version": "1.0.0-3ad3591",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "chartbuilder:@atlantis/dal",
@@ -159,7 +159,7 @@
         "js": {
           "sync": [
             "102.0f53a235b280eecb.js",
-            "9.034b4cfac1519007.js",
+            "9.10440ea44273c308.js",
             "__federation_expose_App.5924d2f5678f9dd1.js"
           ],
           "async": [

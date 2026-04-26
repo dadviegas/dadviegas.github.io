@@ -28,9 +28,9 @@
     {
       "id": "games:@atlantis/bll",
       "name": "@atlantis/bll",
-      "version": "1.0.0-e07aa3f",
+      "version": "1.0.0-3ad3591",
       "singleton": true,
-      "requiredVersion": "1.0.0-e07aa3f",
+      "requiredVersion": "1.0.0-3ad3591",
       "assets": {
         "js": {
           "async": [
@@ -40,7 +40,7 @@
             "254.00cd7fea5652b44a.js"
           ],
           "sync": [
-            "277.b6e118fb712d5e09.js"
+            "277.54ed6a5466385548.js"
           ]
         },
         "css": {
@@ -52,9 +52,9 @@
     {
       "id": "games:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-e07aa3f",
+      "version": "1.0.0-3ad3591",
       "singleton": true,
-      "requiredVersion": "1.0.0-e07aa3f",
+      "requiredVersion": "1.0.0-3ad3591",
       "assets": {
         "js": {
           "async": [],
@@ -160,10 +160,10 @@
       "assets": {
         "js": {
           "sync": [
-            "424.09ff33efb258ffbc.js",
-            "265.4cff0c0a8872f505.js",
-            "689.32445ff4ea152b70.js",
-            "__federation_expose_App.ac4eb1a4ccb517f9.js"
+            "424.59d22bbf33634e85.js",
+            "265.e801e498aa12fbb0.js",
+            "320.4dad0ff6b2c5c84c.js",
+            "__federation_expose_App.85820c36ff9be5d3.js"
           ],
           "async": [
             "336.6d03358548d2b55e.js",
@@ -171,7 +171,7 @@
             "214.c7a438e88778b96b.js",
             "555.a5393aca6dbadd8c.js",
             "254.00cd7fea5652b44a.js",
-            "277.b6e118fb712d5e09.js"
+            "277.54ed6a5466385548.js"
           ]
         },
         "css": {

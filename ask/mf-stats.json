@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-a5b560e",
+      "requiredVersion": "1.0.0-dbe55d1",
       "shareScope": "default",
-      "version": "1.0.0-a5b560e",
+      "version": "1.0.0-dbe55d1",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "ask:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.880777e3f7a96a70.js"
           ],
           "sync": [
-            "433.da4c4d3d0b14523a.js"
+            "277.5437ed1ed495eb46.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-a5b560e",
+      "requiredVersion": "1.0.0-dbe55d1",
       "shareScope": "default",
-      "version": "1.0.0-a5b560e",
+      "version": "1.0.0-dbe55d1",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "ask:@atlantis/dal",
@@ -195,9 +195,9 @@
         "js": {
           "sync": [
             "459.4f4fdc8094883f09.js",
-            "265.3607dbf53304da93.js",
-            "292.13dcbe9c69660afa.js",
-            "__federation_expose_App.64656ad72a29cf8b.js"
+            "265.4501db53fbdc739d.js",
+            "668.1dd4184f33a6f2b3.js",
+            "__federation_expose_App.3cec530d033eda4f.js"
           ],
           "async": [
             "336.4a44ebf0d1b8e4e0.js",
@@ -205,7 +205,7 @@
             "214.8e38526c40bdf5d1.js",
             "555.0f649efe9e87494d.js",
             "254.880777e3f7a96a70.js",
-            "433.da4c4d3d0b14523a.js"
+            "277.5437ed1ed495eb46.js"
           ]
         },
         "css": {

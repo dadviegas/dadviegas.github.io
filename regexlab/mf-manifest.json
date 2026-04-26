@@ -28,9 +28,9 @@
     {
       "id": "regexlab:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-a5b560e",
+      "version": "1.0.0-dbe55d1",
       "singleton": true,
-      "requiredVersion": "1.0.0-a5b560e",
+      "requiredVersion": "1.0.0-dbe55d1",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "102.8f81d9e212b15c47.js",
-            "29.a8e778b182e312b8.js",
+            "29.c6b835ce477b843f.js",
             "__federation_expose_App.45bae2bc7cd5cb8b.js"
           ],
           "async": [

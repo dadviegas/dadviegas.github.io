@@ -1,0 +1,185 @@
+{
+  "id": "forma",
+  "name": "forma",
+  "metaData": {
+    "name": "forma",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/forma"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "forma",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "id": "forma:@atlantis/bll",
+      "name": "@atlantis/bll",
+      "version": "1.0.0-dbe55d1",
+      "singleton": true,
+      "requiredVersion": "1.0.0-dbe55d1",
+      "assets": {
+        "js": {
+          "async": [
+            "336.ececd8d85cb2a2d6.js",
+            "214.067c539c6483d574.js",
+            "555.c98adf8bb9710f61.js",
+            "254.46439727043ad2d9.js"
+          ],
+          "sync": [
+            "277.d460300275eb2a9a.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "forma:@atlantis/dal",
+      "name": "@atlantis/dal",
+      "version": "1.0.0-dbe55d1",
+      "singleton": true,
+      "requiredVersion": "1.0.0-dbe55d1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "254.46439727043ad2d9.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "forma:@emotion/react",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "assets": {
+        "js": {
+          "async": [
+            "336.ececd8d85cb2a2d6.js"
+          ],
+          "sync": [
+            "555.c98adf8bb9710f61.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "forma:@emotion/styled",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "assets": {
+        "js": {
+          "async": [
+            "336.ececd8d85cb2a2d6.js",
+            "555.c98adf8bb9710f61.js"
+          ],
+          "sync": [
+            "214.067c539c6483d574.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "forma:react-dom",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [
+            "336.ececd8d85cb2a2d6.js"
+          ],
+          "sync": [
+            "253.caaf08c9646edb31.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "forma:react",
+      "name": "react",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.ececd8d85cb2a2d6.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "forma:App",
+      "name": "App",
+      "assets": {
+        "js": {
+          "sync": [
+            "102.29f99502651bf6d9.js",
+            "265.6da987e1d93b9b13.js",
+            "474.6da1398eaa338313.js",
+            "__federation_expose_App.7ca10ae5289ef13c.js"
+          ],
+          "async": [
+            "336.ececd8d85cb2a2d6.js",
+            "253.caaf08c9646edb31.js",
+            "214.067c539c6483d574.js",
+            "555.c98adf8bb9710f61.js",
+            "254.46439727043ad2d9.js",
+            "277.d460300275eb2a9a.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./App"
+    }
+  ]
+}

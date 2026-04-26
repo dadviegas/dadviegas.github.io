@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-cef7aa8",
+      "requiredVersion": "1.0.0-81aae88",
       "shareScope": "default",
-      "version": "1.0.0-cef7aa8",
+      "version": "1.0.0-81aae88",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "citypulse:@atlantis/dal",
@@ -142,7 +142,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -152,6 +154,7 @@
       "id": "citypulse:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
@@ -159,7 +162,7 @@
         "js": {
           "sync": [
             "102.a6f25b8e6a55ff54.js",
-            "852.37a02a0c6d84f8db.js",
+            "852.dd7c9872645821fd.js",
             "__federation_expose_App.9fe89ca38f8fa883.js"
           ],
           "async": [

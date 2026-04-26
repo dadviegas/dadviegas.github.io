@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-cef7aa8",
+      "requiredVersion": "1.0.0-81aae88",
       "shareScope": "default",
-      "version": "1.0.0-cef7aa8",
+      "version": "1.0.0-81aae88",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "games:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.00cd7fea5652b44a.js"
           ],
           "sync": [
-            "277.705f6567f04f670d.js"
+            "764.4e73ea1f16d56524.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-cef7aa8",
+      "requiredVersion": "1.0.0-81aae88",
       "shareScope": "default",
-      "version": "1.0.0-cef7aa8",
+      "version": "1.0.0-81aae88",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "games:@atlantis/dal",
@@ -98,7 +98,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     },
     {
       "singleton": true,
@@ -182,6 +184,7 @@
       "name": "App",
       "requires": [
         "@emotion/styled",
+        "@emotion/react",
         "@atlantis/bll"
       ],
       "file": "src/App",
@@ -189,9 +192,9 @@
         "js": {
           "sync": [
             "424.09ff33efb258ffbc.js",
-            "265.7c561519e842dd7a.js",
-            "379.74c5f68a237b5c99.js",
-            "__federation_expose_App.c4f686014bb4f073.js"
+            "265.eada6116bc26d065.js",
+            "922.009d64150443f819.js",
+            "__federation_expose_App.f0e1a07a5192c776.js"
           ],
           "async": [
             "336.6d03358548d2b55e.js",
@@ -199,7 +202,7 @@
             "214.c7a438e88778b96b.js",
             "555.a5393aca6dbadd8c.js",
             "254.00cd7fea5652b44a.js",
-            "277.705f6567f04f670d.js"
+            "764.4e73ea1f16d56524.js"
           ]
         },
         "css": {

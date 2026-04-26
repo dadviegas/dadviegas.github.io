@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-41c891b",
+      "requiredVersion": "1.0.0-797b087",
       "shareScope": "default",
-      "version": "1.0.0-41c891b",
+      "version": "1.0.0-797b087",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "games:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.00cd7fea5652b44a.js"
           ],
           "sync": [
-            "764.64d24b5410deb60b.js"
+            "764.b446a3cbddc0d5bc.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-41c891b",
+      "requiredVersion": "1.0.0-797b087",
       "shareScope": "default",
-      "version": "1.0.0-41c891b",
+      "version": "1.0.0-797b087",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "games:@atlantis/dal",
@@ -98,9 +98,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -125,9 +123,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -183,8 +179,6 @@
       "id": "games:App",
       "name": "App",
       "requires": [
-        "@emotion/styled",
-        "@emotion/react",
         "@atlantis/bll"
       ],
       "file": "src/App",
@@ -192,9 +186,9 @@
         "js": {
           "sync": [
             "424.09ff33efb258ffbc.js",
-            "265.dad7c2d2a7979c56.js",
-            "594.833d1fda3ac42996.js",
-            "__federation_expose_App.e8c0e9edb59a1dbf.js"
+            "265.2ee1fdcd1d55c5cc.js",
+            "924.aaebacab5acf769a.js",
+            "__federation_expose_App.d1311c0b8e85e20e.js"
           ],
           "async": [
             "336.6d03358548d2b55e.js",
@@ -202,7 +196,7 @@
             "214.c7a438e88778b96b.js",
             "555.a5393aca6dbadd8c.js",
             "254.00cd7fea5652b44a.js",
-            "764.64d24b5410deb60b.js"
+            "764.b446a3cbddc0d5bc.js"
           ]
         },
         "css": {

@@ -28,9 +28,9 @@
     {
       "id": "csvexplorer:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-2dc2155",
+      "version": "1.0.0-63d683d",
       "singleton": true,
-      "requiredVersion": "1.0.0-2dc2155",
+      "requiredVersion": "1.0.0-63d683d",
       "assets": {
         "js": {
           "async": [],
@@ -137,8 +137,8 @@
         "js": {
           "sync": [
             "102.f6c60ba503a11e2c.js",
-            "708.1f63228b7a60687a.js",
-            "__federation_expose_App.3d2b9f210315fb78.js"
+            "148.8cd6f5b21a415677.js",
+            "__federation_expose_App.79bae86076039cef.js"
           ],
           "async": [
             "336.aacab1bea3c573db.js",

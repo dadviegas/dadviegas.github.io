@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-2dc2155",
+      "requiredVersion": "1.0.0-63d683d",
       "shareScope": "default",
-      "version": "1.0.0-2dc2155",
+      "version": "1.0.0-63d683d",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "music:@atlantis/dal",
@@ -162,8 +162,8 @@
         "js": {
           "sync": [
             "102.6dcad460b1899c37.js",
-            "728.aab18d4f5c1e0c3b.js",
-            "__federation_expose_App.3f441b3d63dccf52.js"
+            "364.367d4408748330f4.js",
+            "__federation_expose_App.fbbca2f9c9eae5d8.js"
           ],
           "async": [
             "336.cb3c764f64d16b51.js",

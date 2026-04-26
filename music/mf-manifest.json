@@ -28,14 +28,14 @@
     {
       "id": "music:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-f5938eb",
+      "version": "1.0.0-1fde411",
       "singleton": true,
-      "requiredVersion": "1.0.0-f5938eb",
+      "requiredVersion": "1.0.0-1fde411",
       "assets": {
         "js": {
           "async": [],
           "sync": [
-            "824.81768aedbe8e521b.js"
+            "277.63b1464658b0970c.js"
           ]
         },
         "css": {
@@ -137,15 +137,15 @@
         "js": {
           "sync": [
             "451.268d40ddebe66aa6.js",
-            "265.2251521b34edb498.js",
-            "__federation_expose_App.0985c822a1e80830.js"
+            "454.b6a88bac7794d4cc.js",
+            "__federation_expose_App.50abe33b0f8d6255.js"
           ],
           "async": [
             "336.cb3c764f64d16b51.js",
             "253.6feb251dcfef604b.js",
             "214.82c14af8b9d233db.js",
             "555.1d98d5c48ba42a96.js",
-            "824.81768aedbe8e521b.js"
+            "277.63b1464658b0970c.js"
           ]
         },
         "css": {

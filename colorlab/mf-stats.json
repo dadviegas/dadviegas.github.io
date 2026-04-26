@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-f5938eb",
+      "requiredVersion": "1.0.0-1fde411",
       "shareScope": "default",
-      "version": "1.0.0-f5938eb",
+      "version": "1.0.0-1fde411",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "colorlab:@atlantis/dal",
@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "824.fb89e470cf9edaa7.js"
+            "277.da10f4664c22f84f.js"
           ]
         },
         "css": {
@@ -159,15 +159,15 @@
         "js": {
           "sync": [
             "451.c46ecfa10f527e28.js",
-            "125.26d565f75efeab36.js",
-            "__federation_expose_App.ce8eb59b121c52a5.js"
+            "154.03d05bb7a0d7633e.js",
+            "__federation_expose_App.510cb1b6fa6d79ab.js"
           ],
           "async": [
             "336.a51c55daf8b53c30.js",
             "253.ffc18fc4d623854a.js",
             "214.921f4259b786e76d.js",
             "555.e08cc7b9035a7a69.js",
-            "824.fb89e470cf9edaa7.js"
+            "277.da10f4664c22f84f.js"
           ]
         },
         "css": {

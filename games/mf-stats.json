@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-f5938eb",
+      "requiredVersion": "1.0.0-1fde411",
       "shareScope": "default",
-      "version": "1.0.0-f5938eb",
+      "version": "1.0.0-1fde411",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "games:@atlantis/bll",
@@ -39,10 +39,10 @@
             "336.6d03358548d2b55e.js",
             "214.c7a438e88778b96b.js",
             "555.a5393aca6dbadd8c.js",
-            "460.552eb1ca57fac173.js"
+            "254.00cd7fea5652b44a.js"
           ],
           "sync": [
-            "1.ba1d0ace154a77da.js"
+            "433.8131c31a590b4290.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-f5938eb",
+      "requiredVersion": "1.0.0-1fde411",
       "shareScope": "default",
-      "version": "1.0.0-f5938eb",
+      "version": "1.0.0-1fde411",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "games:@atlantis/dal",
@@ -66,7 +66,7 @@
         "js": {
           "async": [],
           "sync": [
-            "460.552eb1ca57fac173.js"
+            "254.00cd7fea5652b44a.js"
           ]
         },
         "css": {
@@ -98,9 +98,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -125,9 +123,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -183,8 +179,6 @@
       "id": "games:App",
       "name": "App",
       "requires": [
-        "@emotion/styled",
-        "@emotion/react",
         "@atlantis/bll"
       ],
       "file": "src/App",
@@ -192,18 +186,18 @@
         "js": {
           "sync": [
             "251.94b5c911fb72443c.js",
-            "68.1fa551403dad34d0.js",
-            "755.d1e9aebf115c5224.js",
-            "854.540120fd6a39bd89.js",
-            "__federation_expose_App.e242f669b04f43c2.js"
+            "526.db7e8cf445a0b19a.js",
+            "265.132b5cf7702202f1.js",
+            "276.1e672e5102c9239b.js",
+            "__federation_expose_App.99f51d981d219d0c.js"
           ],
           "async": [
             "336.6d03358548d2b55e.js",
             "253.fc6e4d35a24f2163.js",
             "214.c7a438e88778b96b.js",
             "555.a5393aca6dbadd8c.js",
-            "460.552eb1ca57fac173.js",
-            "1.ba1d0ace154a77da.js"
+            "254.00cd7fea5652b44a.js",
+            "433.8131c31a590b4290.js"
           ]
         },
         "css": {

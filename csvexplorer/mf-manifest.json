@@ -28,14 +28,14 @@
     {
       "id": "csvexplorer:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-f5938eb",
+      "version": "1.0.0-1fde411",
       "singleton": true,
-      "requiredVersion": "1.0.0-f5938eb",
+      "requiredVersion": "1.0.0-1fde411",
       "assets": {
         "js": {
           "async": [],
           "sync": [
-            "824.cdfb729ed97c9a9c.js"
+            "277.1e544b0287d5a326.js"
           ]
         },
         "css": {
@@ -137,15 +137,15 @@
         "js": {
           "sync": [
             "451.0c4783a565bf7917.js",
-            "34.a60f433ea0467a41.js",
-            "__federation_expose_App.df391cac910fee1d.js"
+            "413.dfe7b5e22bd21529.js",
+            "__federation_expose_App.157f1baae4fbcad8.js"
           ],
           "async": [
             "336.aacab1bea3c573db.js",
             "253.defb8487664c3fe6.js",
             "214.5eabf57717bc197c.js",
             "555.72ac283e9486c635.js",
-            "824.cdfb729ed97c9a9c.js"
+            "277.1e544b0287d5a326.js"
           ]
         },
         "css": {

@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-f5938eb",
+      "requiredVersion": "1.0.0-1fde411",
       "shareScope": "default",
-      "version": "1.0.0-f5938eb",
+      "version": "1.0.0-1fde411",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "movies:@atlantis/bll",
@@ -39,10 +39,10 @@
             "336.8f7fbc372dedc7e4.js",
             "214.e1c02eeeeed5e86c.js",
             "555.00b4b06c8d9e8c9b.js",
-            "460.a9d6c969a1925deb.js"
+            "254.be34d6311d9200be.js"
           ],
           "sync": [
-            "188.0133b04b8a3d5d4e.js"
+            "444.db3ba1f4fd17fb5d.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-f5938eb",
+      "requiredVersion": "1.0.0-1fde411",
       "shareScope": "default",
-      "version": "1.0.0-f5938eb",
+      "version": "1.0.0-1fde411",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "movies:@atlantis/dal",
@@ -66,7 +66,7 @@
         "js": {
           "async": [],
           "sync": [
-            "460.a9d6c969a1925deb.js"
+            "254.be34d6311d9200be.js"
           ]
         },
         "css": {
@@ -193,17 +193,17 @@
           "sync": [
             "251.8ee66dc401043fd2.js",
             "384.a4964d305ff0e94b.js",
-            "407.a1dce40a92ca0545.js",
-            "268.01f25ef26a505ddd.js",
-            "__federation_expose_App.5093e47b85141737.js"
+            "765.58a99ea9c09feedf.js",
+            "268.0eb8eb47a7e444bf.js",
+            "__federation_expose_App.7a695be2cbfb69aa.js"
           ],
           "async": [
             "336.8f7fbc372dedc7e4.js",
             "253.168cd8f6d481b9fd.js",
             "214.e1c02eeeeed5e86c.js",
             "555.00b4b06c8d9e8c9b.js",
-            "460.a9d6c969a1925deb.js",
-            "188.0133b04b8a3d5d4e.js"
+            "254.be34d6311d9200be.js",
+            "444.db3ba1f4fd17fb5d.js"
           ]
         },
         "css": {

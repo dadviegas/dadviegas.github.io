@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-f5938eb",
+      "requiredVersion": "1.0.0-1fde411",
       "shareScope": "default",
-      "version": "1.0.0-f5938eb",
+      "version": "1.0.0-1fde411",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "earth:@atlantis/bll",
@@ -39,10 +39,10 @@
             "336.0666da4e2127a4c8.js",
             "214.f9ac8a13e36dada7.js",
             "555.8ce00839ee788f78.js",
-            "460.6fc3711764a70419.js"
+            "254.4b28ebe59e918d2f.js"
           ],
           "sync": [
-            "188.a45170f6d87dc76b.js"
+            "444.c1a8045b371987c1.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-f5938eb",
+      "requiredVersion": "1.0.0-1fde411",
       "shareScope": "default",
-      "version": "1.0.0-f5938eb",
+      "version": "1.0.0-1fde411",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "earth:@atlantis/dal",
@@ -66,7 +66,7 @@
         "js": {
           "async": [],
           "sync": [
-            "460.6fc3711764a70419.js"
+            "254.4b28ebe59e918d2f.js"
           ]
         },
         "css": {
@@ -190,17 +190,17 @@
           "sync": [
             "251.340cc7a16d3b1435.js",
             "384.b21caa2b87010315.js",
-            "407.2d8bc897afce5164.js",
-            "210.69c6d88fc45a01b2.js",
-            "__federation_expose_App.51cd30763c2670aa.js"
+            "765.b974a3023e14cd4e.js",
+            "210.85ff065718d7d354.js",
+            "__federation_expose_App.11a544f7a269f64d.js"
           ],
           "async": [
             "336.0666da4e2127a4c8.js",
             "253.ca4026810c2b51c8.js",
             "214.f9ac8a13e36dada7.js",
             "555.8ce00839ee788f78.js",
-            "460.6fc3711764a70419.js",
-            "188.a45170f6d87dc76b.js"
+            "254.4b28ebe59e918d2f.js",
+            "444.c1a8045b371987c1.js"
           ]
         },
         "css": {

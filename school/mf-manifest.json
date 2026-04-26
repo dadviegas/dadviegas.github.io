@@ -28,9 +28,9 @@
     {
       "id": "school:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "assets": {
         "js": {
           "async": [],
@@ -137,8 +137,8 @@
         "js": {
           "sync": [
             "459.2892cae03fc60f7c.js",
-            "6.c00727d9d792d3ed.js",
-            "__federation_expose_App.85557d7a69d60d63.js"
+            "587.a7b75de729cbc767.js",
+            "__federation_expose_App.545765afb24dc2fa.js"
           ],
           "async": [
             "336.38326b36b75778e2.js",
@@ -154,6 +154,23 @@
         }
       },
       "path": "./App"
+    },
+    {
+      "id": "school:manifest",
+      "name": "manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.84d9882f264c8a33.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./manifest"
     }
   ]
 }

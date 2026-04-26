@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "imagegen:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.52336450cf9839a4.js"
           ],
           "sync": [
-            "764.1a4a72ac2c3bdd7a.js"
+            "764.8bca65093d45a0ae.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "imagegen:@atlantis/dal",
@@ -192,9 +192,9 @@
         "js": {
           "sync": [
             "102.ebe2db68ae83ce83.js",
-            "265.a7dda5585c97f3ec.js",
-            "787.0eeac5a8c5ae0977.js",
-            "__federation_expose_App.f18ec0ae1e24f03f.js"
+            "4.7fa9bcc4ee855d91.js",
+            "787.01f614df99953847.js",
+            "__federation_expose_App.8e4335725d2aa317.js"
           ],
           "async": [
             "336.723181e64bde35e6.js",
@@ -202,8 +202,27 @@
             "214.cd5b11db485496ec.js",
             "555.d0524802c2d5baec.js",
             "254.52336450cf9839a4.js",
-            "764.1a4a72ac2c3bdd7a.js"
+            "764.8bca65093d45a0ae.js"
           ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./manifest",
+      "id": "imagegen:manifest",
+      "name": "manifest",
+      "requires": [],
+      "file": "src/manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.8c46cc5c8756a7af.js"
+          ],
+          "async": []
         },
         "css": {
           "sync": [],

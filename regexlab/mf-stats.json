@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "regexlab:@atlantis/dal",
@@ -159,8 +159,8 @@
         "js": {
           "sync": [
             "102.8f81d9e212b15c47.js",
-            "29.a4ae21fff3db20fe.js",
-            "__federation_expose_App.45bae2bc7cd5cb8b.js"
+            "276.7aa3b26f883c6e0f.js",
+            "__federation_expose_App.728b19bc0c668508.js"
           ],
           "async": [
             "336.f7d216bf64fc3e6e.js",
@@ -169,6 +169,25 @@
             "555.dea03baf8c58e578.js",
             "277.44650d42034bd855.js"
           ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./manifest",
+      "id": "regexlab:manifest",
+      "name": "manifest",
+      "requires": [],
+      "file": "src/manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.08980bf2b22bc083.js"
+          ],
+          "async": []
         },
         "css": {
           "sync": [],

@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "chartbuilder:@atlantis/dal",
@@ -159,8 +159,8 @@
         "js": {
           "sync": [
             "102.0f53a235b280eecb.js",
-            "9.7b7f891370ffe2be.js",
-            "__federation_expose_App.5924d2f5678f9dd1.js"
+            "608.7de241c140bb95ee.js",
+            "__federation_expose_App.eaebeef4369ec5ad.js"
           ],
           "async": [
             "336.54e968484f2ffcb3.js",
@@ -169,6 +169,25 @@
             "555.23e3779427f70474.js",
             "277.cf9664ae6b32bb61.js"
           ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./manifest",
+      "id": "chartbuilder:manifest",
+      "name": "manifest",
+      "requires": [],
+      "file": "src/manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.b02d22d18c234e75.js"
+          ],
+          "async": []
         },
         "css": {
           "sync": [],

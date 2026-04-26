@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_forma=self.webpackChunk_atlantis_forma||[]).push([["852"],{58085(a,e,s){s.r(e),s.d(e,{default:()=>o});let o={id:"forma",port:3034,labelKey:"apps.forma.label",descriptionKey:"apps.forma.description",hash:"#/forma",hashAliases:[],icon:"heart",color:"#7fb77e",enabled:!0,category:"Tools",needsAuth:!1,suite:"Life Dashboard"}}}]);

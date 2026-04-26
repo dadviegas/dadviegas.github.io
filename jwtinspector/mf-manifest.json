@@ -28,9 +28,9 @@
     {
       "id": "jwtinspector:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "assets": {
         "js": {
           "async": [],
@@ -137,8 +137,8 @@
         "js": {
           "sync": [
             "102.b34b588d889dc770.js",
-            "29.27a0e5e34fcb1d17.js",
-            "__federation_expose_App.ca2972539078710e.js"
+            "276.25a633888ea70ae2.js",
+            "__federation_expose_App.168c5e2080c64b72.js"
           ],
           "async": [
             "336.cd3b59375a9e9262.js",
@@ -154,6 +154,23 @@
         }
       },
       "path": "./App"
+    },
+    {
+      "id": "jwtinspector:manifest",
+      "name": "manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.c74f297e95dc4938.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./manifest"
     }
   ]
 }

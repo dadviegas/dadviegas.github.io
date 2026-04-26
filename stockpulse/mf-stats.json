@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "stockpulse:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.e7a547faa3fe9c4d.js"
           ],
           "sync": [
-            "733.5d7bda54cf819fce.js"
+            "733.90ddcdccac1b8a5d.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "stockpulse:@atlantis/dal",
@@ -186,9 +186,9 @@
         "js": {
           "sync": [
             "102.2947ab302c42a859.js",
-            "765.185413aadd90a6b2.js",
-            "531.1b51429c7c8a0d42.js",
-            "__federation_expose_App.a7aaecff5a74fd99.js"
+            "444.add248ecec09cca2.js",
+            "531.4d285af89a8f1fc9.js",
+            "__federation_expose_App.646f333f581a2a99.js"
           ],
           "async": [
             "336.92c7d25adcecf60e.js",
@@ -196,8 +196,27 @@
             "214.c4292d948c18404e.js",
             "555.fa6325c405832448.js",
             "254.e7a547faa3fe9c4d.js",
-            "733.5d7bda54cf819fce.js"
+            "733.90ddcdccac1b8a5d.js"
           ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./manifest",
+      "id": "stockpulse:manifest",
+      "name": "manifest",
+      "requires": [],
+      "file": "src/manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.5949a3a21d06e456.js"
+          ],
+          "async": []
         },
         "css": {
           "sync": [],

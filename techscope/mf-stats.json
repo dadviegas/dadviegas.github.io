@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "techscope:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.16f3e9cacaa6416a.js"
           ],
           "sync": [
-            "733.6703c4ea7574ff43.js"
+            "733.d573263478072fdc.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "techscope:@atlantis/dal",
@@ -167,9 +167,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -178,17 +176,15 @@
       "path": "./App",
       "id": "techscope:App",
       "name": "App",
-      "requires": [
-        "react"
-      ],
+      "requires": [],
       "file": "src/App",
       "assets": {
         "js": {
           "sync": [
             "102.40e6ce820391eaa5.js",
-            "765.67c8a1f6bfcd3b18.js",
-            "467.a0ebf9889c4ca40e.js",
-            "__federation_expose_App.facb95cddf9deab8.js"
+            "444.b8ee6a4dff32aff8.js",
+            "467.cd4c8f6b5aa0e21e.js",
+            "__federation_expose_App.92f2ebe2933a09e0.js"
           ],
           "async": [
             "336.9dd2da562492fffc.js",
@@ -196,8 +192,27 @@
             "214.b0ec02e6088d4944.js",
             "555.e91d1b853b51c4e6.js",
             "254.16f3e9cacaa6416a.js",
-            "733.6703c4ea7574ff43.js"
+            "733.d573263478072fdc.js"
           ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./manifest",
+      "id": "techscope:manifest",
+      "name": "manifest",
+      "requires": [],
+      "file": "src/manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.b75a21bfda74ca90.js"
+          ],
+          "async": []
         },
         "css": {
           "sync": [],

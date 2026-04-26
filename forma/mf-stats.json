@@ -27,22 +27,22 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "forma:@atlantis/bll",
       "assets": {
         "js": {
           "async": [
-            "336.ececd8d85cb2a2d6.js",
-            "214.067c539c6483d574.js",
-            "555.c98adf8bb9710f61.js",
-            "254.b0af27cb7caba9f8.js"
+            "336.8f0f0a9fe05db089.js",
+            "214.2aa99088adc2d6f9.js",
+            "555.e42c10d084790207.js",
+            "254.b26e0ef3c673ec86.js"
           ],
           "sync": [
-            "764.4ca4683ec7486adb.js"
+            "764.c2db11ff1fd2e1d7.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "forma:@atlantis/dal",
@@ -66,7 +66,7 @@
         "js": {
           "async": [],
           "sync": [
-            "254.b0af27cb7caba9f8.js"
+            "254.b26e0ef3c673ec86.js"
           ]
         },
         "css": {
@@ -87,10 +87,10 @@
       "assets": {
         "js": {
           "async": [
-            "336.ececd8d85cb2a2d6.js"
+            "336.8f0f0a9fe05db089.js"
           ],
           "sync": [
-            "555.c98adf8bb9710f61.js"
+            "555.e42c10d084790207.js"
           ]
         },
         "css": {
@@ -113,11 +113,11 @@
       "assets": {
         "js": {
           "async": [
-            "336.ececd8d85cb2a2d6.js",
-            "555.c98adf8bb9710f61.js"
+            "336.8f0f0a9fe05db089.js",
+            "555.e42c10d084790207.js"
           ],
           "sync": [
-            "214.067c539c6483d574.js"
+            "214.2aa99088adc2d6f9.js"
           ]
         },
         "css": {
@@ -140,10 +140,10 @@
       "assets": {
         "js": {
           "async": [
-            "336.ececd8d85cb2a2d6.js"
+            "336.8f0f0a9fe05db089.js"
           ],
           "sync": [
-            "253.caaf08c9646edb31.js"
+            "253.9c7d42ad9cfc6af4.js"
           ]
         },
         "css": {
@@ -165,7 +165,7 @@
         "js": {
           "async": [],
           "sync": [
-            "336.ececd8d85cb2a2d6.js"
+            "336.8f0f0a9fe05db089.js"
           ]
         },
         "css": {
@@ -173,7 +173,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -183,6 +185,7 @@
       "id": "forma:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled",
         "@emotion/react",
         "@atlantis/bll"
@@ -191,30 +194,49 @@
       "assets": {
         "js": {
           "sync": [
-            "102.29f99502651bf6d9.js",
-            "265.9d0ee4b76aaeec8a.js",
-            "27.9f7490d5f9c6fb52.js",
-            "__federation_expose_App.5359dfb594aaa8a8.js"
+            "459.eb75d0e7d1cac27d.js",
+            "4.c7c0729835e54dae.js",
+            "27.a1acd951a146de8e.js",
+            "__federation_expose_App.468f31ed1effbd85.js"
           ],
           "async": [
-            "336.ececd8d85cb2a2d6.js",
-            "253.caaf08c9646edb31.js",
-            "214.067c539c6483d574.js",
-            "555.c98adf8bb9710f61.js",
-            "254.b0af27cb7caba9f8.js",
-            "764.4ca4683ec7486adb.js",
-            "44.3b9200da057d509d.js",
-            "957.d646e0ee719cdacb.js",
-            "45.0bf9c9b5778f7052.js",
-            "390.4463a0adb968678b.js",
-            "392.5ff274c3e7b71224.js",
-            "566.5b47f51c4e5171c0.js",
-            "773.8d6c31107c78ca95.js",
-            "923.82a3a3871928ca78.js",
-            "346.899368eafbdc5b54.js",
-            "693.0212894034173a84.js",
-            "545.9880a7b026b38f53.js"
+            "336.8f0f0a9fe05db089.js",
+            "253.9c7d42ad9cfc6af4.js",
+            "214.2aa99088adc2d6f9.js",
+            "555.e42c10d084790207.js",
+            "254.b26e0ef3c673ec86.js",
+            "764.c2db11ff1fd2e1d7.js",
+            "44.de37a88aae864136.js",
+            "957.b1382fe8a508d073.js",
+            "45.628a54af5005c361.js",
+            "390.ae8b52f42ca3d764.js",
+            "392.574124288c8060f1.js",
+            "566.2897ffa03fea4f25.js",
+            "773.b2122b99c881b233.js",
+            "923.f210c88e8fa5702f.js",
+            "346.b37fc2c1924292a8.js",
+            "693.bd8f1ef34ec5422b.js",
+            "545.b91a5db65f1341e9.js"
           ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./manifest",
+      "id": "forma:manifest",
+      "name": "manifest",
+      "requires": [],
+      "file": "src/manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.897d8b36a99e0979.js"
+          ],
+          "async": []
         },
         "css": {
           "sync": [],

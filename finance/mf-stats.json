@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "finance:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.7429d14429f9f74e.js"
           ],
           "sync": [
-            "764.e8ba4070a21ba88c.js"
+            "764.107ea6b4d61c3c4f.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "finance:@atlantis/dal",
@@ -189,9 +189,9 @@
         "js": {
           "sync": [
             "102.045846d2225bcf1b.js",
-            "265.8eebd27013f820b3.js",
-            "767.64ccb7bcccc5f871.js",
-            "__federation_expose_App.8145d9196bc3d96a.js"
+            "4.7b9c38cfa68118a3.js",
+            "501.92820e19ae8469ee.js",
+            "__federation_expose_App.fd3c89ed621945ba.js"
           ],
           "async": [
             "336.1bf42480758ff9cc.js",
@@ -199,19 +199,38 @@
             "214.018c8972e877552e.js",
             "555.af6007371fa9af9f.js",
             "254.7429d14429f9f74e.js",
-            "764.e8ba4070a21ba88c.js",
+            "764.107ea6b4d61c3c4f.js",
             "44.dbdced3bf6641b66.js",
-            "957.c146606ae3e690e9.js",
-            "45.5857749ac3bf85c6.js",
-            "390.74ab011ee5ceae99.js",
-            "392.bbfce58db8f77594.js",
-            "566.60ae3f018ea50abc.js",
-            "773.ee5a835db204bd13.js",
-            "923.de7941c9f2060b69.js",
-            "346.0e9ae9dc81b71b58.js",
-            "693.58fc0faa92d73de9.js",
-            "545.b900ebacb819eaa8.js"
+            "957.88c29c4917c852be.js",
+            "45.cab9c89244a7bf34.js",
+            "390.435288766b7d42b0.js",
+            "392.5e40e010b99718a6.js",
+            "566.7dc8f80932b13d50.js",
+            "773.7e3e2f3ce6c60af2.js",
+            "923.2bd069b82f471667.js",
+            "346.e1f14c98423f81bf.js",
+            "693.f3427948b510561b.js",
+            "545.dba81ef2a9e22769.js"
           ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./manifest",
+      "id": "finance:manifest",
+      "name": "manifest",
+      "requires": [],
+      "file": "src/manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.07f19b2765069200.js"
+          ],
+          "async": []
         },
         "css": {
           "sync": [],

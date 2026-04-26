@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "pad:@atlantis/dal",
@@ -142,9 +142,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -154,16 +152,15 @@
       "id": "pad:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
       "assets": {
         "js": {
           "sync": [
-            "6255.8e54685d56898714.js",
-            "5237.6c42be0f55765084.js",
-            "__federation_expose_App.4aa1e0d243de2eea.js"
+            "6255.0828907b344aa00b.js",
+            "5237.a375db01947a11d1.js",
+            "__federation_expose_App.d7cdeb239ac5cdd7.js"
           ],
           "async": [
             "5336.05c91f565c6aa377.js",
@@ -211,7 +208,7 @@
             "6835.dd67c4a1a1a186ea.js",
             "7663.09038dda9443274a.js",
             "464.a197b70e4f15fa30.js",
-            "2596.b33bbc33e2bc3c5f.js",
+            "2596.8e5cc2ba6cd15cd0.js",
             "1703.6abcfff1c075d5a9.js",
             "4661.84fd22bdad4f1a9d.js",
             "3843.7f1918b47ed6af65.js",
@@ -219,6 +216,25 @@
             "1611.4179c880e58363d0.js",
             "6016.05474d38578de52a.js"
           ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./manifest",
+      "id": "pad:manifest",
+      "name": "manifest",
+      "requires": [],
+      "file": "src/manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.ea31901643ebace1.js"
+          ],
+          "async": []
         },
         "css": {
           "sync": [],

@@ -28,9 +28,9 @@
     {
       "id": "shell:@atlantis/bll",
       "name": "@atlantis/bll",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "assets": {
         "js": {
           "async": [
@@ -40,7 +40,7 @@
             "5254.cd93206d3a635255.js"
           ],
           "sync": [
-            "4186.429f9520d9b54f9c.js"
+            "4186.5b2f017a5566edd4.js"
           ]
         },
         "css": {
@@ -52,9 +52,9 @@
     {
       "id": "shell:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "assets": {
         "js": {
           "async": [],
@@ -153,6 +153,180 @@
     }
   ],
   "remotes": [
+    {
+      "federationContainerName": "markdown",
+      "moduleName": "manifest",
+      "alias": "markdown",
+      "entry": "/markdown/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "school",
+      "moduleName": "manifest",
+      "alias": "school",
+      "entry": "/school/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "earth",
+      "moduleName": "manifest",
+      "alias": "earth",
+      "entry": "/earth/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "cosmos",
+      "moduleName": "manifest",
+      "alias": "cosmos",
+      "entry": "/cosmos/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "techscope",
+      "moduleName": "manifest",
+      "alias": "techscope",
+      "entry": "/techscope/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "citypulse",
+      "moduleName": "manifest",
+      "alias": "citypulse",
+      "entry": "/citypulse/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "stockpulse",
+      "moduleName": "manifest",
+      "alias": "stockpulse",
+      "entry": "/stockpulse/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "csvexplorer",
+      "moduleName": "manifest",
+      "alias": "csvexplorer",
+      "entry": "/csvexplorer/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "chartbuilder",
+      "moduleName": "manifest",
+      "alias": "chartbuilder",
+      "entry": "/chartbuilder/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "pad",
+      "moduleName": "manifest",
+      "alias": "pad",
+      "entry": "/pad/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "regexlab",
+      "moduleName": "manifest",
+      "alias": "regexlab",
+      "entry": "/regexlab/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "jsonexplorer",
+      "moduleName": "manifest",
+      "alias": "jsonexplorer",
+      "entry": "/jsonexplorer/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "codediff",
+      "moduleName": "manifest",
+      "alias": "codediff",
+      "entry": "/codediff/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "playground",
+      "moduleName": "manifest",
+      "alias": "playground",
+      "entry": "/playground/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "jwtinspector",
+      "moduleName": "manifest",
+      "alias": "jwtinspector",
+      "entry": "/jwtinspector/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "colorlab",
+      "moduleName": "manifest",
+      "alias": "colorlab",
+      "entry": "/colorlab/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "cronbuilder",
+      "moduleName": "manifest",
+      "alias": "cronbuilder",
+      "entry": "/cronbuilder/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "weather",
+      "moduleName": "manifest",
+      "alias": "weather",
+      "entry": "/weather/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "apiexplorer",
+      "moduleName": "manifest",
+      "alias": "apiexplorer",
+      "entry": "/apiexplorer/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "movies",
+      "moduleName": "manifest",
+      "alias": "movies",
+      "entry": "/movies/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "promptlab",
+      "moduleName": "manifest",
+      "alias": "promptlab",
+      "entry": "/promptlab/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "imagegen",
+      "moduleName": "manifest",
+      "alias": "imagegen",
+      "entry": "/imagegen/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "daily",
+      "moduleName": "manifest",
+      "alias": "daily",
+      "entry": "/daily/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "games",
+      "moduleName": "manifest",
+      "alias": "games",
+      "entry": "/games/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "ask",
+      "moduleName": "manifest",
+      "alias": "ask",
+      "entry": "/ask/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "finance",
+      "moduleName": "manifest",
+      "alias": "finance",
+      "entry": "/finance/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "youtube",
+      "moduleName": "manifest",
+      "alias": "youtube",
+      "entry": "/youtube/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "music",
+      "moduleName": "manifest",
+      "alias": "music",
+      "entry": "/music/remoteEntry.js"
+    },
+    {
+      "federationContainerName": "forma",
+      "moduleName": "manifest",
+      "alias": "forma",
+      "entry": "/forma/remoteEntry.js"
+    },
     {
       "federationContainerName": "markdown",
       "moduleName": "App",

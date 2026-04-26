@@ -28,9 +28,9 @@
     {
       "id": "csvexplorer:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "assets": {
         "js": {
           "async": [],
@@ -137,8 +137,8 @@
         "js": {
           "sync": [
             "102.f6c60ba503a11e2c.js",
-            "413.6e07cb2f75fd2909.js",
-            "__federation_expose_App.157f1baae4fbcad8.js"
+            "708.1f63228b7a60687a.js",
+            "__federation_expose_App.3d2b9f210315fb78.js"
           ],
           "async": [
             "336.aacab1bea3c573db.js",
@@ -154,6 +154,23 @@
         }
       },
       "path": "./App"
+    },
+    {
+      "id": "csvexplorer:manifest",
+      "name": "manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.d23953b92109e9f0.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./manifest"
     }
   ]
 }

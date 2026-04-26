@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-7b8f7f5",
+      "requiredVersion": "1.0.0-2dc2155",
       "shareScope": "default",
-      "version": "1.0.0-7b8f7f5",
+      "version": "1.0.0-2dc2155",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "citypulse:@atlantis/dal",
@@ -159,8 +159,8 @@
         "js": {
           "sync": [
             "102.a6f25b8e6a55ff54.js",
-            "852.b9e9cdf1bc9b888d.js",
-            "__federation_expose_App.9fe89ca38f8fa883.js"
+            "182.8d6bcbfed174283c.js",
+            "__federation_expose_App.014b316697b344d4.js"
           ],
           "async": [
             "336.cb4de744dbba16bc.js",
@@ -169,6 +169,25 @@
             "555.bce8937f0fbaf77f.js",
             "277.b9dd9aba99c1b2ce.js"
           ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./manifest",
+      "id": "citypulse:manifest",
+      "name": "manifest",
+      "requires": [],
+      "file": "src/manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.4c2aa71f2d866744.js"
+          ],
+          "async": []
         },
         "css": {
           "sync": [],

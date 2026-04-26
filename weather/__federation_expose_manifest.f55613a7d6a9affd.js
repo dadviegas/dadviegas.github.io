@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_weather=self.webpackChunk_atlantis_weather||[]).push([["852"],{8085(e,a,t){t.r(a),t.d(a,{default:()=>s});let s={id:"weather",port:3022,labelKey:"apps.weather.label",descriptionKey:"apps.weather.description",hash:"#/weather",icon:"cloud",color:"#58a6ff",enabled:!0,category:"Live",needsAuth:!1,suite:"Live"}}}]);

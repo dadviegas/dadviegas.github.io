@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_music=self.webpackChunk_atlantis_music||[]).push([["852"],{8085(e,s,a){a.r(s),a.d(s,{default:()=>i});let i={id:"music",port:3033,labelKey:"apps.music.label",descriptionKey:"apps.music.description",hash:"#/music",hashAliases:[],icon:"headphones",color:"#e89a5c",enabled:!0,category:"Entertainment",needsAuth:!1,suite:"Life Dashboard"}}}]);

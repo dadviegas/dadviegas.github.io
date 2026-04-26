@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-81aae88",
+      "requiredVersion": "1.0.0-41c891b",
       "shareScope": "default",
-      "version": "1.0.0-81aae88",
+      "version": "1.0.0-41c891b",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "playground:@atlantis/dal",
@@ -162,7 +162,7 @@
         "js": {
           "sync": [
             "108.a508166625b8f709.js",
-            "194.86827425406c4580.js",
+            "194.4072e6d7669d9866.js",
             "__federation_expose_App.be4f14c1c0b21ea6.js"
           ],
           "async": [

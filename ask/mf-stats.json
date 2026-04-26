@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-dbe55d1",
+      "requiredVersion": "1.0.0-44e6e51",
       "shareScope": "default",
-      "version": "1.0.0-dbe55d1",
+      "version": "1.0.0-44e6e51",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "ask:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.880777e3f7a96a70.js"
           ],
           "sync": [
-            "277.5437ed1ed495eb46.js"
+            "277.424bbd74ff90ec75.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-dbe55d1",
+      "requiredVersion": "1.0.0-44e6e51",
       "shareScope": "default",
-      "version": "1.0.0-dbe55d1",
+      "version": "1.0.0-44e6e51",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "ask:@atlantis/dal",
@@ -173,9 +173,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -185,7 +183,6 @@
       "id": "ask:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled",
         "@emotion/react",
         "@atlantis/bll"
@@ -195,9 +192,9 @@
         "js": {
           "sync": [
             "459.4f4fdc8094883f09.js",
-            "265.4501db53fbdc739d.js",
-            "668.1dd4184f33a6f2b3.js",
-            "__federation_expose_App.3cec530d033eda4f.js"
+            "265.3ebc839dafb228e1.js",
+            "664.6d3b6f19f40ceedc.js",
+            "__federation_expose_App.f76713351c7216a7.js"
           ],
           "async": [
             "336.4a44ebf0d1b8e4e0.js",
@@ -205,7 +202,7 @@
             "214.8e38526c40bdf5d1.js",
             "555.0f649efe9e87494d.js",
             "254.880777e3f7a96a70.js",
-            "277.5437ed1ed495eb46.js"
+            "277.424bbd74ff90ec75.js"
           ]
         },
         "css": {

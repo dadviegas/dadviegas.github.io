@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-dbe55d1",
+      "requiredVersion": "1.0.0-44e6e51",
       "shareScope": "default",
-      "version": "1.0.0-dbe55d1",
+      "version": "1.0.0-44e6e51",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "games:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.00cd7fea5652b44a.js"
           ],
           "sync": [
-            "277.85393f346d28fba0.js"
+            "277.efcfc1f4d43108b3.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-dbe55d1",
+      "requiredVersion": "1.0.0-44e6e51",
       "shareScope": "default",
-      "version": "1.0.0-dbe55d1",
+      "version": "1.0.0-44e6e51",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "games:@atlantis/dal",
@@ -98,7 +98,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     },
     {
       "singleton": true,
@@ -123,7 +125,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     },
     {
       "singleton": true,
@@ -179,6 +183,8 @@
       "id": "games:App",
       "name": "App",
       "requires": [
+        "@emotion/styled",
+        "@emotion/react",
         "@atlantis/bll"
       ],
       "file": "src/App",
@@ -186,9 +192,9 @@
         "js": {
           "sync": [
             "424.09ff33efb258ffbc.js",
-            "265.88e4177970a6eaed.js",
-            "994.9783733d704dcf0c.js",
-            "__federation_expose_App.cf39338ae925e4f3.js"
+            "265.fd597c2830f657c2.js",
+            "190.d9584bc4c5019140.js",
+            "__federation_expose_App.b9a7a6dac4934eea.js"
           ],
           "async": [
             "336.6d03358548d2b55e.js",
@@ -196,7 +202,7 @@
             "214.c7a438e88778b96b.js",
             "555.a5393aca6dbadd8c.js",
             "254.00cd7fea5652b44a.js",
-            "277.85393f346d28fba0.js"
+            "277.efcfc1f4d43108b3.js"
           ]
         },
         "css": {

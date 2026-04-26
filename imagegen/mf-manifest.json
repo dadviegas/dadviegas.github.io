@@ -28,9 +28,9 @@
     {
       "id": "imagegen:@atlantis/bll",
       "name": "@atlantis/bll",
-      "version": "1.0.0-1fde411",
+      "version": "1.0.0-a5b560e",
       "singleton": true,
-      "requiredVersion": "1.0.0-1fde411",
+      "requiredVersion": "1.0.0-a5b560e",
       "assets": {
         "js": {
           "async": [
@@ -40,7 +40,7 @@
             "254.52336450cf9839a4.js"
           ],
           "sync": [
-            "433.25a57238c30ed22b.js"
+            "433.1fb1acaeefc2c915.js"
           ]
         },
         "css": {
@@ -52,9 +52,9 @@
     {
       "id": "imagegen:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-1fde411",
+      "version": "1.0.0-a5b560e",
       "singleton": true,
-      "requiredVersion": "1.0.0-1fde411",
+      "requiredVersion": "1.0.0-a5b560e",
       "assets": {
         "js": {
           "async": [],
@@ -160,10 +160,9 @@
       "assets": {
         "js": {
           "sync": [
-            "251.cbd66bde303adff7.js",
-            "384.1867ed70876aed6a.js",
-            "265.4a8cc2e10f715bf7.js",
-            "787.ee6cfa1f7b7d75e1.js",
+            "102.ebe2db68ae83ce83.js",
+            "265.c90a50365b3afffa.js",
+            "787.8b2bf294881e53a9.js",
             "__federation_expose_App.f18ec0ae1e24f03f.js"
           ],
           "async": [
@@ -172,7 +171,7 @@
             "214.cd5b11db485496ec.js",
             "555.d0524802c2d5baec.js",
             "254.52336450cf9839a4.js",
-            "433.25a57238c30ed22b.js"
+            "433.1fb1acaeefc2c915.js"
           ]
         },
         "css": {

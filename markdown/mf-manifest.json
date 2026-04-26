@@ -28,9 +28,9 @@
     {
       "id": "markdown:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-1fde411",
+      "version": "1.0.0-a5b560e",
       "singleton": true,
-      "requiredVersion": "1.0.0-1fde411",
+      "requiredVersion": "1.0.0-a5b560e",
       "assets": {
         "js": {
           "async": [],
@@ -136,12 +136,13 @@
       "assets": {
         "js": {
           "sync": [
-            "504.ee467a7f8f602c41.js",
-            "125.a7eb1ae38aa7f76a.js",
-            "__federation_expose_App.32b3ac31a0cc8b10.js"
+            "459.50fb8ba76e321962.js",
+            "320.f83e16491bc72673.js",
+            "__federation_expose_App.9fe6314bcbde97fa.js"
           ],
           "async": [
             "336.55fb2d5e9dfee94f.js",
+            "253.b72b985875b97195.js",
             "214.e561f35cdc07a73d.js",
             "555.1f05d6a9c5b641f7.js",
             "277.52f37a50cadf1ec0.js"

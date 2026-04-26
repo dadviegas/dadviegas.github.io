@@ -28,9 +28,9 @@
     {
       "id": "playground:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-1fde411",
+      "version": "1.0.0-a5b560e",
       "singleton": true,
-      "requiredVersion": "1.0.0-1fde411",
+      "requiredVersion": "1.0.0-a5b560e",
       "assets": {
         "js": {
           "async": [],
@@ -136,8 +136,8 @@
       "assets": {
         "js": {
           "sync": [
-            "615.53375ee23e034733.js",
-            "194.7fe6018fa7719aaa.js",
+            "108.a508166625b8f709.js",
+            "194.694cbf619f759408.js",
             "__federation_expose_App.be4f14c1c0b21ea6.js"
           ],
           "async": [

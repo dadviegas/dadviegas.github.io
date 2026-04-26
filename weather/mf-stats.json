@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-797b087",
+      "requiredVersion": "1.0.0-7b8f7f5",
       "shareScope": "default",
-      "version": "1.0.0-797b087",
+      "version": "1.0.0-7b8f7f5",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "weather:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.cf25f68d848d873f.js"
           ],
           "sync": [
-            "733.021cdd57b5d7af48.js"
+            "733.2ab382d4a00eb3c4.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-797b087",
+      "requiredVersion": "1.0.0-7b8f7f5",
       "shareScope": "default",
-      "version": "1.0.0-797b087",
+      "version": "1.0.0-7b8f7f5",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "weather:@atlantis/dal",
@@ -191,15 +191,15 @@
       "assets": {
         "js": {
           "sync": [
-            "765.ecca06fb57b82076.js",
-            "__federation_expose_App.ea02842c56231839.js"
+            "765.e905c3fc49a52330.js",
+            "__federation_expose_App.24d8153f88a7bb8b.js"
           ],
           "async": [
             "336.295ab048011b55e6.js",
             "214.ac5f14bd57a51e75.js",
             "555.205cf0739745f525.js",
             "254.cf25f68d848d873f.js",
-            "733.021cdd57b5d7af48.js"
+            "733.2ab382d4a00eb3c4.js"
           ]
         },
         "css": {

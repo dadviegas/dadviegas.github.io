@@ -28,9 +28,9 @@
     {
       "id": "chartbuilder:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-797b087",
+      "version": "1.0.0-7b8f7f5",
       "singleton": true,
-      "requiredVersion": "1.0.0-797b087",
+      "requiredVersion": "1.0.0-7b8f7f5",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "102.0f53a235b280eecb.js",
-            "9.32068f192c22a8f7.js",
+            "9.7b7f891370ffe2be.js",
             "__federation_expose_App.5924d2f5678f9dd1.js"
           ],
           "async": [

@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-797b087",
+      "requiredVersion": "1.0.0-7b8f7f5",
       "shareScope": "default",
-      "version": "1.0.0-797b087",
+      "version": "1.0.0-7b8f7f5",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "daily:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.e054bf00901196b6.js"
           ],
           "sync": [
-            "733.a1d22df4cdcd21f8.js"
+            "733.5bb2e5ca3814e00f.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-797b087",
+      "requiredVersion": "1.0.0-7b8f7f5",
       "shareScope": "default",
-      "version": "1.0.0-797b087",
+      "version": "1.0.0-7b8f7f5",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "daily:@atlantis/dal",
@@ -173,9 +173,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -185,7 +183,6 @@
       "id": "daily:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled",
         "@emotion/react",
         "@atlantis/bll"
@@ -195,9 +192,9 @@
         "js": {
           "sync": [
             "102.c27bcb52d7c94018.js",
-            "765.067364957b64e735.js",
-            "454.cec22f196255ffdb.js",
-            "__federation_expose_App.fbdebe6de9d0ddf4.js"
+            "765.53121a64de1d92a2.js",
+            "454.66d725e46be9c728.js",
+            "__federation_expose_App.4b5de596e4cf3d20.js"
           ],
           "async": [
             "336.1c9e3839095fbe45.js",
@@ -205,7 +202,7 @@
             "214.222eaa19cda4a97a.js",
             "555.0865564c8da09066.js",
             "254.e054bf00901196b6.js",
-            "733.a1d22df4cdcd21f8.js"
+            "733.5bb2e5ca3814e00f.js"
           ]
         },
         "css": {

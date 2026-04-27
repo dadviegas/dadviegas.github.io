@@ -1,6 +1,0 @@
-"use strict";(self.webpackChunk_atlantis_weather=self.webpackChunk_atlantis_weather||[]).push([["362"],{3935(e,t,a){a.r(t),a.d(t,{default:()=>u});var i=a(5723),r=a(7991),l=a(6859),n=a.n(l),s=a(6063),c=a(2775),d=a(132);let o=new Map(s.rh.map(e=>[e.id,e])),m=s.rh.find(e=>"lisbon"===e.id)??s.rh["0"],h=n().iframe`
-  flex: 1;
-  width: 100%;
-  border: none;
-  display: block;
-`;function u({topBarRight:e}){let[t,a]=(0,r.useState)(m),[l,n]=(0,r.useState)(m.id),{recent:p,addRecent:w}=(0,c.usePlaceRecents)("atlantis:weather:recent"),b=(0,r.useCallback)(e=>{if(e.id.startsWith("country-")||"__recent__"===e.id)return;let t=o.get(e.id);t&&(a(t),n(t.id),w(t.id))},[]),f=(0,r.useMemo)(()=>(0,s.qs)(p),[p]),_=(0,i.jsx)(d.CD,{entries:f,activeId:l,onSelect:b});return(0,i.jsx)(d.PE,{title:"Weather",sidebar:_,activeId:l,topBarRight:e,children:(0,i.jsx)(h,{src:`https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=\xb0C&metricWind=km/h&zoom=${t.zoom}&overlay=wind&product=ecmwf&level=surface&lat=${t.lat}&lon=${t.lng}`,title:`Weather near ${t.name}`,allowFullScreen:!0},t.id)})}}}]);

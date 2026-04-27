@@ -1,0 +1,11 @@
+"use strict";(self.webpackChunk_atlantis_citypulse=self.webpackChunk_atlantis_citypulse||[]).push([["512"],{8997(e,i,t){var n=t(2727);i.createRoot=n.createRoot,n.hydrateRoot},3611(e,i,t){var n=t(5723),r=t(7991),a=t(8997),o=t(6859),l=t.n(o),s=t(6063),d=t(132),c=t(3819),h=t(9522),p=t(1951),x=t(6305),m=t(7912),u=t(5332),y=t(4439);let w=[{id:"dashboard",name:"Dashboard",icon:"layout-grid",children:[{id:"overview",name:"City Overview",icon:"map-pin"},{id:"weather",name:"Weather Timeline",icon:"thermometer"},{id:"air-quality",name:"Air Quality",icon:"wind"},{id:"compare",name:"Compare Cities",icon:"bar-chart-2"}]}],g=l().h2`
+  font-size: ${s.w4.typography.fontSizeLg};
+  font-weight: 700;
+  color: ${s.w4.colors.mainText};
+  margin-bottom: ${s.w4.spacing.md};
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: ${s.w4.spacing.sm};
+`,j=document.getElementById("root");if(!j)throw Error("Root element #root not found");(0,a.createRoot)(j).render((0,n.jsx)(function({topBarRight:e}){let[i,t]=(0,r.useState)(c.Mq["0"]),{snapshot:a,weather:o,airQuality:l,loading:s,error:j,retry:f}=(0,h.n)(i);return(0,n.jsx)(d.NI,{title:"CityPulse",sections:w,topBarRight:e,children:(0,n.jsxs)(d.wi,{children:[(0,n.jsxs)(d.KW,{id:"overview",children:[(0,n.jsxs)(g,{children:["City Overview",(0,n.jsx)(p.A,{value:i.id,onChange:t})]}),j?(0,n.jsxs)("div",{style:{padding:"24px",color:"#8b949e",fontSize:14,display:"flex",flexDirection:"column",alignItems:"flex-start",gap:12},children:["Weather data unavailable — the API may be temporarily down.",(0,n.jsx)("button",{onClick:f,style:{padding:"6px 16px",cursor:"pointer",background:"none",border:"1px solid #30363d",borderRadius:6,color:"#e6edf3",fontFamily:"inherit",fontSize:13},children:"Retry"})]}):(0,n.jsx)(x.A,{snapshot:a,loading:s})]}),(0,n.jsx)(d.KW,{id:"weather",children:(0,n.jsx)(d.PH,{children:(0,n.jsx)(m.A,{weather:o,loading:s})})}),(0,n.jsx)(d.KW,{id:"air-quality",children:(0,n.jsx)(d.PH,{children:(0,n.jsx)(u.A,{airQuality:l,loading:s})})}),(0,n.jsx)(d.KW,{id:"compare",children:(0,n.jsx)(d.PH,{children:(0,n.jsx)(y.A,{})})})]})})},{}))}}]);

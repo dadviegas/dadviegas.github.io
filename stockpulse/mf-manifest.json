@@ -28,9 +28,9 @@
     {
       "id": "stockpulse:@atlantis/bll",
       "name": "@atlantis/bll",
-      "version": "1.0.0-d5d2fef",
+      "version": "1.0.0-9629efa",
       "singleton": true,
-      "requiredVersion": "1.0.0-d5d2fef",
+      "requiredVersion": "1.0.0-9629efa",
       "assets": {
         "js": {
           "async": [
@@ -40,7 +40,7 @@
             "254.e7a547faa3fe9c4d.js"
           ],
           "sync": [
-            "689.19b7ae93f02afaa2.js"
+            "493.106d585bd15c242e.js"
           ]
         },
         "css": {
@@ -52,9 +52,9 @@
     {
       "id": "stockpulse:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-d5d2fef",
+      "version": "1.0.0-9629efa",
       "singleton": true,
-      "requiredVersion": "1.0.0-d5d2fef",
+      "requiredVersion": "1.0.0-9629efa",
       "assets": {
         "js": {
           "async": [],
@@ -160,10 +160,10 @@
       "assets": {
         "js": {
           "sync": [
-            "102.47bc64bd9880a3cf.js",
-            "444.a61a6331c75ce4f6.js",
-            "531.2f98e79961b1e96b.js",
-            "__federation_expose_App.6e9c6ac4e0d6bbfb.js"
+            "102.2947ab302c42a859.js",
+            "444.068037b700eb17f4.js",
+            "531.92d022b7655172dd.js",
+            "__federation_expose_App.f1f3ddd121c57501.js"
           ],
           "async": [
             "336.92c7d25adcecf60e.js",
@@ -171,7 +171,7 @@
             "214.c4292d948c18404e.js",
             "555.fa6325c405832448.js",
             "254.e7a547faa3fe9c4d.js",
-            "689.19b7ae93f02afaa2.js"
+            "493.106d585bd15c242e.js"
           ]
         },
         "css": {

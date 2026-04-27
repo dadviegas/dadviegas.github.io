@@ -24,7 +24,7 @@ Live tech intelligence feed. 9 live sources: GitHub trending repos, Hacker News 
 Urban live data — news, events, and metrics from cities around the world. Categorised by topic (Politics, Economy, Science, Culture). Useful for tracking what's happening globally without social-media noise.
 
 ### StockPulse (`#/stockpulse`)
-Real-time stock quotes powered by Finnhub. Search any ticker, track a watchlist, view intraday charts. Requires a free Finnhub API key (see [API Keys guide](../guides/api-keys.md)).
+Real-time stock quotes powered by Finnhub. Search any ticker, track a watchlist, view intraday charts. Requires a free Finnhub API key (see [API Keys](./api-keys.md)).
 
 ---
 

@@ -6,64 +6,86 @@ The Finance app (`#/finance`) is a family budget tracker. It works without sign-
 
 ## Quick-add / Adicionar despesas rapidamente
 
-The quick-add bar at the top is the fastest way to log expenses. Type naturally and press **Enter** or tap **+**.
+The quick-add bar at the top is the fastest way to log expenses. Type naturally and press **Enter** or tap **+**. Press **`/`** anywhere in the app to focus it.
 
 ### Syntax
 
 ```
 12.50 continente
 ```
-Logs €12.50 with description "continente". Category is auto-guessed from the description using keyword matching.
+Logs €12.50 with description "continente". Category is auto-guessed.
 
 ```
 @ines 30 farmácia
 ```
-Logs €30 attributed to the family member **Inês**.
+Attributes the expense to family member **Inês**.
 
 ```
 @shared 45 luz
 ```
-Logs €45 as a shared household expense.
+Logs as a shared household expense.
 
-### Auto-category
+```
+50 jantar usd
+```
+Logs in another currency — Forma fetches the EUR rate via [frankfurter.app](https://frankfurter.app) and stores both. Supported codes: USD, GBP, BRL, JPY, CHF, CAD, AUD.
 
-Atlantis matches common keywords to categories automatically:
-- `continente`, `pingo doce`, `aldi`, `mercado` → Alimentação / Food
-- `farmácia`, `médico`, `saúde` → Saúde / Health
-- `gasolina`, `uber`, `transporte` → Transportes
-- `netflix`, `spotify`, `streaming` → Subscrições / Subscriptions
-- `restaurante`, `café`, `jantar` → Restauração / Dining
+```
+9.99 netflix recurring monthly
+```
+Creates a `RecurringRule` (see Recurring below) that auto-logs €9.99 each month.
 
-You can override the category after adding, or edit the `categoryHints` in Settings to teach the system new keywords.
+### Auto-category — keyword + rule engine
+
+Two layers run on every quick-add:
+
+1. **Category rules** (top-down) — user-authored. When you override an auto-guess, Finance proposes a rule: "Always categorise descriptions matching `spotify` as Subscriptions". Accept and the rule is saved.
+2. **Category hints** (legacy keyword map) — built-in seeds: `continente`, `pingo doce`, `aldi`, `mercado` → Alimentação; `farmácia`, `médico`, `saúde` → Saúde; `gasolina`, `uber`, `transporte` → Transportes; `netflix`, `spotify`, `streaming` → Subscrições; `restaurante`, `café`, `jantar` → Restauração.
+
+Edit both in Settings.
 
 ---
 
 ## Membros da família / Family Members
 
-Assign expenses to household members to track individual spending.
+Expenses can be attributed to one member, split across many, or marked shared.
 
-- Add members in the **Members** section of the app
-- Each member can have a role: `adult` or `child`
-- Use `@nome` in quick-add to attribute an expense
-- The member rail (desktop sidebar) or chip row (tablet) shows each person's spend for the selected period
-- Unattributed expenses show as `🏠 Shared`
+- Add members in **Members** with role `adult` or `child`
+- Use `@nome` in quick-add to attribute
+- Untagged rows show a faint `—` in the member column
+- The desktop **Member Rail** (left sidebar) and tablet **chip strip** show each person's spend for the selected period — click to filter
+- Insights attribute a category to a member when they drive >70% of its spend
 
-### Member attribution in expense rows
+### Splitting an expense
 
-Every expense row shows the member avatar as a prefix. Untagged rows show a faint `—` so the column stays visible and scannable.
+When logging, tap **Split** to attribute proportions across members. The `split[]` array on the expense supersedes `childId` for aggregation: shares must sum to 1.0 (e.g. `{ memberId: 'joão', share: 0.4 }, { memberId: 'maria', share: 0.6 }`). Aggregations like `spendingByMember` and Insights are split-aware.
+
+### Allowance (children)
+
+Children can have a `weeklyAllowance` (EUR/week). Every Monday, an idempotent engine credits the allowance as an income entry attributed to that child. Their spend is tracked against their allowance balance, surfaced as `allowanceBalance(member, expenses, income)`.
+
+---
+
+## Multi-account
+
+Finance supports multiple accounts: **cash**, **debit**, **credit**.
+
+- Manage accounts in Settings → Accounts (seeded with a "Main" account)
+- Each expense and income optionally has an `accountId`; rows without one fall back to `defaultAccountId`
+- **Transfers** between accounts are tracked separately and excluded from spend/income totals
+- `accountBalance(account, data)` returns: `openingBalance + income − expenses + transfers in − transfers out`
 
 ---
 
 ## Categorias e orçamento / Categories & Budget
 
-Go to **Budget** in the sidebar to:
-- Set a **weekly budget** (shows as a progress bar + "good / warning / danger" status)
-- Set per-category limits (optional — shown as per-row progress indicators)
+Go to **Budget** to set:
 
-The **Finance widget** on the home dashboard shows:
-- Your weekly budget status pill (green / amber / red)
-- Current week's spending vs budget
-- A mini sparkline of the last 4 weeks
+- **Weekly budget** — drives the home widget's good/warning/danger pill and bell events
+- **Monthly budget** — surfaces in the monthly summary
+- **Per-category budgets** — `{ amount, rollover? }`. With `rollover: true`, unspent budget carries forward to next month via `applyAutoRollover` on every save.
+
+The **Finance widget** on the home dashboard shows the weekly status pill, current spend vs budget, and a 4-week sparkline.
 
 ---
 
@@ -72,56 +94,162 @@ The **Finance widget** on the home dashboard shows:
 | Type | When to use |
 |---|---|
 | `daily` | One-off purchase (default) |
-| `monthly` | One-time but large (e.g. rent — log manually each month) |
-| `recurring` | Automatic (engine coming soon — see below) |
+| `monthly` | One-time but large (e.g. rent) |
+| `recurring` | Generated by a `RecurringRule` |
 
-### Reimbursables / Reembolsáveis
+### Reimbursables
 
-Toggle **Reimbursable** when logging an expense paid on behalf of someone else. Once repaid, mark it **Reimbursed**. The Insights section shows your pending reimbursable total.
+Toggle **Reimbursable** when paying on someone else's behalf. Mark **Reimbursed** once repaid. The Reimbursables tracker shows pending reimbursables grouped by member with totals.
+
+---
+
+## Recurring expenses (engine shipped)
+
+Create rules in Settings → Recurring or via quick-add (`9.99 netflix recurring monthly`). Each rule has:
+
+- Description, amount, categoryId
+- Cadence: `weekly | monthly | yearly`
+- `nextDueAt` — engine writes a real `Expense` once that timestamp is past
+- Optional `endsAt`, `paused`, `memberId`
+
+`materializeDueRules` runs on every `useFinance().save()`, so as soon as you open the app on or after the due date, the expense is created. Auto-generated expenses carry `sourceRuleId` for traceability.
+
+Finance can also **propose rules** by scanning your expense history (`proposeRecurringRules`) — same payee + same amount + monthly cadence.
+
+---
+
+## Goals (savings)
+
+Create a goal in **Goals** with target EUR + optional deadline. Income entries can carry a `goalId` to count as a contribution.
+
+- Quick-add of income tagged to a goal: `+200 salary goal:europe-trip`
+- **Goal contributions auto-route** — once configured, income from your default source can route a percentage to a goal automatically
+- The cash-flow forecast can exclude goal-contribution income (default: excluded — ring-fenced from spending)
+
+---
+
+## Bills
+
+Add upcoming bills (payee, amount, due date) in **Bills**. The producer pushes bell events at:
+
+- 3 days before due
+- 1 day before due
+- Day of (0d)
+- Overdue
+
+Mark a bill **Paid** to auto-create an expense and link it via `paidExpenseId`.
+
+---
+
+## Net worth
+
+Track assets and liabilities over time:
+
+- **Line items** — named entries (`'Bank'`, `'House'`, `'Mortgage'`) tagged `asset` or `liability`
+- **Snapshots** — periodic `{ date, values: { lineItemId: amount } }` records
+- The Net Worth panel charts current net worth, line-item composition, and historical trend
+- `currentNetWorth(data)` and `netWorthSeries(data)` power the visualisations
+
+---
+
+## Cash-flow forecast
+
+3-month projection (configurable via `forecastCashFlow(data, { monthsAhead })`) blending:
+
+- Income cadence from past 3 months
+- Recurring rules
+- Discretionary baseline
+
+Future negative days are flagged via `projectedNegativeDays` and `firstNegativeDay`. Goal-contribution income is excluded by default so the forecast reflects spending capacity, not gross.
+
+---
+
+## Search + saved views
+
+Press **`/`** to open the Search panel (Expenses tab). Filter by:
+
+- Description text (case-insensitive substring)
+- Member, category, account
+- Date range
+- Amount min / max
+- Tags (all listed tags must be present)
+
+Save the current query as a **named view** and load it later. Saved views persist on `FinanceData.savedViews`.
+
+---
+
+## Tags & merchants
+
+- **Tags** — free-form labels (e.g. `vacation-2026`, `reimburse-edp`). MRU list of last 30 tags powers autocomplete.
+- **Merchants** — every expense gets a normalised `merchant` (uppercased, legal suffixes stripped). The `recentMerchants` helper surfaces top-spend merchants.
 
 ---
 
 ## Desfazer / Undo
 
-Every write (add, edit, delete, mark reimbursed) can be undone. An **Undo** toast appears at the bottom of the screen for ~5 seconds after each action. The undo buffer holds the last 20 actions (in-memory — resets on page reload).
+Every write (add, edit, delete, mark reimbursed, revert) can be undone. An **Undo** toast appears for ~5 seconds. The buffer holds the last 20 actions in-memory and resets on page reload.
 
 ---
 
 ## Insights
 
-The Insights tab shows AI-generated observations about your spending patterns:
-- Unusual spikes in a category vs your 3-month average
-- Categories trending up or down
-- Member-attributed insights when one person drives >70% of a category
+The Insights tab surfaces:
+
+- Category spikes vs your 3-month average (with member attribution when one person drives >70%)
+- Categories trending up/down month-over-month
+- Forecast warnings (next negative day, low-runway alerts)
 - Reimbursable pending summary
 
----
-
-## Exportar / Export
-
-*(Coming soon)* A monthly PDF report will be available — budget summary, category donut chart, member small multiples, top 10 expenses, and reimbursable ledger.
+Templates support `{name}` interpolation (e.g. `finance.insights.memberCategoryUp`) and run through the standard translations layer.
 
 ---
 
-## Recurring Expenses *(Engine coming soon)*
+## Notifications
 
-The `recurring` expense type exists in the data model but the auto-creation engine is not yet implemented. When it ships, you'll be able to define rules like "€9.99 Netflix every month on the 15th" and the app will auto-log them on the due date.
+| Category | Trigger |
+|---|---|
+| `finance.budget` | Weekly spend crosses warning/danger threshold (once per ISO week per severity) |
+| `finance.bills` | Bill due in 3d / 1d / 0d / overdue |
+| `finance.digest.weekly` | Sunday ≥18:00 — multi-line digest with spend, top categories, members, pending reimbursables, top insight |
+
+All three appear in the bell with badge `#7fb77e`. Toggle each on/off in Settings → Notification Sources.
+
+---
+
+## Exportar / Export — Monthly PDF report
+
+Settings → Export generates a client-side PDF for the selected month containing:
+
+- Budget summary
+- Category donut + top 10 expenses
+- Per-member small multiples
+- Reimbursable ledger
+- Net worth snapshot
+
+Email/Edge Function delivery is not yet wired — the PDF is downloaded directly.
+
+---
+
+## FX / Multi-currency
+
+Foreign-currency expenses store both the original (`fx.original`, `fx.code`, `fx.rate`) and the converted EUR amount. Rates come from frankfurter.app and are cached per date. All aggregations work in EUR; the per-row UI surfaces the original amount and code.
 
 ---
 
 ## Dados e sincronização / Data & Sync
 
-- Data is stored under the key `finance:data` via the shared storage layer
-- **Signed out:** saved to IndexedDB in your browser — clearing browser data removes it
-- **Signed in:** synced to Supabase — accessible from any device
-- Data includes: expenses, income entries, family members, budget settings, category hints, and recent descriptions (for autocomplete)
+- Storage key: `finance:data`
+- **Signed out** — IndexedDB only
+- **Signed in** — synced to Supabase
+- Includes: expenses, income, members (with allowance state), accounts, transfers, budget, category hints + rules, recurring rules, bills, goals, net worth items + snapshots, saved views, recent descriptions/tags
 
 ---
 
-## Atalhos de teclado / Keyboard shortcuts
+## Atalhos / Shortcuts
 
 | Action | Shortcut |
 |---|---|
 | Focus quick-add bar | `/` |
 | Submit quick-add | `Enter` |
-| Undo last action | Toast button (no keyboard shortcut yet) |
+| Open Search panel (Expenses tab) | `/` |
+| Undo last action | Toast button |

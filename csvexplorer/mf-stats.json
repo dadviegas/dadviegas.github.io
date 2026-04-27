@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-d5d2fef",
+      "requiredVersion": "1.0.0-9629efa",
       "shareScope": "default",
-      "version": "1.0.0-d5d2fef",
+      "version": "1.0.0-9629efa",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "csvexplorer:@atlantis/dal",
@@ -159,8 +159,8 @@
         "js": {
           "sync": [
             "102.f6c60ba503a11e2c.js",
-            "148.13393e3d3e9ba324.js",
-            "__federation_expose_App.79bae86076039cef.js"
+            "655.c9e0305ecab0fb4b.js",
+            "__federation_expose_App.ff241ad166f3e371.js"
           ],
           "async": [
             "336.aacab1bea3c573db.js",

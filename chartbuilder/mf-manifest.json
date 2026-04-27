@@ -28,9 +28,9 @@
     {
       "id": "chartbuilder:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-d5d2fef",
+      "version": "1.0.0-9629efa",
       "singleton": true,
-      "requiredVersion": "1.0.0-d5d2fef",
+      "requiredVersion": "1.0.0-9629efa",
       "assets": {
         "js": {
           "async": [],
@@ -137,8 +137,8 @@
         "js": {
           "sync": [
             "102.0f53a235b280eecb.js",
-            "0.71199a68165d224b.js",
-            "__federation_expose_App.441ab38d2e0684a0.js"
+            "27.084ae52be84f742d.js",
+            "__federation_expose_App.31853f6eb7d48521.js"
           ],
           "async": [
             "336.54e968484f2ffcb3.js",

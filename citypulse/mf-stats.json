@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-d5d2fef",
+      "requiredVersion": "1.0.0-9629efa",
       "shareScope": "default",
-      "version": "1.0.0-d5d2fef",
+      "version": "1.0.0-9629efa",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "citypulse:@atlantis/dal",
@@ -159,8 +159,8 @@
         "js": {
           "sync": [
             "102.a6f25b8e6a55ff54.js",
-            "182.0c5a185826b5df45.js",
-            "__federation_expose_App.2da56ef966ea55c5.js"
+            "182.36f7eafe76dfae78.js",
+            "__federation_expose_App.7f3f67381a08c924.js"
           ],
           "async": [
             "336.cb4de744dbba16bc.js",

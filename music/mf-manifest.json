@@ -28,9 +28,9 @@
     {
       "id": "music:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-4e39288",
+      "version": "1.0.0-e644478",
       "singleton": true,
-      "requiredVersion": "1.0.0-4e39288",
+      "requiredVersion": "1.0.0-e644478",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "102.6dcad460b1899c37.js",
-            "544.0c0f6db335755a68.js",
+            "544.fc02b3b617d367c1.js",
             "__federation_expose_App.2593e06cb8d0b7e6.js"
           ],
           "async": [

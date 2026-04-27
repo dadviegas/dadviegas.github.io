@@ -28,9 +28,9 @@
     {
       "id": "jwtinspector:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-e644478",
+      "version": "1.0.0-8eb47fb",
       "singleton": true,
-      "requiredVersion": "1.0.0-e644478",
+      "requiredVersion": "1.0.0-8eb47fb",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "102.b34b588d889dc770.js",
-            "279.9055eeb88f832212.js",
+            "279.b951a9371e786399.js",
             "__federation_expose_App.442b5847991e708b.js"
           ],
           "async": [

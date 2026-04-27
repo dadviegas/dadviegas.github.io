@@ -28,9 +28,9 @@
     {
       "id": "shell:@atlantis/bll",
       "name": "@atlantis/bll",
-      "version": "1.0.0-e644478",
+      "version": "1.0.0-8eb47fb",
       "singleton": true,
-      "requiredVersion": "1.0.0-e644478",
+      "requiredVersion": "1.0.0-8eb47fb",
       "assets": {
         "js": {
           "async": [
@@ -40,7 +40,7 @@
             "5254.cd93206d3a635255.js"
           ],
           "sync": [
-            "7771.df75445108a65e08.js"
+            "7771.937fdb8bc1504a4a.js"
           ]
         },
         "css": {
@@ -52,9 +52,9 @@
     {
       "id": "shell:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-e644478",
+      "version": "1.0.0-8eb47fb",
       "singleton": true,
-      "requiredVersion": "1.0.0-e644478",
+      "requiredVersion": "1.0.0-8eb47fb",
       "assets": {
         "js": {
           "async": [],

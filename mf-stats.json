@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-63d683d",
+      "requiredVersion": "1.0.0-d4b18c1",
       "shareScope": "default",
-      "version": "1.0.0-63d683d",
+      "version": "1.0.0-d4b18c1",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "shell:@atlantis/bll",
@@ -42,7 +42,7 @@
             "5254.cd93206d3a635255.js"
           ],
           "sync": [
-            "3803.3ba30c83bca3c860.js"
+            "2104.63a4f74ac0cb1f11.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-63d683d",
+      "requiredVersion": "1.0.0-d4b18c1",
       "shareScope": "default",
-      "version": "1.0.0-63d683d",
+      "version": "1.0.0-d4b18c1",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "shell:@atlantis/dal",

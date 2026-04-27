@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-8eb47fb",
+      "requiredVersion": "1.0.0-3346093",
       "shareScope": "default",
-      "version": "1.0.0-8eb47fb",
+      "version": "1.0.0-3346093",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "cronbuilder:@atlantis/dal",
@@ -159,7 +159,7 @@
         "js": {
           "sync": [
             "102.b51b4a91abc9f866.js",
-            "661.b5edcd3048f3f033.js",
+            "661.220f344a64135e5e.js",
             "__federation_expose_App.61b3a9a739a05e2d.js"
           ],
           "async": [

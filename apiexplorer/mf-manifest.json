@@ -28,9 +28,9 @@
     {
       "id": "apiexplorer:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-3346093",
+      "version": "1.0.0-4e218c8",
       "singleton": true,
-      "requiredVersion": "1.0.0-3346093",
+      "requiredVersion": "1.0.0-4e218c8",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "102.fad6629b93785d90.js",
-            "141.958d3e2e6deb508b.js",
+            "141.40c4f8b4f686148f.js",
             "__federation_expose_App.aa08919c21f93818.js"
           ],
           "async": [

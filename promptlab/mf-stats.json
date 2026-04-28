@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-3346093",
+      "requiredVersion": "1.0.0-4e218c8",
       "shareScope": "default",
-      "version": "1.0.0-3346093",
+      "version": "1.0.0-4e218c8",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "promptlab:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.78b7c4a4beb2c51c.js"
           ],
           "sync": [
-            "493.9af3710efbeae7f0.js"
+            "493.8dd0c55a6ab09df6.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-3346093",
+      "requiredVersion": "1.0.0-4e218c8",
       "shareScope": "default",
-      "version": "1.0.0-3346093",
+      "version": "1.0.0-4e218c8",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "promptlab:@atlantis/dal",
@@ -189,8 +189,8 @@
         "js": {
           "sync": [
             "102.961803bbca57e955.js",
-            "444.485ebeaae2f7c2ac.js",
-            "871.c1db4c72201a7261.js",
+            "444.833fd6fa4a5da573.js",
+            "871.0ffad2ff8d9d374f.js",
             "__federation_expose_App.a0433313571f9860.js"
           ],
           "async": [
@@ -199,7 +199,7 @@
             "214.9b3e98713ab3000b.js",
             "555.8b53c8eaaf014be9.js",
             "254.78b7c4a4beb2c51c.js",
-            "493.9af3710efbeae7f0.js"
+            "493.8dd0c55a6ab09df6.js"
           ]
         },
         "css": {

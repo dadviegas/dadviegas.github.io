@@ -28,9 +28,9 @@
     {
       "id": "earth:@atlantis/bll",
       "name": "@atlantis/bll",
-      "version": "1.0.0-3346093",
+      "version": "1.0.0-4e218c8",
       "singleton": true,
-      "requiredVersion": "1.0.0-3346093",
+      "requiredVersion": "1.0.0-4e218c8",
       "assets": {
         "js": {
           "async": [
@@ -40,7 +40,7 @@
             "254.4b28ebe59e918d2f.js"
           ],
           "sync": [
-            "493.2e3dccd878738a92.js"
+            "493.5cd386bc3dca85ca.js"
           ]
         },
         "css": {
@@ -52,9 +52,9 @@
     {
       "id": "earth:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-3346093",
+      "version": "1.0.0-4e218c8",
       "singleton": true,
-      "requiredVersion": "1.0.0-3346093",
+      "requiredVersion": "1.0.0-4e218c8",
       "assets": {
         "js": {
           "async": [],
@@ -161,9 +161,9 @@
         "js": {
           "sync": [
             "102.c178624b2f4ffbd3.js",
-            "444.e86333322b7fd572.js",
-            "210.bb8c9641baac36be.js",
-            "__federation_expose_App.8b5559247ee8d96d.js"
+            "444.4f1951a5a1e14ad5.js",
+            "210.ff6219e4f08e9978.js",
+            "__federation_expose_App.de74f0c160cb271d.js"
           ],
           "async": [
             "336.0666da4e2127a4c8.js",
@@ -171,7 +171,7 @@
             "214.f9ac8a13e36dada7.js",
             "555.8ce00839ee788f78.js",
             "254.4b28ebe59e918d2f.js",
-            "493.2e3dccd878738a92.js"
+            "493.5cd386bc3dca85ca.js"
           ]
         },
         "css": {

@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-2d060bc",
+      "requiredVersion": "1.0.0-eb6f061",
       "shareScope": "default",
-      "version": "1.0.0-2d060bc",
+      "version": "1.0.0-eb6f061",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "promptlab:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.78b7c4a4beb2c51c.js"
           ],
           "sync": [
-            "493.d26bafe8061bc495.js"
+            "493.1ccac79529ba051b.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-2d060bc",
+      "requiredVersion": "1.0.0-eb6f061",
       "shareScope": "default",
-      "version": "1.0.0-2d060bc",
+      "version": "1.0.0-eb6f061",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "promptlab:@atlantis/dal",
@@ -171,7 +171,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -181,6 +183,7 @@
       "id": "promptlab:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled",
         "@emotion/react"
       ],
@@ -189,8 +192,8 @@
         "js": {
           "sync": [
             "102.961803bbca57e955.js",
-            "444.4dc99e9425daf65f.js",
-            "871.79ae65ad7bf0e71f.js",
+            "444.121044b79c293803.js",
+            "871.eb1aca5863a4667f.js",
             "__federation_expose_App.a0433313571f9860.js"
           ],
           "async": [
@@ -199,7 +202,7 @@
             "214.9b3e98713ab3000b.js",
             "555.8b53c8eaaf014be9.js",
             "254.78b7c4a4beb2c51c.js",
-            "493.d26bafe8061bc495.js"
+            "493.1ccac79529ba051b.js"
           ]
         },
         "css": {

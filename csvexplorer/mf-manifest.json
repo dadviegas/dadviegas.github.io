@@ -28,9 +28,9 @@
     {
       "id": "csvexplorer:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-2d060bc",
+      "version": "1.0.0-eb6f061",
       "singleton": true,
-      "requiredVersion": "1.0.0-2d060bc",
+      "requiredVersion": "1.0.0-eb6f061",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "102.f6c60ba503a11e2c.js",
-            "655.8e128378f52e01c0.js",
+            "655.e0b7eab77cf89936.js",
             "__federation_expose_App.ff241ad166f3e371.js"
           ],
           "async": [

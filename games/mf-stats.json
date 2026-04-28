@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-4e218c8",
+      "requiredVersion": "1.0.0-f4db249",
       "shareScope": "default",
-      "version": "1.0.0-4e218c8",
+      "version": "1.0.0-f4db249",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "games:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.00cd7fea5652b44a.js"
           ],
           "sync": [
-            "832.e72303df4e27f4f0.js"
+            "832.1c9a5e8242a23571.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-4e218c8",
+      "requiredVersion": "1.0.0-f4db249",
       "shareScope": "default",
-      "version": "1.0.0-4e218c8",
+      "version": "1.0.0-f4db249",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "games:@atlantis/dal",
@@ -98,7 +98,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     },
     {
       "singleton": true,
@@ -123,7 +125,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     },
     {
       "singleton": true,
@@ -169,7 +173,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -179,6 +185,9 @@
       "id": "games:App",
       "name": "App",
       "requires": [
+        "react",
+        "@emotion/styled",
+        "@emotion/react",
         "@atlantis/bll"
       ],
       "file": "src/App",
@@ -186,9 +195,9 @@
         "js": {
           "sync": [
             "424.09ff33efb258ffbc.js",
-            "4.cb119d6b7a8cefac.js",
-            "437.10c4eb52c7f8bcd2.js",
-            "__federation_expose_App.b68b9bbdfe65cd62.js"
+            "4.5f7edb20e03ae472.js",
+            "533.9dda71b290456791.js",
+            "__federation_expose_App.a2839b5fda52b269.js"
           ],
           "async": [
             "336.6d03358548d2b55e.js",
@@ -196,7 +205,7 @@
             "214.c7a438e88778b96b.js",
             "555.a5393aca6dbadd8c.js",
             "254.00cd7fea5652b44a.js",
-            "832.e72303df4e27f4f0.js"
+            "832.1c9a5e8242a23571.js"
           ]
         },
         "css": {

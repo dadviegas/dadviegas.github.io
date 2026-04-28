@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-4e218c8",
+      "requiredVersion": "1.0.0-f4db249",
       "shareScope": "default",
-      "version": "1.0.0-4e218c8",
+      "version": "1.0.0-f4db249",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "weather:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.cf25f68d848d873f.js"
           ],
           "sync": [
-            "493.079de69e2d18bcb8.js"
+            "493.df1c950a91004bbb.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-4e218c8",
+      "requiredVersion": "1.0.0-f4db249",
       "shareScope": "default",
-      "version": "1.0.0-4e218c8",
+      "version": "1.0.0-f4db249",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "weather:@atlantis/dal",
@@ -171,7 +171,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -181,6 +183,7 @@
       "id": "weather:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled",
         "@atlantis/bll"
       ],
@@ -189,9 +192,9 @@
         "js": {
           "sync": [
             "102.b0062fdac1a47da6.js",
-            "444.301b335ba3dad402.js",
-            "730.753f2a153eaf6c26.js",
-            "__federation_expose_App.1d5bf195e40b3ed9.js"
+            "444.eb5ac1c12759e3c7.js",
+            "250.de964fa65d99147c.js",
+            "__federation_expose_App.c009ec062f8a1a51.js"
           ],
           "async": [
             "336.295ab048011b55e6.js",
@@ -199,7 +202,7 @@
             "214.ac5f14bd57a51e75.js",
             "555.205cf0739745f525.js",
             "254.cf25f68d848d873f.js",
-            "493.079de69e2d18bcb8.js"
+            "493.df1c950a91004bbb.js"
           ]
         },
         "css": {

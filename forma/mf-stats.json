@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-76b2790",
+      "requiredVersion": "1.0.0-5c63e01",
       "shareScope": "default",
-      "version": "1.0.0-76b2790",
+      "version": "1.0.0-5c63e01",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "forma:@atlantis/bll",
@@ -39,10 +39,10 @@
             "336.8f0f0a9fe05db089.js",
             "214.2aa99088adc2d6f9.js",
             "555.e42c10d084790207.js",
-            "254.b26e0ef3c673ec86.js"
+            "886.0272fe5fdd58931c.js"
           ],
           "sync": [
-            "708.7ff83cd176eb34e7.js"
+            "708.d55d1c884cd62769.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-76b2790",
+      "requiredVersion": "1.0.0-5c63e01",
       "shareScope": "default",
-      "version": "1.0.0-76b2790",
+      "version": "1.0.0-5c63e01",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "forma:@atlantis/dal",
@@ -66,7 +66,7 @@
         "js": {
           "async": [],
           "sync": [
-            "254.b26e0ef3c673ec86.js"
+            "886.0272fe5fdd58931c.js"
           ]
         },
         "css": {
@@ -98,9 +98,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -125,9 +123,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -183,8 +179,6 @@
       "id": "forma:App",
       "name": "App",
       "requires": [
-        "@emotion/styled",
-        "@emotion/react",
         "@atlantis/bll"
       ],
       "file": "src/App",
@@ -192,28 +186,28 @@
         "js": {
           "sync": [
             "459.eb75d0e7d1cac27d.js",
-            "4.ba490cde789c3613.js",
-            "335.18eec071d1806efc.js",
-            "__federation_expose_App.8f6608dac097c134.js"
+            "4.b4d21bafeff21f9e.js",
+            "940.ae31c778dad422c1.js",
+            "__federation_expose_App.afea26d66fd0acef.js"
           ],
           "async": [
             "336.8f0f0a9fe05db089.js",
             "253.9c7d42ad9cfc6af4.js",
             "214.2aa99088adc2d6f9.js",
             "555.e42c10d084790207.js",
-            "254.b26e0ef3c673ec86.js",
-            "708.7ff83cd176eb34e7.js",
-            "44.e6401ef6928c115b.js",
-            "957.1fa8cb145e09859c.js",
-            "45.110edbdd1a4e55ac.js",
-            "390.aeb395e504eedaa2.js",
-            "392.f53095d54b2b9c60.js",
-            "566.0e4db7d32e4f562d.js",
-            "773.1310d4e4fce53537.js",
-            "923.f02f2c332fd222c6.js",
-            "346.381a1c9507c03b32.js",
-            "693.94cd2ae527727b70.js",
-            "545.e628ec22d9d6aba7.js"
+            "886.0272fe5fdd58931c.js",
+            "708.d55d1c884cd62769.js",
+            "44.fef3276f0f7d5981.js",
+            "957.4f7859c404d5b67d.js",
+            "45.b288066c9c9676fb.js",
+            "390.b60cd1755f82d01c.js",
+            "392.87f0bb5641c8e1ba.js",
+            "566.d6e27c4bd0db395b.js",
+            "773.bfc0094fc51e02b0.js",
+            "923.4f3c37de851b77cf.js",
+            "346.eb59d879c379afc4.js",
+            "693.9b98ae7fe262141c.js",
+            "545.ef9de47569ecb718.js"
           ]
         },
         "css": {

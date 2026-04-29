@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-76b2790",
+      "requiredVersion": "1.0.0-5c63e01",
       "shareScope": "default",
-      "version": "1.0.0-76b2790",
+      "version": "1.0.0-5c63e01",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "cronbuilder:@atlantis/dal",
@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "277.bf9679abe4a89a51.js"
+            "587.ec62d91b6b58f689.js"
           ]
         },
         "css": {
@@ -159,7 +159,7 @@
         "js": {
           "sync": [
             "102.b51b4a91abc9f866.js",
-            "661.e1c869602735cd83.js",
+            "661.843b50f2fd69c495.js",
             "__federation_expose_App.61b3a9a739a05e2d.js"
           ],
           "async": [
@@ -167,7 +167,7 @@
             "253.e93c20657b248f62.js",
             "214.19830daf5ff461f2.js",
             "555.70e97c87eb1c316c.js",
-            "277.bf9679abe4a89a51.js"
+            "587.ec62d91b6b58f689.js"
           ]
         },
         "css": {

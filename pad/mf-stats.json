@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-76b2790",
+      "requiredVersion": "1.0.0-5c63e01",
       "shareScope": "default",
-      "version": "1.0.0-76b2790",
+      "version": "1.0.0-5c63e01",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "pad:@atlantis/dal",
@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "7277.6197fff6335e18e9.js"
+            "4587.17e79b1e1fc75d67.js"
           ]
         },
         "css": {
@@ -142,7 +142,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -152,6 +154,7 @@
       "id": "pad:App",
       "name": "App",
       "requires": [
+        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
@@ -159,7 +162,7 @@
         "js": {
           "sync": [
             "6255.0828907b344aa00b.js",
-            "5237.b8c4cdfc390d536b.js",
+            "5237.c2b045b45002ff69.js",
             "__federation_expose_App.a53a81d86e500079.js"
           ],
           "async": [
@@ -167,7 +170,7 @@
             "4253.c521dd48faed23e0.js",
             "214.03cd7ba1a9bf3b21.js",
             "6555.2f4d5d58d2319f0c.js",
-            "7277.6197fff6335e18e9.js",
+            "4587.17e79b1e1fc75d67.js",
             "2554.bffbb32c49ff2a22.js",
             "3354.dcde7d180bf0cd47.js",
             "8500.9d16ead9479a1e80.js",

@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-76b2790",
+      "requiredVersion": "1.0.0-5c63e01",
       "shareScope": "default",
-      "version": "1.0.0-76b2790",
+      "version": "1.0.0-5c63e01",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "promptlab:@atlantis/bll",
@@ -39,10 +39,10 @@
             "336.90d6c2527385de6b.js",
             "214.9b3e98713ab3000b.js",
             "555.8b53c8eaaf014be9.js",
-            "254.78b7c4a4beb2c51c.js"
+            "886.39ffb7a1634db3dc.js"
           ],
           "sync": [
-            "204.757a5ee448507a19.js"
+            "204.2254a0459ddb86c8.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-76b2790",
+      "requiredVersion": "1.0.0-5c63e01",
       "shareScope": "default",
-      "version": "1.0.0-76b2790",
+      "version": "1.0.0-5c63e01",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "promptlab:@atlantis/dal",
@@ -64,7 +64,7 @@
         "js": {
           "async": [],
           "sync": [
-            "254.78b7c4a4beb2c51c.js"
+            "886.39ffb7a1634db3dc.js"
           ]
         },
         "css": {
@@ -171,9 +171,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -183,7 +181,6 @@
       "id": "promptlab:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled",
         "@emotion/react"
       ],
@@ -191,9 +188,9 @@
       "assets": {
         "js": {
           "sync": [
-            "102.961803bbca57e955.js",
-            "444.67f1e70748897dcc.js",
-            "871.577ce729a393a826.js",
+            "102.fb3bb1b5d63165b6.js",
+            "444.fc4231a936f7c76c.js",
+            "871.ccbaa8b020e9eb39.js",
             "__federation_expose_App.a0433313571f9860.js"
           ],
           "async": [
@@ -201,8 +198,8 @@
             "253.4fd763fabdb49555.js",
             "214.9b3e98713ab3000b.js",
             "555.8b53c8eaaf014be9.js",
-            "254.78b7c4a4beb2c51c.js",
-            "204.757a5ee448507a19.js"
+            "886.39ffb7a1634db3dc.js",
+            "204.2254a0459ddb86c8.js"
           ]
         },
         "css": {

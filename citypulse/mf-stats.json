@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-76b2790",
+      "requiredVersion": "1.0.0-5c63e01",
       "shareScope": "default",
-      "version": "1.0.0-76b2790",
+      "version": "1.0.0-5c63e01",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "citypulse:@atlantis/dal",
@@ -37,7 +37,7 @@
         "js": {
           "async": [],
           "sync": [
-            "277.b9dd9aba99c1b2ce.js"
+            "587.8645fdc8bafeec71.js"
           ]
         },
         "css": {
@@ -142,9 +142,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -154,7 +152,6 @@
       "id": "citypulse:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled"
       ],
       "file": "src/App",
@@ -162,7 +159,7 @@
         "js": {
           "sync": [
             "102.a6f25b8e6a55ff54.js",
-            "182.94501c12bb772426.js",
+            "182.bdfaf0f3871aa748.js",
             "__federation_expose_App.7f3f67381a08c924.js"
           ],
           "async": [
@@ -170,7 +167,7 @@
             "253.ca45282e1fea842b.js",
             "214.0e43a019bf758f71.js",
             "555.bce8937f0fbaf77f.js",
-            "277.b9dd9aba99c1b2ce.js"
+            "587.8645fdc8bafeec71.js"
           ]
         },
         "css": {

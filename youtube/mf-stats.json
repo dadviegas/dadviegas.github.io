@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-76b2790",
+      "requiredVersion": "1.0.0-5c63e01",
       "shareScope": "default",
-      "version": "1.0.0-76b2790",
+      "version": "1.0.0-5c63e01",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "youtube:@atlantis/bll",
@@ -39,10 +39,10 @@
             "336.6e1231f05db1b009.js",
             "214.52b9a0c97cdfa912.js",
             "555.bbcd02512131e02c.js",
-            "254.990e9e816fdcb43e.js"
+            "886.7e78f327225be8df.js"
           ],
           "sync": [
-            "204.85b58f097412d4b9.js"
+            "204.99fee2c9ab66ba79.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-76b2790",
+      "requiredVersion": "1.0.0-5c63e01",
       "shareScope": "default",
-      "version": "1.0.0-76b2790",
+      "version": "1.0.0-5c63e01",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "youtube:@atlantis/dal",
@@ -66,7 +66,7 @@
         "js": {
           "async": [],
           "sync": [
-            "254.990e9e816fdcb43e.js"
+            "886.7e78f327225be8df.js"
           ]
         },
         "css": {
@@ -173,9 +173,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -185,7 +183,6 @@
       "id": "youtube:App",
       "name": "App",
       "requires": [
-        "react",
         "@emotion/styled",
         "@emotion/react",
         "@atlantis/bll"
@@ -194,18 +191,18 @@
       "assets": {
         "js": {
           "sync": [
-            "102.dd6e0f5b4e3f9ebe.js",
-            "444.9581895899930ebd.js",
-            "987.9f96d972be080514.js",
-            "__federation_expose_App.67ac0dfef4481567.js"
+            "102.a9c405b21edb6c13.js",
+            "444.3a51a90506319a49.js",
+            "301.6b532e5e52bee859.js",
+            "__federation_expose_App.5dc495f194cb1c29.js"
           ],
           "async": [
             "336.6e1231f05db1b009.js",
             "253.38b182fde62fc0f7.js",
             "214.52b9a0c97cdfa912.js",
             "555.bbcd02512131e02c.js",
-            "254.990e9e816fdcb43e.js",
-            "204.85b58f097412d4b9.js"
+            "886.7e78f327225be8df.js",
+            "204.99fee2c9ab66ba79.js"
           ]
         },
         "css": {

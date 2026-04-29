@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-437b6bd",
+      "requiredVersion": "1.0.0-b8b88cf",
       "shareScope": "default",
-      "version": "1.0.0-437b6bd",
+      "version": "1.0.0-b8b88cf",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "forma:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.b26e0ef3c673ec86.js"
           ],
           "sync": [
-            "40.67572df625b11556.js"
+            "919.d46f352ef6290e8a.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-437b6bd",
+      "requiredVersion": "1.0.0-b8b88cf",
       "shareScope": "default",
-      "version": "1.0.0-437b6bd",
+      "version": "1.0.0-b8b88cf",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "forma:@atlantis/dal",
@@ -192,9 +192,9 @@
         "js": {
           "sync": [
             "459.eb75d0e7d1cac27d.js",
-            "4.2432401f7f296205.js",
-            "495.25c77a17dc3fd72d.js",
-            "__federation_expose_App.e442c6f2fb303206.js"
+            "4.def028e7b12ddf6f.js",
+            "335.a41f53f6b629d6e1.js",
+            "__federation_expose_App.291b024dcf0b4ce5.js"
           ],
           "async": [
             "336.8f0f0a9fe05db089.js",
@@ -202,18 +202,18 @@
             "214.2aa99088adc2d6f9.js",
             "555.e42c10d084790207.js",
             "254.b26e0ef3c673ec86.js",
-            "40.67572df625b11556.js",
+            "919.d46f352ef6290e8a.js",
             "44.e6401ef6928c115b.js",
-            "957.4b0de5b841410634.js",
-            "45.8e82c87e6911f0e3.js",
-            "390.c2322d5d391aa2ec.js",
-            "392.7ae25e4f892d4adb.js",
-            "566.986dee85f9f50abd.js",
-            "773.6319b20aa30db7cc.js",
-            "923.c7f7d5c46f893bcc.js",
-            "346.d9a8f86515617d8b.js",
-            "693.5333c72fc34991fa.js",
-            "545.7f6ffb6a0a8ddc9a.js"
+            "957.2745bbf417e24ab4.js",
+            "45.191ff642ab4f91ab.js",
+            "390.6d843485315419e9.js",
+            "392.8e31f99152890d5c.js",
+            "566.e178a11e5dc90180.js",
+            "773.ad40fff334200437.js",
+            "923.14999c384cc66421.js",
+            "346.aa2d3f88801de25f.js",
+            "693.2e655c6f7b95825d.js",
+            "545.e58d8c1b5fe49c5b.js"
           ]
         },
         "css": {

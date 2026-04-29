@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-c5b5e1f",
+      "requiredVersion": "1.0.0-8a11599",
       "shareScope": "default",
-      "version": "1.0.0-c5b5e1f",
+      "version": "1.0.0-8a11599",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "shell:@atlantis/bll",
@@ -42,7 +42,7 @@
             "5886.66bccc372518ac6c.js"
           ],
           "sync": [
-            "1077.993ed9487cd356f4.js"
+            "1077.3a3b6b77b925947c.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-c5b5e1f",
+      "requiredVersion": "1.0.0-8a11599",
       "shareScope": "default",
-      "version": "1.0.0-c5b5e1f",
+      "version": "1.0.0-8a11599",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "shell:@atlantis/dal",
@@ -179,7 +179,17 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/codex/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/codex/remoteEntry.js?v=1.0.0-8a11599"
+    },
+    {
+      "alias": "lumen",
+      "consumingFederationContainerName": "shell",
+      "federationContainerName": "lumen",
+      "moduleName": "manifest",
+      "usedIn": [
+        "src/bootstrap.tsx + 44 modules"
+      ],
+      "version": "/lumen/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "markdown",
@@ -189,7 +199,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/markdown/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/markdown/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "school",
@@ -199,7 +209,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/school/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/school/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "earth",
@@ -209,7 +219,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/earth/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/earth/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "cosmos",
@@ -219,7 +229,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/cosmos/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/cosmos/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "techscope",
@@ -229,7 +239,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/techscope/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/techscope/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "citypulse",
@@ -239,7 +249,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/citypulse/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/citypulse/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "stockpulse",
@@ -249,7 +259,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/stockpulse/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/stockpulse/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "csvexplorer",
@@ -259,7 +269,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/csvexplorer/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/csvexplorer/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "chartbuilder",
@@ -269,7 +279,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/chartbuilder/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/chartbuilder/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "pad",
@@ -279,7 +289,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/pad/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/pad/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "regexlab",
@@ -289,7 +299,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/regexlab/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/regexlab/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "jsonexplorer",
@@ -299,7 +309,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/jsonexplorer/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/jsonexplorer/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "codediff",
@@ -309,7 +319,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/codediff/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/codediff/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "playground",
@@ -319,7 +329,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/playground/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/playground/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "jwtinspector",
@@ -329,7 +339,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/jwtinspector/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/jwtinspector/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "colorlab",
@@ -339,7 +349,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/colorlab/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/colorlab/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "cronbuilder",
@@ -349,7 +359,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/cronbuilder/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/cronbuilder/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "weather",
@@ -359,7 +369,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/weather/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/weather/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "apiexplorer",
@@ -369,7 +379,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/apiexplorer/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/apiexplorer/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "movies",
@@ -379,7 +389,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/movies/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/movies/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "promptlab",
@@ -389,7 +399,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/promptlab/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/promptlab/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "imagegen",
@@ -399,7 +409,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/imagegen/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/imagegen/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "daily",
@@ -409,7 +419,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/daily/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/daily/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "games",
@@ -419,7 +429,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/games/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/games/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "ask",
@@ -429,7 +439,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/ask/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/ask/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "finance",
@@ -439,7 +449,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/finance/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/finance/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "youtube",
@@ -449,7 +459,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/youtube/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/youtube/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "music",
@@ -459,7 +469,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/music/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/music/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "forma",
@@ -469,7 +479,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/forma/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/forma/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "codex",
@@ -479,7 +489,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/codex/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/codex/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "markdown",
@@ -489,7 +499,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/markdown/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/markdown/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "earth",
@@ -499,7 +509,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/earth/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/earth/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "techscope",
@@ -509,7 +519,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/techscope/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/techscope/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "citypulse",
@@ -519,7 +529,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/citypulse/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/citypulse/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "cosmos",
@@ -529,7 +539,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/cosmos/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/cosmos/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "stockpulse",
@@ -539,7 +549,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/stockpulse/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/stockpulse/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "pad",
@@ -549,7 +559,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/pad/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/pad/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "regexlab",
@@ -559,7 +569,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/regexlab/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/regexlab/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "jsonexplorer",
@@ -569,7 +579,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/jsonexplorer/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/jsonexplorer/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "codediff",
@@ -579,7 +589,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/codediff/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/codediff/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "playground",
@@ -589,7 +599,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/playground/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/playground/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "jwtinspector",
@@ -599,7 +609,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/jwtinspector/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/jwtinspector/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "colorlab",
@@ -609,7 +619,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/colorlab/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/colorlab/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "cronbuilder",
@@ -619,7 +629,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/cronbuilder/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/cronbuilder/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "csvexplorer",
@@ -629,7 +639,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/csvexplorer/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/csvexplorer/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "chartbuilder",
@@ -639,7 +649,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/chartbuilder/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/chartbuilder/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "school",
@@ -649,7 +659,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/school/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/school/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "weather",
@@ -659,7 +669,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/weather/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/weather/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "apiexplorer",
@@ -669,7 +679,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/apiexplorer/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/apiexplorer/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "movies",
@@ -679,7 +689,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/movies/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/movies/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "promptlab",
@@ -689,7 +699,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/promptlab/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/promptlab/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "imagegen",
@@ -699,7 +709,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/imagegen/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/imagegen/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "games",
@@ -709,7 +719,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/games/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/games/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "daily",
@@ -719,7 +729,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/daily/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/daily/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "ask",
@@ -729,7 +739,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/ask/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/ask/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "finance",
@@ -739,7 +749,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/finance/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/finance/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "youtube",
@@ -749,7 +759,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/youtube/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/youtube/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "music",
@@ -759,7 +769,7 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/music/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/music/remoteEntry.js?v=1.0.0-8a11599"
     },
     {
       "alias": "forma",
@@ -769,7 +779,17 @@
       "usedIn": [
         "src/bootstrap.tsx + 44 modules"
       ],
-      "version": "/forma/remoteEntry.js?v=1.0.0-c5b5e1f"
+      "version": "/forma/remoteEntry.js?v=1.0.0-8a11599"
+    },
+    {
+      "alias": "lumen",
+      "consumingFederationContainerName": "shell",
+      "federationContainerName": "lumen",
+      "moduleName": "App",
+      "usedIn": [
+        "src/bootstrap.tsx + 44 modules"
+      ],
+      "version": "/lumen/remoteEntry.js?v=1.0.0-8a11599"
     }
   ],
   "exposes": []

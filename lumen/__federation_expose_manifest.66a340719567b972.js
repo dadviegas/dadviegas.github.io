@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_lumen=self.webpackChunk_atlantis_lumen||[]).push([["852"],{8085(e,n,l){l.r(n),l.d(n,{default:()=>t});let t={id:"lumen",port:3036,labelKey:"apps.lumen.label",descriptionKey:"apps.lumen.description",hash:"#/lumen",icon:"sparkle",color:"#22d3ee",enabled:!0,category:"Content",needsAuth:!1,suite:"Learning Hub",interest:"learning"}}}]);

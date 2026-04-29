@@ -1,0 +1,195 @@
+{
+  "id": "lumen",
+  "name": "lumen",
+  "metaData": {
+    "name": "lumen",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "@atlantis/lumen"
+    },
+    "remoteEntry": {
+      "name": "remoteEntry.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "lumen",
+    "pluginVersion": "0.8.12",
+    "prefetchInterface": false,
+    "publicPath": "auto"
+  },
+  "shared": [
+    {
+      "singleton": true,
+      "requiredVersion": "1.0.0-8a11599",
+      "shareScope": "default",
+      "version": "1.0.0-8a11599",
+      "name": "@atlantis/dal",
+      "eager": false,
+      "id": "lumen:@atlantis/dal",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "587.3e2bccd7e177bcd2.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/react",
+      "version": "11.14.0",
+      "eager": false,
+      "id": "lumen:@emotion/react",
+      "assets": {
+        "js": {
+          "async": [
+            "336.ed1ec3566b90352b.js"
+          ],
+          "sync": [
+            "555.20c4669a0de168f5.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^11.13.5",
+      "shareScope": "default",
+      "name": "@emotion/styled",
+      "version": "11.14.1",
+      "eager": false,
+      "id": "lumen:@emotion/styled",
+      "assets": {
+        "js": {
+          "async": [
+            "336.ed1ec3566b90352b.js",
+            "555.20c4669a0de168f5.js"
+          ],
+          "sync": [
+            "214.b893b98506ee49e8.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "lumen:react-dom",
+      "assets": {
+        "js": {
+          "async": [
+            "336.ed1ec3566b90352b.js"
+          ],
+          "sync": [
+            "253.47c1a741ad3ad3e4.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    },
+    {
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "shareScope": "default",
+      "name": "react",
+      "version": "18.3.1",
+      "eager": false,
+      "id": "lumen:react",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "336.ed1ec3566b90352b.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      },
+      "usedIn": []
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "path": "./App",
+      "id": "lumen:App",
+      "name": "App",
+      "requires": [],
+      "file": "src/App",
+      "assets": {
+        "js": {
+          "sync": [
+            "459.e802e4b8f30880d1.js",
+            "600.60bdabb446e7a114.js",
+            "__federation_expose_App.bf8545873eb49450.js"
+          ],
+          "async": [
+            "336.ed1ec3566b90352b.js",
+            "253.47c1a741ad3ad3e4.js",
+            "555.20c4669a0de168f5.js",
+            "214.b893b98506ee49e8.js",
+            "587.3e2bccd7e177bcd2.js"
+          ]
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    },
+    {
+      "path": "./manifest",
+      "id": "lumen:manifest",
+      "name": "manifest",
+      "requires": [],
+      "file": "src/manifest",
+      "assets": {
+        "js": {
+          "sync": [
+            "__federation_expose_manifest.66a340719567b972.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      }
+    }
+  ]
+}

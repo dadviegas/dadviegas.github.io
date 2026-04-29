@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_codex=self.webpackChunk_atlantis_codex||[]).push([["2"],{9932(n,a,t){t.d(a,{A:()=>e});function e(){return(e=Object.assign?Object.assign.bind():function(n){for(var a=1;a<arguments.length;a++){var t=arguments[a];for(var e in t)({}).hasOwnProperty.call(t,e)&&(n[e]=t[e])}return n}).apply(null,arguments)}}}]);

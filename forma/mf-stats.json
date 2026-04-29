@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-5c63e01",
+      "requiredVersion": "1.0.0-c5b5e1f",
       "shareScope": "default",
-      "version": "1.0.0-5c63e01",
+      "version": "1.0.0-c5b5e1f",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "forma:@atlantis/bll",
@@ -42,7 +42,7 @@
             "886.0272fe5fdd58931c.js"
           ],
           "sync": [
-            "708.d55d1c884cd62769.js"
+            "708.9a1eb56e895fe8b2.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-5c63e01",
+      "requiredVersion": "1.0.0-c5b5e1f",
       "shareScope": "default",
-      "version": "1.0.0-5c63e01",
+      "version": "1.0.0-c5b5e1f",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "forma:@atlantis/dal",
@@ -98,7 +98,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     },
     {
       "singleton": true,
@@ -123,7 +125,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     },
     {
       "singleton": true,
@@ -169,7 +173,9 @@
           "sync": []
         }
       },
-      "usedIn": []
+      "usedIn": [
+        "./App"
+      ]
     }
   ],
   "remotes": [],
@@ -179,6 +185,9 @@
       "id": "forma:App",
       "name": "App",
       "requires": [
+        "react",
+        "@emotion/styled",
+        "@emotion/react",
         "@atlantis/bll"
       ],
       "file": "src/App",
@@ -186,9 +195,9 @@
         "js": {
           "sync": [
             "459.eb75d0e7d1cac27d.js",
-            "4.b4d21bafeff21f9e.js",
-            "940.ae31c778dad422c1.js",
-            "__federation_expose_App.afea26d66fd0acef.js"
+            "4.6f093c117d101fbb.js",
+            "940.fc1b9c74d7d702a0.js",
+            "__federation_expose_App.37c27ba66f914675.js"
           ],
           "async": [
             "336.8f0f0a9fe05db089.js",
@@ -196,18 +205,18 @@
             "214.2aa99088adc2d6f9.js",
             "555.e42c10d084790207.js",
             "886.0272fe5fdd58931c.js",
-            "708.d55d1c884cd62769.js",
+            "708.9a1eb56e895fe8b2.js",
             "44.fef3276f0f7d5981.js",
-            "957.4f7859c404d5b67d.js",
-            "45.b288066c9c9676fb.js",
-            "390.b60cd1755f82d01c.js",
-            "392.87f0bb5641c8e1ba.js",
-            "566.d6e27c4bd0db395b.js",
-            "773.bfc0094fc51e02b0.js",
-            "923.4f3c37de851b77cf.js",
-            "346.eb59d879c379afc4.js",
-            "693.9b98ae7fe262141c.js",
-            "545.ef9de47569ecb718.js"
+            "957.a107281929c179f8.js",
+            "45.78960a5ac06a5d24.js",
+            "390.a97065d7e012b60a.js",
+            "392.63285a969b66e003.js",
+            "566.d567de6b0ecc5bf5.js",
+            "773.7b38e3434d836d2b.js",
+            "923.fa941b950391dde7.js",
+            "346.2e2eeb87992cc493.js",
+            "693.b2225be6d3605244.js",
+            "545.c1cc90d3a354a861.js"
           ]
         },
         "css": {

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_atlantis_codex=self.webpackChunk_atlantis_codex||[]).push([["852"],{8085(e,t,a){a.r(t),a.d(t,{default:()=>n});let n={id:"codex",port:3035,labelKey:"apps.codex.label",descriptionKey:"apps.codex.description",hash:"#/codex",icon:"book",color:"#a371f7",enabled:!0,category:"Content",needsAuth:!1,suite:"Learning Hub",interest:"learning"}}}]);

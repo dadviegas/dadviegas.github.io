@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-08c11c6",
+      "requiredVersion": "1.0.0-45d738b",
       "shareScope": "default",
-      "version": "1.0.0-08c11c6",
+      "version": "1.0.0-45d738b",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "citypulse:@atlantis/dal",
@@ -159,7 +159,7 @@
         "js": {
           "sync": [
             "102.a6f25b8e6a55ff54.js",
-            "182.fe5f660db42a21d2.js",
+            "182.5b1044c9e07dc658.js",
             "__federation_expose_App.7f3f67381a08c924.js"
           ],
           "async": [

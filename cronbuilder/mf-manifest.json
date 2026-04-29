@@ -28,9 +28,9 @@
     {
       "id": "cronbuilder:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-08c11c6",
+      "version": "1.0.0-45d738b",
       "singleton": true,
-      "requiredVersion": "1.0.0-08c11c6",
+      "requiredVersion": "1.0.0-45d738b",
       "assets": {
         "js": {
           "async": [],
@@ -137,7 +137,7 @@
         "js": {
           "sync": [
             "102.b51b4a91abc9f866.js",
-            "661.86ae69e0cff4e707.js",
+            "661.593ab9cbe9c7f223.js",
             "__federation_expose_App.61b3a9a739a05e2d.js"
           ],
           "async": [

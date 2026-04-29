@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-bcb6ca9",
+      "requiredVersion": "1.0.0-437b6bd",
       "shareScope": "default",
-      "version": "1.0.0-bcb6ca9",
+      "version": "1.0.0-437b6bd",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "stockpulse:@atlantis/bll",
@@ -42,7 +42,7 @@
             "254.e7a547faa3fe9c4d.js"
           ],
           "sync": [
-            "662.16029d335733fbf9.js"
+            "662.7e3da1ebb69c399e.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-bcb6ca9",
+      "requiredVersion": "1.0.0-437b6bd",
       "shareScope": "default",
-      "version": "1.0.0-bcb6ca9",
+      "version": "1.0.0-437b6bd",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "stockpulse:@atlantis/dal",
@@ -186,8 +186,8 @@
         "js": {
           "sync": [
             "102.2947ab302c42a859.js",
-            "444.17c460b7f8905be0.js",
-            "531.ba7d2b30e2626795.js",
+            "444.66d28157b07683ee.js",
+            "531.ec63ecc666d57eef.js",
             "__federation_expose_App.f1f3ddd121c57501.js"
           ],
           "async": [
@@ -196,7 +196,7 @@
             "214.c4292d948c18404e.js",
             "555.fa6325c405832448.js",
             "254.e7a547faa3fe9c4d.js",
-            "662.16029d335733fbf9.js"
+            "662.7e3da1ebb69c399e.js"
           ]
         },
         "css": {

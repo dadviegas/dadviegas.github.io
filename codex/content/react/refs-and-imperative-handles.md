@@ -152,3 +152,9 @@ function ClickCounter() {
 
 - See also: [React → useEffect vs useLayoutEffect](#/codex/react-useeffect-vs-uselayouteffect) for when to read DOM measurements from a ref.
 - See also: [React → Hooks: Rules & Mental Model](#/codex/react-hooks-rules-and-mental-model) for the mental model around render cycles.
+
+## Sources
+
+- [React docs — useRef](https://react.dev/reference/react/useRef)
+- [React docs — forwardRef](https://react.dev/reference/react/forwardRef)
+- [React docs — useImperativeHandle](https://react.dev/reference/react/useImperativeHandle)

@@ -132,3 +132,9 @@ class ApiClient {
 
 - See also: [JavaScript → Prototypes & Classes](#/codex/javascript-prototypes-and-classes) for class field arrow functions and their memory cost.
 - See also: [JavaScript → Promises & async/await](#/codex/javascript-promises-and-async-await) for cleaner alternatives to method chaining.
+
+## Sources
+
+- [MDN — this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+- [MDN — Arrow function expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- [MDN — Function.prototype.bind()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)

@@ -107,3 +107,9 @@ Webpack for development (when Babel plugins are needed, e.g. component selectors
 - See also: [Bundlers → Webpack Architecture](#/codex/bundlers-webpack-architecture) for the reference architecture.
 - See also: [Bundlers → Rspack Architecture](#/codex/bundlers-rspack-architecture) for rspack-specific configuration.
 - See also: [Bundlers → Tree Shaking](#/codex/bundlers-tree-shaking-and-side-effects) for how both bundlers handle dead code elimination.
+
+## Sources
+
+- [Rspack docs — Benchmark](https://rspack.dev/guide/introduction.html#comparison)
+- [Webpack docs — Concepts](https://webpack.js.org/concepts/)
+- [Rspack docs — Migration guide](https://rspack.dev/guide/migrate-from-webpack.html)

@@ -172,3 +172,10 @@ This is the integration point for design-token-based theming in React — set th
 
 - See also: [CSS → Specificity & Cascade Layers](#/codex/css-specificity-and-cascade-layers) for how the cascade interacts with custom property values.
 - See also: [Emotion → Theming with Emotion](#/codex/emotion-theming-with-emotion) for how CSS-in-JS accesses and extends this system.
+
+## Sources
+
+- [MDN — Using CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
+- [MDN — var()](https://developer.mozilla.org/en-US/docs/Web/CSS/var)
+- [web.dev — CSS custom properties](https://web.dev/articles/css-properties-and-values-api)
+- [MDN — color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme)

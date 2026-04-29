@@ -109,3 +109,27 @@ const configPath = resolve(__dirname, '../config.json');
 
 - See also: [Bundlers → Tree-Shaking & Side Effects](#/codex/bundlers-tree-shaking-and-side-effects) for the `sideEffects` field.
 - See also: [Bundlers → Webpack Architecture](#/codex/bundlers-webpack-architecture) for how webpack resolves modules.
+
+```mermaid
+graph TD
+    A[index.js] -->|static import| B[utils.mjs ESM]
+    A -->|require| C[legacy.cjs CJS]
+    B -->|top-level await ok| D[fetch data]
+    C -->|sync only| E[fs.readFileSync]
+
+    subgraph "ESM"
+      B
+      D
+    end
+    subgraph "CJS"
+      C
+      E
+    end
+```
+
+## Sources
+
+- [MDN — JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- [Node.js — Modules: ECMAScript modules](https://nodejs.org/api/esm.html)
+- [V8 blog — JavaScript modules](https://v8.dev/features/modules)
+- [web.dev — JavaScript modules](https://web.dev/articles/javascript-modules)

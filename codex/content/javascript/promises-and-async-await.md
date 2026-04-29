@@ -128,3 +128,22 @@ const handleSave = () => {
 
 - See also: [Foundations → Event Loop](#/codex/foundations-event-loop) for the microtask queue and macrotask distinction.
 - See also: [JavaScript → Iterators & Generators](#/codex/javascript-iterators-and-generators) for async generators and streaming.
+
+```mermaid
+stateDiagram-v2
+    [*] --> Pending
+    Pending --> Fulfilled : resolve(value)
+    Pending --> Rejected : reject(reason)
+    Fulfilled --> [*]
+    Rejected --> [*]
+
+    note right of Fulfilled : .then() callbacks run\nin microtask queue
+    note right of Rejected : .catch() / .finally()\ncallbacks run next
+```
+
+## Sources
+
+- [MDN — Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [MDN — async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+- [V8 blog — Faster async functions and promises](https://v8.dev/blog/fast-async)
+- [MDN — Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)

@@ -152,3 +152,9 @@ When a remote doesn't find the Babel plugin in its transform chain, `${SomeCompo
 
 - See also: [Emotion → Runtime vs Compile-time](#/codex/emotion-runtime-vs-compile-time) for when to use the plugin vs runtime-only mode.
 - See also: [Bundlers → Rspack Architecture](#/codex/bundlers-rspack-architecture) for configuring `rspackExperiments.emotion`.
+
+## Sources
+
+- [Emotion docs — Babel plugin](https://emotion.sh/docs/babel)
+- [Emotion GitHub — @emotion/babel-plugin](https://github.com/emotion-js/emotion/tree/main/packages/babel-plugin)
+- [Emotion docs — TypeScript](https://emotion.sh/docs/typescript)

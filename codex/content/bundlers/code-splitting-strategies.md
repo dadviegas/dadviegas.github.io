@@ -179,3 +179,10 @@ Look for:
 - See also: [Bundlers → Webpack Architecture](#/codex/bundlers-webpack-architecture) for how chunks are created in the compilation graph.
 - See also: [Bundlers → Tree Shaking](#/codex/bundlers-tree-shaking-and-side-effects) for eliminating code that's imported but never used.
 - See also: [Module Federation → Fundamentals](#/codex/module-federation-fundamentals) for the module-level code splitting in multi-app architectures.
+
+## Sources
+
+- [Webpack docs — Code splitting](https://webpack.js.org/guides/code-splitting/)
+- [web.dev — Code splitting](https://web.dev/articles/code-splitting-suspense)
+- [Vite docs — Code splitting](https://vite.dev/guide/build.html#chunking-strategy)
+- [MDN — Dynamic imports](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/import)

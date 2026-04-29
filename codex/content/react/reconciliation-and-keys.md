@@ -90,3 +90,10 @@ const filtered = todos.filter((t) => !t.done);
 
 - See also: [React → Hooks: Rules & Mental Model](#/codex/react-hooks-rules-and-mental-model) for how component identity affects hook state.
 - See also: [React → Memoization: When & Why](#/codex/react-memoization-when-and-why) for how reconciliation interacts with `React.memo`.
+
+## Sources
+
+- [React docs — Rendering lists](https://react.dev/learn/rendering-lists)
+- [React docs — Reconciliation](https://legacy.reactjs.org/docs/reconciliation.html)
+- [React blog — React 18 architecture](https://react.dev/blog/2022/03/29/react-v18)
+- [Why React needs keys](https://react.dev/learn/rendering-lists#keeping-list-items-in-order-with-key)

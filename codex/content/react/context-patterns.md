@@ -159,3 +159,9 @@ const FlagsContext = createContext<Record<string, boolean>>({});
 - See also: [React → Hooks: Rules & Mental Model](#/codex/react-hooks-rules-and-mental-model) for the custom hook pattern used with context.
 - See also: [State → External Stores & Zustand](#/codex/state-external-stores-and-zustand) for when context isn't enough.
 - See also: [React → Memoization: When & Why](#/codex/react-memoization-when-and-why) for stabilising context values with `useMemo`.
+
+## Sources
+
+- [React docs — createContext](https://react.dev/reference/react/createContext)
+- [React docs — useContext](https://react.dev/reference/react/useContext)
+- [React docs — Passing Data Deeply](https://react.dev/learn/passing-data-deeply-with-context)

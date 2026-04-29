@@ -122,3 +122,9 @@ The `@types/` packages on npm (DefinitelyTyped) are community-maintained for thi
 
 - See also: [TypeScript → Conditional & Mapped Types](#/codex/typescript-conditional-and-mapped-types) for building utility types used in `.d.ts` files.
 - See also: [Module Federation → Module Federation Fundamentals](#/codex/module-federation-fundamentals) for the pattern this repo uses for remote declarations.
+
+## Sources
+
+- [TypeScript Handbook — Modules](https://www.typescriptlang.org/docs/handbook/2/modules.html)
+- [TypeScript Handbook — Declaration Files](https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html)
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)

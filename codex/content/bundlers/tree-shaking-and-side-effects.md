@@ -139,3 +139,10 @@ In development mode, tree shaking is disabled by default (faster builds). To tes
 
 - See also: [Bundlers → Webpack Architecture](#/codex/bundlers-webpack-architecture) for how the module graph that tree shaking analyzes is built.
 - See also: [Bundlers → Code Splitting Strategies](#/codex/bundlers-code-splitting-strategies) for controlling which code is in each bundle.
+
+## Sources
+
+- [Webpack docs — Tree shaking](https://webpack.js.org/guides/tree-shaking/)
+- [web.dev — Reduce JavaScript payloads with tree shaking](https://web.dev/articles/reduce-javascript-payloads-with-tree-shaking)
+- [MDN — import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+- [Rollup docs — Tree shaking](https://rollupjs.org/introduction/#tree-shaking)

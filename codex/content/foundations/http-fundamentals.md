@@ -72,3 +72,22 @@ A common mistake: setting `Access-Control-Allow-Origin: *` works for anonymous r
 
 - See also: [Performance → LCP Deep Dive](#/codex/performance-lcp-deep-dive) for how caching headers affect page load metrics.
 - See also: [Foundations → Browser Rendering Pipeline](#/codex/foundations-browser-rendering-pipeline) for request waterfall timing.
+
+```mermaid
+sequenceDiagram
+    participant Browser
+    participant Server
+
+    Browser->>Server: OPTIONS /api/data (Preflight)
+    Note right of Browser: Origin: https://app.example.com
+    Server-->>Browser: 200 OK\nAccess-Control-Allow-Origin: https://app.example.com
+    Browser->>Server: GET /api/data\nAuthorization: Bearer token
+    Server-->>Browser: 200 OK\nData payload
+```
+
+## Sources
+
+- [MDN — HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [MDN — CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [RFC 9110 — HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110)
+- [web.dev — HTTP/3 is now a standard](https://web.dev/articles/http3)

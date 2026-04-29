@@ -147,3 +147,9 @@ First build populates the cache. Subsequent builds only rebuild changed modules.
 - See also: [Bundlers → Webpack Architecture](#/codex/bundlers-webpack-architecture) for the architecture rspack is compatible with.
 - See also: [Bundlers → Webpack vs Rspack Comparison](#/codex/bundlers-webpack-vs-rspack-comparison) for a side-by-side decision guide.
 - See also: [Module Federation → Fundamentals](#/codex/module-federation-fundamentals) for the shared singleton configuration that matters most.
+
+## Sources
+
+- [Rspack docs — Introduction](https://rspack.dev/guide/introduction.html)
+- [Rspack docs — Migrating from Webpack](https://rspack.dev/guide/migrate-from-webpack.html)
+- [Rspack blog — Why Rspack](https://rspack.dev/blog/announcement.html)

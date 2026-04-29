@@ -116,3 +116,9 @@ Template literals combine with conditional and mapped types to build route-type 
 
 - See also: [TypeScript → Generics in Practice](#/codex/typescript-generics-in-practice) for `Pick<T, K>` and `Omit<T, K>`.
 - See also: [TypeScript → Module Types & Declaration Files](#/codex/typescript-module-types-and-declaration-files) for using these patterns in `.d.ts` files.
+
+## Sources
+
+- [TypeScript Handbook — Conditional Types](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)
+- [TypeScript Handbook — Mapped Types](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html)
+- [TypeScript Handbook — Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)

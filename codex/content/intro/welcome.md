@@ -27,3 +27,16 @@ Every entry answers three questions: what is the mechanism, when does it break, 
 ---
 
 When you find something wrong or missing, the source of truth is the `apps/codex/public/content/` directory in the Atlantis monorepo. Corrections welcome.
+
+## Related
+
+- See also: [Foundations → Event Loop](#/codex/foundations-event-loop) — start here for core JS concepts.
+- See also: [React → Hooks Rules and Mental Model](#/codex/react-hooks-rules-and-mental-model)
+- See also: [Performance → Core Web Vitals](#/codex/performance-core-web-vitals)
+
+## Sources
+
+- [MDN — Web Docs](https://developer.mozilla.org/en-US/)
+- [web.dev — Learn](https://web.dev/learn)
+- [React docs](https://react.dev)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)

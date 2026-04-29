@@ -158,3 +158,9 @@ React DevTools also flags the issue: if you see "Invalid hook call" in a compone
 
 - See also: Module Federation → Fundamentals for the base configuration that singletons build on.
 - See also: Bundlers → Webpack Architecture for how the module graph is constructed before MF runs.
+
+## Sources
+
+- [Webpack docs — Module Federation — Shared modules](https://webpack.js.org/plugins/module-federation-plugin/#shared)
+- [Module Federation docs — Sharing dependencies](https://module-federation.io/guide/concept/share.html)
+- [Zack Jackson — Sharing modules](https://scriptedalchemy.medium.com/module-federation-advanced-api-inwebpack-5-0-0-beta-17-71cd4d42e534)

@@ -157,3 +157,10 @@ If you're on Next.js 13+ App Router, you're already in RSC territory. The shift 
 
 - See also: [React → Concurrent Rendering & Suspense](#/codex/react-concurrent-rendering-and-suspense) for how streaming and Suspense boundaries work together.
 - See also: [Performance → Core Web Vitals](#/codex/performance-core-web-vitals) for how RSC affects LCP and INP metrics.
+
+## Sources
+
+- [React docs — Server Components](https://react.dev/reference/rsc/server-components)
+- [Next.js docs — Server and Client Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
+- [React blog — React Server Components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023)
+- [RFC — React Server Components](https://github.com/reactjs/rfcs/blob/main/text/0188-server-components.md)

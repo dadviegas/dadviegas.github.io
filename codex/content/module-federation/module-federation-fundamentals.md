@@ -155,3 +155,10 @@ If you put `createRoot` directly in `index.ts` (without the async bootstrap), Re
 - See also: Module Federation → Shared Singletons & Pitfalls for edge cases with lazy loading and version conflicts.
 - See also: Bundlers → Rspack Architecture for the `@module-federation/enhanced/rspack` variant.
 - See also: TypeScript → Module Types & Declaration Files for typing remote module imports.
+
+## Sources
+
+- [Webpack docs — Module Federation](https://webpack.js.org/concepts/module-federation/)
+- [Module Federation GitHub](https://github.com/module-federation/module-federation-examples)
+- [Zack Jackson — Webpack 5 Module Federation](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
+- [Rspack docs — Module Federation](https://rspack.dev/config/module-federation.html)

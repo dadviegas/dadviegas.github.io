@@ -98,3 +98,9 @@ const useIsomorphicLayoutEffect =
 
 - See also: [React → Hooks: Rules & Mental Model](#/codex/react-hooks-rules-and-mental-model) for the deps array contract.
 - See also: [Foundations → Browser Rendering Pipeline](#/codex/foundations-browser-rendering-pipeline) for the paint step in context.
+
+## Sources
+
+- [React docs — useEffect](https://react.dev/reference/react/useEffect)
+- [React docs — useLayoutEffect](https://react.dev/reference/react/useLayoutEffect)
+- [React docs — useInsertionEffect](https://react.dev/reference/react/useInsertionEffect)

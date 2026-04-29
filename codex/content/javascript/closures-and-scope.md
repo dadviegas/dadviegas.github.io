@@ -99,3 +99,9 @@ And in bundler configurations that need to wrap code in a self-contained scope t
 
 - See also: [JavaScript → Promises & async/await](#/codex/javascript-promises-and-async-await) for how closures interact with microtask timing.
 - See also: [React → Hooks: Rules & Mental Model](#/codex/react-hooks-rules-and-mental-model) for closures over state in hooks.
+
+## Sources
+
+- [MDN — Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- [MDN — var, let, const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+- [You Don't Know JS — Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)

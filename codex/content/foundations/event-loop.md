@@ -89,7 +89,34 @@ async function processLargeDataset(items: DataRow[]) {
 }
 ```
 
+## The loop visualised
+
+```mermaid
+sequenceDiagram
+    participant CS as Call Stack
+    participant MT as Microtask Queue
+    participant MQ as Macrotask Queue
+    participant RS as Render Step
+
+    CS->>CS: Execute synchronous code
+    CS->>MT: Promise.resolve().then(...)
+    CS->>MQ: setTimeout(..., 0)
+    Note over CS: Call stack empties
+    loop Drain all microtasks
+        MT->>CS: microtask callback
+    end
+    CS->>RS: Browser render (if frame due)
+    MQ->>CS: Pop one macrotask
+```
+
 ## Related
 
 - See also: [Performance → INP & Input Latency](#/codex/performance-inp-and-input-latency) for `scheduler.yield` and long task budgets.
 - See also: [React → Concurrent Rendering & Suspense](#/codex/react-concurrent-rendering-and-suspense) for how React 18 uses this to interleave rendering with user input.
+
+## Sources
+
+- [MDN — Event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
+- [HTML Living Standard — Event loop processing model](https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model)
+- [Jake Archibald — Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+- [MDN — `queueMicrotask()`](https://developer.mozilla.org/en-US/docs/Web/API/queueMicrotask)

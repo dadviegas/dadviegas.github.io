@@ -139,3 +139,10 @@ startTransition(() => { setResults(compute(query)); });
 
 - See also: [React → Hooks: Rules & Mental Model](#/codex/react-hooks-rules-and-mental-model) for how effects interact with transitions.
 - See also: [Performance → Core Web Vitals](#/codex/performance-core-web-vitals) for how concurrent features improve INP.
+
+## Sources
+
+- [React docs — Suspense](https://react.dev/reference/react/Suspense)
+- [React docs — startTransition](https://react.dev/reference/react/startTransition)
+- [React blog — React 18 concurrent features](https://react.dev/blog/2022/03/29/react-v18)
+- [React docs — useDeferredValue](https://react.dev/reference/react/useDeferredValue)

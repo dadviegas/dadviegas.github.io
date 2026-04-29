@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-8a11599",
+      "requiredVersion": "1.0.0-163736c",
       "shareScope": "default",
-      "version": "1.0.0-8a11599",
+      "version": "1.0.0-163736c",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "finance:@atlantis/bll",
@@ -42,7 +42,7 @@
             "886.57846b31db4620fb.js"
           ],
           "sync": [
-            "708.192d2d24e12684cd.js"
+            "708.9ce86e1a071934c0.js"
           ]
         },
         "css": {
@@ -56,9 +56,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-8a11599",
+      "requiredVersion": "1.0.0-163736c",
       "shareScope": "default",
-      "version": "1.0.0-8a11599",
+      "version": "1.0.0-163736c",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "finance:@atlantis/dal",
@@ -98,9 +98,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -125,9 +123,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     },
     {
       "singleton": true,
@@ -183,8 +179,6 @@
       "id": "finance:App",
       "name": "App",
       "requires": [
-        "@emotion/styled",
-        "@emotion/react",
         "@atlantis/bll"
       ],
       "file": "src/App",
@@ -192,9 +186,9 @@
         "js": {
           "sync": [
             "102.045846d2225bcf1b.js",
-            "4.3d2ab8cf4e55f712.js",
-            "987.da3ab320582104f9.js",
-            "__federation_expose_App.72f8a09e371438a3.js"
+            "4.270c21152a851edc.js",
+            "987.35b08b8f3e96eb0f.js",
+            "__federation_expose_App.a25f9b4d772cda0a.js"
           ],
           "async": [
             "336.1bf42480758ff9cc.js",
@@ -202,18 +196,18 @@
             "214.018c8972e877552e.js",
             "555.af6007371fa9af9f.js",
             "886.57846b31db4620fb.js",
-            "708.192d2d24e12684cd.js",
+            "708.9ce86e1a071934c0.js",
             "44.5ebafd704fecce4e.js",
-            "957.3619ec3e73d2477e.js",
-            "45.6aec6708ffc59bac.js",
-            "390.c559b1af5f696caf.js",
-            "392.3bbc18582d45cf4f.js",
-            "566.b33bbd25a55cf484.js",
-            "773.a1a5f4d438662137.js",
-            "923.5e34a327ca859f03.js",
-            "346.58532b964920c0dc.js",
-            "693.d67d5a2f07b6ec95.js",
-            "545.233a5605754dea8e.js"
+            "957.e76521772ec84d02.js",
+            "45.9c8b7c3eccf63b0e.js",
+            "390.849019c0aa44bda4.js",
+            "392.b776570a4d8de2c4.js",
+            "566.4d5dba25c5a3893f.js",
+            "773.6b8a0254b604f551.js",
+            "923.df29d6e48e199b4a.js",
+            "346.f700f1abb0baa8c4.js",
+            "693.b3725994c8f7229f.js",
+            "545.01d4aab72584fddc.js"
           ]
         },
         "css": {

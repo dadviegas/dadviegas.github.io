@@ -185,3 +185,10 @@ CSS Subgrid (now widely supported) lets a grid item's children align to the pare
 
 - See also: [CSS → Container Queries](#/codex/css-container-queries) for grid layouts that respond to component size rather than viewport.
 - See also: [CSS → Logical Properties & i18n](#/codex/css-logical-properties-and-i18n) for writing direction-aware flex/grid properties.
+
+## Sources
+
+- [MDN — Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- [MDN — Grid Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+- [web.dev — Learn CSS Grid](https://web.dev/learn/css/grid)
+- [CSS Tricks — Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)

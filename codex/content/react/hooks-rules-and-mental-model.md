@@ -114,3 +114,10 @@ useEffect(() => {
 
 - See also: [React → useEffect vs useLayoutEffect](#/codex/react-useeffect-vs-uselayouteffect) for the timing distinction.
 - See also: [React → Memoization: When & Why](#/codex/react-memoization-when-and-why) for `useCallback` and `useMemo` in the context of deps arrays.
+
+## Sources
+
+- [React docs — Rules of Hooks](https://react.dev/reference/rules/rules-of-hooks)
+- [React docs — useState](https://react.dev/reference/react/useState)
+- [React docs — useEffect](https://react.dev/reference/react/useEffect)
+- [Dan Abramov — A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)

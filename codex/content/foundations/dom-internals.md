@@ -117,3 +117,10 @@ Clean up on teardown: `observer.disconnect()`.
 
 - See also: [Foundations → Browser Rendering Pipeline](#/codex/foundations-browser-rendering-pipeline) for the full layout → paint → composite sequence.
 - See also: [Performance → Runtime Perf Profiling](#/codex/performance-runtime-perf-profiling) for identifying layout-heavy operations in a flame chart.
+
+## Sources
+
+- [MDN — Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- [MDN — `getBoundingClientRect()`](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
+- [web.dev — DOM size](https://developer.chrome.com/docs/lighthouse/performance/dom-size/)
+- [MDN — MutationObserver](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)

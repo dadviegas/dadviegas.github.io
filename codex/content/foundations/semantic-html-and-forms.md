@@ -110,3 +110,10 @@ To reset a file input after upload: the only reliable way is to set `key` to for
 
 - See also: [Accessibility → WCAG Essentials](#/codex/accessibility-wcag-essentials) for focus management requirements.
 - See also: [Accessibility → ARIA Patterns & Anti-Patterns](#/codex/accessibility-aria-patterns-and-anti-patterns) for when to add `role` vs relying on native semantics.
+
+## Sources
+
+- [MDN — HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [W3C — HTML5 Accessibility](https://www.w3.org/TR/html-aria/)
+- [MDN — The HTML form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+- [web.dev — Learn Forms](https://web.dev/learn/forms/)

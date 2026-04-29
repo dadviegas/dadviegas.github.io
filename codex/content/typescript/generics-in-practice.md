@@ -128,3 +128,8 @@ function Select<T>({ options, value, onChange, getLabel, getValue }: SelectProps
 
 - See also: [TypeScript → Conditional & Mapped Types](#/codex/typescript-conditional-and-mapped-types) for `Omit`, `Pick`, `Record`, and custom mapped types.
 - See also: [TypeScript → Narrowing & Control Flow](#/codex/typescript-narrowing-and-control-flow) for narrowing inside generic functions.
+
+## Sources
+
+- [TypeScript Handbook — Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)
+- [TypeScript Handbook — Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html)

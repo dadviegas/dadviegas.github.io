@@ -125,3 +125,8 @@ Inside a `Promise.then()` callback, TypeScript may not narrow variables captured
 
 - See also: [TypeScript → Generics in Practice](#/codex/typescript-generics-in-practice) for narrowing within generic functions.
 - See also: [TypeScript → Conditional & Mapped Types](#/codex/typescript-conditional-and-mapped-types) for type-level conditional logic.
+
+## Sources
+
+- [TypeScript Handbook — Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html)
+- [TypeScript Handbook — Type guards and differentiating types](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates)

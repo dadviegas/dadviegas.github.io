@@ -106,3 +106,9 @@ The fix is to use factory/hydration functions that reconstruct class instances f
 
 - See also: [JavaScript → this Binding](#/codex/javascript-this-binding) for how `this` resolves in methods and callbacks.
 - See also: [TypeScript → Narrowing & Control Flow](#/codex/typescript-narrowing-and-control-flow) for type-safe alternatives to `instanceof`.
+
+## Sources
+
+- [MDN — Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- [MDN — Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [V8 blog — JavaScript class fields](https://v8.dev/features/class-fields)

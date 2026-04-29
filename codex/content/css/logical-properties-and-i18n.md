@@ -125,3 +125,10 @@ The fastest test: add `dir="rtl"` to your `<html>` element and inspect the layou
 
 - See also: [CSS → Flexbox vs Grid](#/codex/css-flexbox-vs-grid) — flex properties like `justify-content: flex-start` are already logical in LTR context; `margin-inline: auto` is the RTL-safe equivalent of centering.
 - See also: [CSS → Custom Properties & Theming](#/codex/css-custom-properties-and-theming) for composing RTL-aware design tokens.
+
+## Sources
+
+- [MDN — CSS logical properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values)
+- [MDN — direction](https://developer.mozilla.org/en-US/docs/Web/CSS/direction)
+- [web.dev — Logical properties](https://web.dev/articles/logical-property-shorthands)
+- [MDN — writing-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode)

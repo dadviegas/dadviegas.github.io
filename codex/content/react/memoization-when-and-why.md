@@ -137,3 +137,10 @@ This avoids threading memoized values through the tree at the cost of one filter
 - See also: [React → Hooks: Rules & Mental Model](#/codex/react-hooks-rules-and-mental-model) for the deps array contract.
 - See also: [React → Reconciliation & Keys](#/codex/react-reconciliation-and-keys) for how React decides whether to re-render.
 - See also: [Performance → Runtime Performance Profiling](#/codex/performance-runtime-perf-profiling) for measuring before you optimise.
+
+## Sources
+
+- [React docs — useMemo](https://react.dev/reference/react/useMemo)
+- [React docs — useCallback](https://react.dev/reference/react/useCallback)
+- [React docs — memo](https://react.dev/reference/react/memo)
+- [React docs — When not to use memo](https://react.dev/reference/react/memo#should-you-add-memo-everywhere)

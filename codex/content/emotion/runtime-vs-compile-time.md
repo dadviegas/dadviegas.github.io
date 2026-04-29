@@ -133,3 +133,9 @@ The `css` prop requires either the JSX pragma (`/** @jsxImportSource @emotion/re
 
 - See also: [Emotion → The Babel Plugin](#/codex/emotion-babel-plugin) for a deeper look at component selectors and SSR stability.
 - See also: [Bundlers → Module Federation](#/codex/module-federation-fundamentals) for the constraint that disables component selectors in remotes.
+
+## Sources
+
+- [Emotion docs — Introduction](https://emotion.sh/docs/introduction)
+- [Emotion docs — Babel plugin](https://emotion.sh/docs/babel)
+- [Emotion GitHub — @emotion/babel-plugin](https://github.com/emotion-js/emotion/tree/main/packages/babel-plugin)

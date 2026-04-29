@@ -151,3 +151,10 @@ Container queries have been in all major browsers since 2023. For older targets,
 
 - See also: [CSS → Flexbox vs Grid](#/codex/css-flexbox-vs-grid) for the layout systems container queries control.
 - See also: [CSS → Custom Properties & Theming](#/codex/css-custom-properties-and-theming) for token-driven responsive values inside container contexts.
+
+## Sources
+
+- [MDN — Container queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries)
+- [MDN — @container](https://developer.mozilla.org/en-US/docs/Web/CSS/@container)
+- [web.dev — Container queries](https://web.dev/articles/container-queries)
+- [web.dev — Container query units](https://web.dev/articles/cq-units)

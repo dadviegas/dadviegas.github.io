@@ -135,3 +135,10 @@ Inline styles have specificity `(1,0,0,0)` — above all stylesheet rules but be
 
 - See also: [CSS → Custom Properties & Theming](#/codex/css-custom-properties-and-theming) for using cascade layers with design tokens.
 - See also: [Emotion → Runtime vs Compile-time](#/codex/emotion-runtime-vs-compile-time) for how CSS-in-JS interacts with specificity.
+
+## Sources
+
+- [MDN — Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+- [MDN — @layer](https://developer.mozilla.org/en-US/docs/Web/CSS/@layer)
+- [MDN — Cascade, specificity, and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
+- [web.dev — Cascade layers](https://web.dev/articles/cascade-layers)

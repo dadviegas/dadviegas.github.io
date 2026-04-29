@@ -124,3 +124,10 @@ Use arrays when:
 
 - See also: [JavaScript → Promises & async/await](#/codex/javascript-promises-and-async-await) for async/await semantics underlying async generators.
 - See also: [State → Data Fetching as State](#/codex/state-data-fetching-as-state) for how streaming APIs integrate with React.
+
+## Sources
+
+- [MDN — Iteration protocols](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols)
+- [MDN — function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
+- [MDN — for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+- [V8 blog — ES2018: async iteration](https://v8.dev/features/async-iteration)

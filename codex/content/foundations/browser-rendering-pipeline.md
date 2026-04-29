@@ -82,3 +82,25 @@ Everything scheduled inside a single `rAF` callback runs before the next paint. 
 
 - See also: [Foundations → DOM Internals](#/codex/foundations-dom-internals) for `getBoundingClientRect` costs in more detail.
 - See also: [Performance → Runtime Perf Profiling](#/codex/performance-runtime-perf-profiling) for reading flame charts to confirm which stages are triggering.
+
+```mermaid
+flowchart LR
+    A[HTML Parser\nBuilds DOM] --> B[CSS Parser\nBuilds CSSOM]
+    B --> C[Render Tree\nStyle Calculation]
+    C --> D[Layout\nReflow]
+    D --> E[Paint\nLayers]
+    E --> F[Composite\nGPU]
+
+    subgraph "Compositor Thread (cheap)"
+      G[transform / opacity]
+    end
+
+    F --> G
+```
+
+## Sources
+
+- [web.dev — Rendering Performance](https://web.dev/articles/rendering-performance)
+- [Chrome Developers — Inside look at modern web browser (part 3)](https://developer.chrome.com/blog/inside-browser-part3)
+- [MDN — How browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+- [MDN — `will-change`](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)

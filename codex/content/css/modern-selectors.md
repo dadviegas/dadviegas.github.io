@@ -137,3 +137,10 @@ tr:not(:first-child):has(td.warning):hover {
 
 - See also: [CSS → Specificity & Cascade Layers](#/codex/css-specificity-and-cascade-layers) for how `:is()` and `:where()` affect specificity calculations.
 - See also: [Accessibility → ARIA Patterns](#/codex/accessibility-aria-patterns-and-anti-patterns) for accessible keyboard navigation patterns that `:focus-visible` supports.
+
+## Sources
+
+- [MDN — :is()](https://developer.mozilla.org/en-US/docs/Web/CSS/:is)
+- [MDN — :where()](https://developer.mozilla.org/en-US/docs/Web/CSS/:where)
+- [MDN — :has()](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
+- [web.dev — New CSS selectors](https://web.dev/articles/css-is-where-has)

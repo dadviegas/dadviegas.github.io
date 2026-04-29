@@ -190,3 +190,9 @@ function Layout({ children }: { children: React.ReactNode }) {
 
 - See also: [Emotion → Runtime vs Compile-time](#/codex/emotion-runtime-vs-compile-time) for how theme interpolations are processed.
 - See also: [CSS → Custom Properties & Theming](#/codex/css-custom-properties-and-theming) for the CSS-native token layer.
+
+## Sources
+
+- [Emotion docs — Theming](https://emotion.sh/docs/theming)
+- [Emotion docs — ThemeProvider](https://emotion.sh/docs/emotion-theming)
+- [Emotion docs — CSS Variables](https://emotion.sh/docs/css-variables)

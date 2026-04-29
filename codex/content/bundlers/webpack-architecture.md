@@ -181,3 +181,10 @@ module.exports = createConfig({ name: 'myapp', port: 3001, exposes: { './App': '
 - See also: [Bundlers → Rspack Architecture](#/codex/bundlers-rspack-architecture) for the Rust-based Webpack-compatible alternative.
 - See also: [Bundlers → Tree Shaking](#/codex/bundlers-tree-shaking-and-side-effects) for how the module graph enables dead code elimination.
 - See also: [Module Federation → Fundamentals](#/codex/module-federation-fundamentals) for the Module Federation plugin that enables multi-app architectures.
+
+## Sources
+
+- [Webpack docs — Concepts](https://webpack.js.org/concepts/)
+- [Webpack docs — Configuration](https://webpack.js.org/configuration/)
+- [Webpack docs — Loaders](https://webpack.js.org/loaders/)
+- [Webpack docs — Plugins](https://webpack.js.org/plugins/)

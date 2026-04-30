@@ -28,9 +28,9 @@
     {
       "id": "shell:@atlantis/bll",
       "name": "@atlantis/bll",
-      "version": "1.0.0-8c12a6d",
+      "version": "1.0.0-c49f030",
       "singleton": true,
-      "requiredVersion": "1.0.0-8c12a6d",
+      "requiredVersion": "1.0.0-c49f030",
       "assets": {
         "js": {
           "async": [
@@ -40,7 +40,7 @@
             "5886.66bccc372518ac6c.js"
           ],
           "sync": [
-            "1077.545bea5ea1b21188.js"
+            "1077.e6a99a2b2c5768b4.js"
           ]
         },
         "css": {
@@ -52,9 +52,9 @@
     {
       "id": "shell:@atlantis/dal",
       "name": "@atlantis/dal",
-      "version": "1.0.0-8c12a6d",
+      "version": "1.0.0-c49f030",
       "singleton": true,
-      "requiredVersion": "1.0.0-8c12a6d",
+      "requiredVersion": "1.0.0-c49f030",
       "assets": {
         "js": {
           "async": [],
@@ -157,373 +157,373 @@
       "federationContainerName": "codex",
       "moduleName": "manifest",
       "alias": "codex",
-      "entry": "/codex/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/codex/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "lumen",
       "moduleName": "manifest",
       "alias": "lumen",
-      "entry": "/lumen/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/lumen/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "markdown",
       "moduleName": "manifest",
       "alias": "markdown",
-      "entry": "/markdown/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/markdown/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "school",
       "moduleName": "manifest",
       "alias": "school",
-      "entry": "/school/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/school/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "earth",
       "moduleName": "manifest",
       "alias": "earth",
-      "entry": "/earth/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/earth/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "cosmos",
       "moduleName": "manifest",
       "alias": "cosmos",
-      "entry": "/cosmos/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/cosmos/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "techscope",
       "moduleName": "manifest",
       "alias": "techscope",
-      "entry": "/techscope/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/techscope/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "citypulse",
       "moduleName": "manifest",
       "alias": "citypulse",
-      "entry": "/citypulse/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/citypulse/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "stockpulse",
       "moduleName": "manifest",
       "alias": "stockpulse",
-      "entry": "/stockpulse/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/stockpulse/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "csvexplorer",
       "moduleName": "manifest",
       "alias": "csvexplorer",
-      "entry": "/csvexplorer/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/csvexplorer/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "chartbuilder",
       "moduleName": "manifest",
       "alias": "chartbuilder",
-      "entry": "/chartbuilder/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/chartbuilder/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "pad",
       "moduleName": "manifest",
       "alias": "pad",
-      "entry": "/pad/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/pad/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "regexlab",
       "moduleName": "manifest",
       "alias": "regexlab",
-      "entry": "/regexlab/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/regexlab/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "jsonexplorer",
       "moduleName": "manifest",
       "alias": "jsonexplorer",
-      "entry": "/jsonexplorer/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/jsonexplorer/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "codediff",
       "moduleName": "manifest",
       "alias": "codediff",
-      "entry": "/codediff/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/codediff/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "playground",
       "moduleName": "manifest",
       "alias": "playground",
-      "entry": "/playground/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/playground/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "jwtinspector",
       "moduleName": "manifest",
       "alias": "jwtinspector",
-      "entry": "/jwtinspector/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/jwtinspector/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "colorlab",
       "moduleName": "manifest",
       "alias": "colorlab",
-      "entry": "/colorlab/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/colorlab/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "cronbuilder",
       "moduleName": "manifest",
       "alias": "cronbuilder",
-      "entry": "/cronbuilder/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/cronbuilder/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "weather",
       "moduleName": "manifest",
       "alias": "weather",
-      "entry": "/weather/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/weather/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "apiexplorer",
       "moduleName": "manifest",
       "alias": "apiexplorer",
-      "entry": "/apiexplorer/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/apiexplorer/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "movies",
       "moduleName": "manifest",
       "alias": "movies",
-      "entry": "/movies/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/movies/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "promptlab",
       "moduleName": "manifest",
       "alias": "promptlab",
-      "entry": "/promptlab/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/promptlab/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "imagegen",
       "moduleName": "manifest",
       "alias": "imagegen",
-      "entry": "/imagegen/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/imagegen/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "daily",
       "moduleName": "manifest",
       "alias": "daily",
-      "entry": "/daily/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/daily/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "games",
       "moduleName": "manifest",
       "alias": "games",
-      "entry": "/games/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/games/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "ask",
       "moduleName": "manifest",
       "alias": "ask",
-      "entry": "/ask/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/ask/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "finance",
       "moduleName": "manifest",
       "alias": "finance",
-      "entry": "/finance/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/finance/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "youtube",
       "moduleName": "manifest",
       "alias": "youtube",
-      "entry": "/youtube/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/youtube/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "music",
       "moduleName": "manifest",
       "alias": "music",
-      "entry": "/music/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/music/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "forma",
       "moduleName": "manifest",
       "alias": "forma",
-      "entry": "/forma/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/forma/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "codex",
       "moduleName": "App",
       "alias": "codex",
-      "entry": "/codex/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/codex/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "markdown",
       "moduleName": "App",
       "alias": "markdown",
-      "entry": "/markdown/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/markdown/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "earth",
       "moduleName": "App",
       "alias": "earth",
-      "entry": "/earth/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/earth/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "techscope",
       "moduleName": "App",
       "alias": "techscope",
-      "entry": "/techscope/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/techscope/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "citypulse",
       "moduleName": "App",
       "alias": "citypulse",
-      "entry": "/citypulse/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/citypulse/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "cosmos",
       "moduleName": "App",
       "alias": "cosmos",
-      "entry": "/cosmos/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/cosmos/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "stockpulse",
       "moduleName": "App",
       "alias": "stockpulse",
-      "entry": "/stockpulse/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/stockpulse/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "pad",
       "moduleName": "App",
       "alias": "pad",
-      "entry": "/pad/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/pad/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "regexlab",
       "moduleName": "App",
       "alias": "regexlab",
-      "entry": "/regexlab/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/regexlab/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "jsonexplorer",
       "moduleName": "App",
       "alias": "jsonexplorer",
-      "entry": "/jsonexplorer/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/jsonexplorer/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "codediff",
       "moduleName": "App",
       "alias": "codediff",
-      "entry": "/codediff/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/codediff/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "playground",
       "moduleName": "App",
       "alias": "playground",
-      "entry": "/playground/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/playground/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "jwtinspector",
       "moduleName": "App",
       "alias": "jwtinspector",
-      "entry": "/jwtinspector/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/jwtinspector/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "colorlab",
       "moduleName": "App",
       "alias": "colorlab",
-      "entry": "/colorlab/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/colorlab/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "cronbuilder",
       "moduleName": "App",
       "alias": "cronbuilder",
-      "entry": "/cronbuilder/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/cronbuilder/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "csvexplorer",
       "moduleName": "App",
       "alias": "csvexplorer",
-      "entry": "/csvexplorer/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/csvexplorer/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "chartbuilder",
       "moduleName": "App",
       "alias": "chartbuilder",
-      "entry": "/chartbuilder/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/chartbuilder/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "school",
       "moduleName": "App",
       "alias": "school",
-      "entry": "/school/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/school/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "weather",
       "moduleName": "App",
       "alias": "weather",
-      "entry": "/weather/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/weather/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "apiexplorer",
       "moduleName": "App",
       "alias": "apiexplorer",
-      "entry": "/apiexplorer/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/apiexplorer/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "movies",
       "moduleName": "App",
       "alias": "movies",
-      "entry": "/movies/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/movies/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "promptlab",
       "moduleName": "App",
       "alias": "promptlab",
-      "entry": "/promptlab/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/promptlab/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "imagegen",
       "moduleName": "App",
       "alias": "imagegen",
-      "entry": "/imagegen/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/imagegen/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "games",
       "moduleName": "App",
       "alias": "games",
-      "entry": "/games/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/games/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "daily",
       "moduleName": "App",
       "alias": "daily",
-      "entry": "/daily/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/daily/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "ask",
       "moduleName": "App",
       "alias": "ask",
-      "entry": "/ask/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/ask/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "finance",
       "moduleName": "App",
       "alias": "finance",
-      "entry": "/finance/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/finance/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "youtube",
       "moduleName": "App",
       "alias": "youtube",
-      "entry": "/youtube/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/youtube/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "music",
       "moduleName": "App",
       "alias": "music",
-      "entry": "/music/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/music/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "forma",
       "moduleName": "App",
       "alias": "forma",
-      "entry": "/forma/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/forma/remoteEntry.js?v=1.0.0-c49f030"
     },
     {
       "federationContainerName": "lumen",
       "moduleName": "App",
       "alias": "lumen",
-      "entry": "/lumen/remoteEntry.js?v=1.0.0-8c12a6d"
+      "entry": "/lumen/remoteEntry.js?v=1.0.0-c49f030"
     }
   ],
   "exposes": []

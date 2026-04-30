@@ -27,9 +27,9 @@
   "shared": [
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-8c12a6d",
+      "requiredVersion": "1.0.0-c49f030",
       "shareScope": "default",
-      "version": "1.0.0-8c12a6d",
+      "version": "1.0.0-c49f030",
       "name": "@atlantis/bll",
       "eager": false,
       "id": "techscope:@atlantis/bll",
@@ -42,7 +42,7 @@
             "886.30cc4ee22502d57d.js"
           ],
           "sync": [
-            "204.cd454422f5cf4c16.js"
+            "204.6ec3b92c68c81ec5.js"
           ]
         },
         "css": {
@@ -54,9 +54,9 @@
     },
     {
       "singleton": true,
-      "requiredVersion": "1.0.0-8c12a6d",
+      "requiredVersion": "1.0.0-c49f030",
       "shareScope": "default",
-      "version": "1.0.0-8c12a6d",
+      "version": "1.0.0-c49f030",
       "name": "@atlantis/dal",
       "eager": false,
       "id": "techscope:@atlantis/dal",
@@ -167,9 +167,7 @@
           "sync": []
         }
       },
-      "usedIn": [
-        "./App"
-      ]
+      "usedIn": []
     }
   ],
   "remotes": [],
@@ -178,16 +176,14 @@
       "path": "./App",
       "id": "techscope:App",
       "name": "App",
-      "requires": [
-        "react"
-      ],
+      "requires": [],
       "file": "src/App",
       "assets": {
         "js": {
           "sync": [
             "102.40e6ce820391eaa5.js",
-            "444.71cc3fa758ca8a39.js",
-            "467.8df62900c5ba0f79.js",
+            "444.cb342eeaef6b306b.js",
+            "467.3fe0efa27d68a245.js",
             "__federation_expose_App.b2c088566a2d0cda.js"
           ],
           "async": [
@@ -196,7 +192,7 @@
             "214.b0ec02e6088d4944.js",
             "555.e91d1b853b51c4e6.js",
             "886.30cc4ee22502d57d.js",
-            "204.cd454422f5cf4c16.js"
+            "204.6ec3b92c68c81ec5.js"
           ]
         },
         "css": {
